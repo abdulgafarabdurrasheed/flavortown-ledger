@@ -1,0 +1,12 @@
+{
+  "name": "flavortown-ledger",
+  "version": "1.0.0",
+  "description": "Public ledger for Flavortown cookies",
+  "main": "fetch-ledger.js",
+  "scripts": {
+    "start": "node fetch-ledger.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

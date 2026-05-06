@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Flavortown Public Ledger</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>🍪 Flavortown Global Ledger</h1>
+      <p>A public tracker showing the total cookies earned and spent by the community.</p>
+    </header>
+
+    <div class="table-container">
+      <table id="ledger-table">
+        <thead>
+          <tr>
+            <th>Slack User ID</th>
+            <th class="sortable active" data-sort="earned">Total Earned ▼</th>
+            <th class="sortable" data-sort="spent">Total Spent</th>
+            <th class="sortable" data-sort="balance">Current Balance</th>
+          </tr>
+        </thead>
+        <tbody id="ledger-body">
+          <tr><td colspan="4" class="loading">Loading ledger data...</td></tr>
+        </tbody>
+      </table>
+    </div>
+
+    <footer>
+      <p>Data is updated automatically every hour from Slack.</p>
+    </footer>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
