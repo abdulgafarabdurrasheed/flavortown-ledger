@@ -1,4 +1,6563 @@
 {
-  "users": {},
-  "lastTs": "0"
+  "users": {
+    "U_STAGING_12": {
+      "id": "U_STAGING_12",
+      "earned": 7,
+      "spent": 5,
+      "balance": 8
+    },
+    "U07L45W79E1": {
+      "id": "U07L45W79E1",
+      "earned": 1004810,
+      "spent": 4872,
+      "balance": 0
+    },
+    "U091XKGS8SF": {
+      "id": "U091XKGS8SF",
+      "earned": 165,
+      "spent": 371,
+      "balance": 0
+    },
+    "U096RH312R4": {
+      "id": "U096RH312R4",
+      "earned": 22,
+      "spent": 32,
+      "balance": 0
+    },
+    "U0A042DKA31": {
+      "id": "U0A042DKA31",
+      "earned": 808,
+      "spent": 818,
+      "balance": 0
+    },
+    "U079E6V7R28": {
+      "id": "U079E6V7R28",
+      "earned": 4654,
+      "spent": 3742,
+      "balance": 922
+    },
+    "U0A4VHXNEBY": {
+      "id": "U0A4VHXNEBY",
+      "earned": 10,
+      "spent": 0,
+      "balance": 10
+    },
+    "U0A5NKH93BJ": {
+      "id": "U0A5NKH93BJ",
+      "earned": 2,
+      "spent": 20,
+      "balance": 2
+    },
+    "U08Q6HZ8NR5": {
+      "id": "U08Q6HZ8NR5",
+      "earned": 8,
+      "spent": 8,
+      "balance": 0
+    },
+    "U092DA495UY": {
+      "id": "U092DA495UY",
+      "earned": 242,
+      "spent": 10,
+      "balance": 242
+    },
+    "U092CJSNZNC": {
+      "id": "U092CJSNZNC",
+      "earned": 1408,
+      "spent": 865,
+      "balance": 543
+    },
+    "U07UV4R2G4T": {
+      "id": "U07UV4R2G4T",
+      "earned": 511,
+      "spent": 312,
+      "balance": 224
+    },
+    "U092FMXURQV": {
+      "id": "U092FMXURQV",
+      "earned": 149,
+      "spent": 0,
+      "balance": 149
+    },
+    "U084D1T5ZV0": {
+      "id": "U084D1T5ZV0",
+      "earned": 2775,
+      "spent": 2785,
+      "balance": 0
+    },
+    "U07TY6SHYA3": {
+      "id": "U07TY6SHYA3",
+      "earned": 73,
+      "spent": 73,
+      "balance": 0
+    },
+    "U07B8BB7JQ7": {
+      "id": "U07B8BB7JQ7",
+      "earned": 2559,
+      "spent": 2559,
+      "balance": 0
+    },
+    "U0A0G70UTAS": {
+      "id": "U0A0G70UTAS",
+      "earned": 10,
+      "spent": 0,
+      "balance": 10
+    },
+    "U0A54QW4ZLN": {
+      "id": "U0A54QW4ZLN",
+      "earned": 5,
+      "spent": 10,
+      "balance": 5
+    },
+    "U0A2JD33NFR": {
+      "id": "U0A2JD33NFR",
+      "earned": 19,
+      "spent": 0,
+      "balance": 29
+    },
+    "U08RJ1PEM7X": {
+      "id": "U08RJ1PEM7X",
+      "earned": 5014,
+      "spent": 5073,
+      "balance": 4
+    },
+    "U099SS7HM0V": {
+      "id": "U099SS7HM0V",
+      "earned": 15,
+      "spent": 20,
+      "balance": 0
+    },
+    "U091P5G68CA": {
+      "id": "U091P5G68CA",
+      "earned": 35,
+      "spent": 0,
+      "balance": 45
+    },
+    "U09GGK1JTC4": {
+      "id": "U09GGK1JTC4",
+      "earned": 25,
+      "spent": 40,
+      "balance": 3
+    },
+    "U081T49KRUP": {
+      "id": "U081T49KRUP",
+      "earned": 5,
+      "spent": 10,
+      "balance": 0
+    },
+    "U09JBJ0FW0P": {
+      "id": "U09JBJ0FW0P",
+      "earned": 3238,
+      "spent": 3238,
+      "balance": 0
+    },
+    "U09D27K9XU5": {
+      "id": "U09D27K9XU5",
+      "earned": 10,
+      "spent": 10,
+      "balance": 0
+    },
+    "U0A0XP8KN4Q": {
+      "id": "U0A0XP8KN4Q",
+      "earned": 20,
+      "spent": 10,
+      "balance": 10
+    },
+    "U088SJQAM35": {
+      "id": "U088SJQAM35",
+      "earned": 78,
+      "spent": 86,
+      "balance": 2
+    },
+    "U0A5BRT5VNG": {
+      "id": "U0A5BRT5VNG",
+      "earned": 10,
+      "spent": 20,
+      "balance": 0
+    },
+    "U08S62VB6AJ": {
+      "id": "U08S62VB6AJ",
+      "earned": 10,
+      "spent": 0,
+      "balance": 10
+    },
+    "U074K2VPP62": {
+      "id": "U074K2VPP62",
+      "earned": 420,
+      "spent": 10,
+      "balance": 430
+    },
+    "U0924EUNNUR": {
+      "id": "U0924EUNNUR",
+      "earned": 20,
+      "spent": 10,
+      "balance": 10
+    },
+    "U09H4M0523Z": {
+      "id": "U09H4M0523Z",
+      "earned": 18,
+      "spent": 20,
+      "balance": 8
+    },
+    "U092HLFD2DQ": {
+      "id": "U092HLFD2DQ",
+      "earned": 40,
+      "spent": 10,
+      "balance": 53
+    },
+    "U09PHG7RLGG": {
+      "id": "U09PHG7RLGG",
+      "earned": 989,
+      "spent": 994,
+      "balance": 5
+    },
+    "U0823J6HMTP": {
+      "id": "U0823J6HMTP",
+      "earned": 103,
+      "spent": 60,
+      "balance": 43
+    },
+    "U0A55A4B21K": {
+      "id": "U0A55A4B21K",
+      "earned": 494,
+      "spent": 0,
+      "balance": 504
+    },
+    "U09736L44JZ": {
+      "id": "U09736L44JZ",
+      "earned": 2274,
+      "spent": 2274,
+      "balance": 0
+    },
+    "U092PSZJ2B0": {
+      "id": "U092PSZJ2B0",
+      "earned": 36,
+      "spent": 46,
+      "balance": 0
+    },
+    "U0A5GJ8JP5F": {
+      "id": "U0A5GJ8JP5F",
+      "earned": 2079,
+      "spent": 2070,
+      "balance": 9
+    },
+    "U099JENAUGP": {
+      "id": "U099JENAUGP",
+      "earned": 1293,
+      "spent": 1308,
+      "balance": 0
+    },
+    "U088A4UDCAJ": {
+      "id": "U088A4UDCAJ",
+      "earned": 95,
+      "spent": 44,
+      "balance": 64
+    },
+    "U0A58CRBLKT": {
+      "id": "U0A58CRBLKT",
+      "earned": 131,
+      "spent": 140,
+      "balance": 1
+    },
+    "U0A1NME3EJD": {
+      "id": "U0A1NME3EJD",
+      "earned": 19452,
+      "spent": 19137,
+      "balance": 343
+    },
+    "U0A5HHX7YU9": {
+      "id": "U0A5HHX7YU9",
+      "earned": 5,
+      "spent": 0,
+      "balance": 10
+    },
+    "U08SS7SL9CZ": {
+      "id": "U08SS7SL9CZ",
+      "earned": 435,
+      "spent": 426,
+      "balance": 47
+    },
+    "U07DG1B3VHP": {
+      "id": "U07DG1B3VHP",
+      "earned": 1579,
+      "spent": 0,
+      "balance": 1599
+    },
+    "U0842GMRJKC": {
+      "id": "U0842GMRJKC",
+      "earned": 9337,
+      "spent": 5483,
+      "balance": 3880
+    },
+    "U091L1X1XBM": {
+      "id": "U091L1X1XBM",
+      "earned": 2,
+      "spent": 2,
+      "balance": 10
+    },
+    "U08RXPM98V7": {
+      "id": "U08RXPM98V7",
+      "earned": 5,
+      "spent": 0,
+      "balance": 10
+    },
+    "U07JEDAMFV3": {
+      "id": "U07JEDAMFV3",
+      "earned": 220,
+      "spent": 235,
+      "balance": 0
+    },
+    "U097N0AKR6Z": {
+      "id": "U097N0AKR6Z",
+      "earned": 1543,
+      "spent": 1566,
+      "balance": 0
+    },
+    "U093XFSQ344": {
+      "id": "U093XFSQ344",
+      "earned": 35,
+      "spent": 0,
+      "balance": 40
+    },
+    "U088Z65TDRN": {
+      "id": "U088Z65TDRN",
+      "earned": 33325,
+      "spent": 33341,
+      "balance": 9
+    },
+    "U0A4D1JPX2B": {
+      "id": "U0A4D1JPX2B",
+      "earned": 41,
+      "spent": 35,
+      "balance": 6
+    },
+    "U0A50RNST61": {
+      "id": "U0A50RNST61",
+      "earned": 67,
+      "spent": 80,
+      "balance": 0
+    },
+    "U08BK9UEC9Y": {
+      "id": "U08BK9UEC9Y",
+      "earned": 484,
+      "spent": 484,
+      "balance": 0
+    },
+    "U093U1MM8H4": {
+      "id": "U093U1MM8H4",
+      "earned": 6254,
+      "spent": 6173,
+      "balance": 353
+    },
+    "U08FQEADNT0": {
+      "id": "U08FQEADNT0",
+      "earned": 5653,
+      "spent": 5657,
+      "balance": 6
+    },
+    "U0A4UTULSLE": {
+      "id": "U0A4UTULSLE",
+      "earned": 4286,
+      "spent": 4010,
+      "balance": 276
+    },
+    "U0A56CA6YD9": {
+      "id": "U0A56CA6YD9",
+      "earned": 15,
+      "spent": 0,
+      "balance": 20
+    },
+    "U0825SVHFJL": {
+      "id": "U0825SVHFJL",
+      "earned": 4613,
+      "spent": 4751,
+      "balance": 21
+    },
+    "U0A5ALFTS6A": {
+      "id": "U0A5ALFTS6A",
+      "earned": 17,
+      "spent": 0,
+      "balance": 32
+    },
+    "U082UPTRQU8": {
+      "id": "U082UPTRQU8",
+      "earned": 2,
+      "spent": 11,
+      "balance": 1
+    },
+    "U05D9BJD4UC": {
+      "id": "U05D9BJD4UC",
+      "earned": 37,
+      "spent": 10,
+      "balance": 37
+    },
+    "U08V98JF7FY": {
+      "id": "U08V98JF7FY",
+      "earned": 10,
+      "spent": 0,
+      "balance": 10
+    },
+    "U08SF8MVC82": {
+      "id": "U08SF8MVC82",
+      "earned": 10,
+      "spent": 0,
+      "balance": 10
+    },
+    "U07PUNA0UQN": {
+      "id": "U07PUNA0UQN",
+      "earned": 12,
+      "spent": 0,
+      "balance": 12
+    },
+    "U092CKVRNBS": {
+      "id": "U092CKVRNBS",
+      "earned": 10,
+      "spent": 10,
+      "balance": 0
+    },
+    "U07A10XBMGQ": {
+      "id": "U07A10XBMGQ",
+      "earned": 6721,
+      "spent": 6749,
+      "balance": 0
+    },
+    "U0A5WME44L8": {
+      "id": "U0A5WME44L8",
+      "earned": 3333,
+      "spent": 3343,
+      "balance": 0
+    },
+    "U09M202NHU3": {
+      "id": "U09M202NHU3",
+      "earned": 70,
+      "spent": 80,
+      "balance": 0
+    },
+    "U0A51UNSNUV": {
+      "id": "U0A51UNSNUV",
+      "earned": 13,
+      "spent": 0,
+      "balance": 13
+    },
+    "U07G0C6JZME": {
+      "id": "U07G0C6JZME",
+      "earned": 27,
+      "spent": 0,
+      "balance": 27
+    },
+    "U07UGRYER5G": {
+      "id": "U07UGRYER5G",
+      "earned": 4196,
+      "spent": 4190,
+      "balance": 6
+    },
+    "U0A5HTUE2F3": {
+      "id": "U0A5HTUE2F3",
+      "earned": 293,
+      "spent": 293,
+      "balance": 0
+    },
+    "U0823L7CE83": {
+      "id": "U0823L7CE83",
+      "earned": 47,
+      "spent": 47,
+      "balance": 0
+    },
+    "U08D3AY7BG8": {
+      "id": "U08D3AY7BG8",
+      "earned": 3191,
+      "spent": 3150,
+      "balance": 41
+    },
+    "U086TNY7PE0": {
+      "id": "U086TNY7PE0",
+      "earned": 0,
+      "spent": 10,
+      "balance": 0
+    },
+    "U0A5C5B59S8": {
+      "id": "U0A5C5B59S8",
+      "earned": 42,
+      "spent": 47,
+      "balance": 0
+    },
+    "U08AT086H8E": {
+      "id": "U08AT086H8E",
+      "earned": 2297,
+      "spent": 2810,
+      "balance": 0
+    },
+    "U096QEL0W5U": {
+      "id": "U096QEL0W5U",
+      "earned": 3138,
+      "spent": 3020,
+      "balance": 118
+    },
+    "U0824382CPP": {
+      "id": "U0824382CPP",
+      "earned": 6531,
+      "spent": 6539,
+      "balance": 2
+    },
+    "U0A1NR7HKSN": {
+      "id": "U0A1NR7HKSN",
+      "earned": 32,
+      "spent": 10,
+      "balance": 32
+    },
+    "U092BCYVA67": {
+      "id": "U092BCYVA67",
+      "earned": 217,
+      "spent": 0,
+      "balance": 222
+    },
+    "U07GAHWEUG4": {
+      "id": "U07GAHWEUG4",
+      "earned": 10,
+      "spent": 10,
+      "balance": 10
+    },
+    "U0A56ULQYJ0": {
+      "id": "U0A56ULQYJ0",
+      "earned": 26,
+      "spent": 31,
+      "balance": 0
+    },
+    "U0A6DSNSV7A": {
+      "id": "U0A6DSNSV7A",
+      "earned": 1592,
+      "spent": 922,
+      "balance": 670
+    },
+    "U092C4M8VFA": {
+      "id": "U092C4M8VFA",
+      "earned": 291,
+      "spent": 1,
+      "balance": 290
+    },
+    "U0A4N2K2P8T": {
+      "id": "U0A4N2K2P8T",
+      "earned": 5129,
+      "spent": 2804,
+      "balance": 2325
+    },
+    "U0A60NZQCTA": {
+      "id": "U0A60NZQCTA",
+      "earned": 2282,
+      "spent": 2280,
+      "balance": 9
+    },
+    "U091P2H4ZHR": {
+      "id": "U091P2H4ZHR",
+      "earned": 60,
+      "spent": 0,
+      "balance": 60
+    },
+    "U08HX6D4DMG": {
+      "id": "U08HX6D4DMG",
+      "earned": 35,
+      "spent": 0,
+      "balance": 35
+    },
+    "U08LQFRBL6S": {
+      "id": "U08LQFRBL6S",
+      "earned": 0,
+      "spent": 10,
+      "balance": 0
+    },
+    "U0A4PL1DFUP": {
+      "id": "U0A4PL1DFUP",
+      "earned": 20,
+      "spent": 15,
+      "balance": 5
+    },
+    "U0857UWECTS": {
+      "id": "U0857UWECTS",
+      "earned": 5,
+      "spent": 0,
+      "balance": 15
+    },
+    "U07A0D5K3T2": {
+      "id": "U07A0D5K3T2",
+      "earned": 8171,
+      "spent": 8165,
+      "balance": 19
+    },
+    "U09S4K4C2BA": {
+      "id": "U09S4K4C2BA",
+      "earned": 114,
+      "spent": 76,
+      "balance": 38
+    },
+    "U092BR3Q1FX": {
+      "id": "U092BR3Q1FX",
+      "earned": 3605,
+      "spent": 3605,
+      "balance": 0
+    },
+    "U078Y4EG4PN": {
+      "id": "U078Y4EG4PN",
+      "earned": 12,
+      "spent": 18,
+      "balance": 4
+    },
+    "U096RMRG03G": {
+      "id": "U096RMRG03G",
+      "earned": 3049,
+      "spent": 2890,
+      "balance": 507
+    },
+    "U0A5G4ZEF27": {
+      "id": "U0A5G4ZEF27",
+      "earned": 5,
+      "spent": 0,
+      "balance": 5
+    },
+    "U093R4FFTB6": {
+      "id": "U093R4FFTB6",
+      "earned": 10,
+      "spent": 0,
+      "balance": 10
+    },
+    "U0A027LNB0X": {
+      "id": "U0A027LNB0X",
+      "earned": 10,
+      "spent": 10,
+      "balance": 10
+    },
+    "U08J9R1TUT1": {
+      "id": "U08J9R1TUT1",
+      "earned": 949,
+      "spent": 953,
+      "balance": 4
+    },
+    "U09N16WM1K2": {
+      "id": "U09N16WM1K2",
+      "earned": 78,
+      "spent": 0,
+      "balance": 88
+    },
+    "U07BMK9NSDB": {
+      "id": "U07BMK9NSDB",
+      "earned": 10,
+      "spent": 0,
+      "balance": 10
+    },
+    "U078EGNPWAZ": {
+      "id": "U078EGNPWAZ",
+      "earned": 23,
+      "spent": 20,
+      "balance": 3
+    },
+    "U0A19UWEN3G": {
+      "id": "U0A19UWEN3G",
+      "earned": 3492,
+      "spent": 3557,
+      "balance": 6
+    },
+    "U0A3VK4GFRN": {
+      "id": "U0A3VK4GFRN",
+      "earned": 490,
+      "spent": 490,
+      "balance": 0
+    },
+    "U078FT3823D": {
+      "id": "U078FT3823D",
+      "earned": 10,
+      "spent": 10,
+      "balance": 0
+    },
+    "U0957PC71DJ": {
+      "id": "U0957PC71DJ",
+      "earned": 10,
+      "spent": 0,
+      "balance": 10
+    },
+    "U0A5C1X6NSY": {
+      "id": "U0A5C1X6NSY",
+      "earned": 852,
+      "spent": 891,
+      "balance": 3
+    },
+    "U078VN0UU2K": {
+      "id": "U078VN0UU2K",
+      "earned": 368,
+      "spent": 398,
+      "balance": 0
+    },
+    "U09F6QRGD9T": {
+      "id": "U09F6QRGD9T",
+      "earned": 164,
+      "spent": 165,
+      "balance": 9
+    },
+    "U08D22QNUVD": {
+      "id": "U08D22QNUVD",
+      "earned": 1243,
+      "spent": 208,
+      "balance": 1045
+    },
+    "U0A4PKZKLF9": {
+      "id": "U0A4PKZKLF9",
+      "earned": 233,
+      "spent": 278,
+      "balance": 0
+    },
+    "U0A3ASF212B": {
+      "id": "U0A3ASF212B",
+      "earned": 4365,
+      "spent": 4365,
+      "balance": 0
+    },
+    "U08B60DCYG2": {
+      "id": "U08B60DCYG2",
+      "earned": 136,
+      "spent": 143,
+      "balance": 3
+    },
+    "U091HBJLQS2": {
+      "id": "U091HBJLQS2",
+      "earned": 59,
+      "spent": 62,
+      "balance": 2
+    },
+    "U0A6AQUNW00": {
+      "id": "U0A6AQUNW00",
+      "earned": 72,
+      "spent": 71,
+      "balance": 1
+    },
+    "U09A5QHUPPW": {
+      "id": "U09A5QHUPPW",
+      "earned": 404,
+      "spent": 414,
+      "balance": 0
+    },
+    "U0A504THMGW": {
+      "id": "U0A504THMGW",
+      "earned": 10,
+      "spent": 0,
+      "balance": 10
+    },
+    "U07F66JC92P": {
+      "id": "U07F66JC92P",
+      "earned": 10,
+      "spent": 0,
+      "balance": 10
+    },
+    "U07V73EEF42": {
+      "id": "U07V73EEF42",
+      "earned": 296,
+      "spent": 306,
+      "balance": 0
+    },
+    "U09DJMWTL07": {
+      "id": "U09DJMWTL07",
+      "earned": 3316,
+      "spent": 3316,
+      "balance": 5
+    },
+    "U0A5L7FPF28": {
+      "id": "U0A5L7FPF28",
+      "earned": 848,
+      "spent": 810,
+      "balance": 38
+    },
+    "U091Q3TGSS0": {
+      "id": "U091Q3TGSS0",
+      "earned": 2092,
+      "spent": 2175,
+      "balance": 0
+    },
+    "U073M5L9U13": {
+      "id": "U073M5L9U13",
+      "earned": 554,
+      "spent": 40,
+      "balance": 237
+    },
+    "U09JFS1BU2V": {
+      "id": "U09JFS1BU2V",
+      "earned": 340,
+      "spent": 320,
+      "balance": 0
+    },
+    "U091LN2KLF2": {
+      "id": "U091LN2KLF2",
+      "earned": 192,
+      "spent": 85,
+      "balance": 117
+    },
+    "U085L7P77EV": {
+      "id": "U085L7P77EV",
+      "earned": 48,
+      "spent": 60,
+      "balance": 3
+    },
+    "U07B27ZHEJU": {
+      "id": "U07B27ZHEJU",
+      "earned": 854,
+      "spent": 835,
+      "balance": 19
+    },
+    "U09H4EDADB9": {
+      "id": "U09H4EDADB9",
+      "earned": 23,
+      "spent": 0,
+      "balance": 33
+    },
+    "U0801PU0MTQ": {
+      "id": "U0801PU0MTQ",
+      "earned": 1950,
+      "spent": 1942,
+      "balance": 18
+    },
+    "U091KE59H5H": {
+      "id": "U091KE59H5H",
+      "earned": 274,
+      "spent": 284,
+      "balance": 0
+    },
+    "U091HG1TP6K": {
+      "id": "U091HG1TP6K",
+      "earned": 271,
+      "spent": 278,
+      "balance": 3
+    },
+    "U0A5AMU9R4L": {
+      "id": "U0A5AMU9R4L",
+      "earned": 74,
+      "spent": 70,
+      "balance": 4
+    },
+    "U06MC0G7A4R": {
+      "id": "U06MC0G7A4R",
+      "earned": 1281,
+      "spent": 1312,
+      "balance": 0
+    },
+    "U07F32C9LAJ": {
+      "id": "U07F32C9LAJ",
+      "earned": 1462,
+      "spent": 491,
+      "balance": 981
+    },
+    "U0A1CFT47K4": {
+      "id": "U0A1CFT47K4",
+      "earned": 22,
+      "spent": 0,
+      "balance": 22
+    },
+    "U09B3S7TZ4N": {
+      "id": "U09B3S7TZ4N",
+      "earned": 10,
+      "spent": 10,
+      "balance": 0
+    },
+    "U0A5DG6PZSP": {
+      "id": "U0A5DG6PZSP",
+      "earned": 10,
+      "spent": 0,
+      "balance": 10
+    },
+    "U082L0UTJ66": {
+      "id": "U082L0UTJ66",
+      "earned": 8808,
+      "spent": 8790,
+      "balance": 30
+    },
+    "U092HJQPGLT": {
+      "id": "U092HJQPGLT",
+      "earned": 44,
+      "spent": 10,
+      "balance": 52
+    },
+    "U0A1KGW04LE": {
+      "id": "U0A1KGW04LE",
+      "earned": 96,
+      "spent": 90,
+      "balance": 6
+    },
+    "U09D3NKRES1": {
+      "id": "U09D3NKRES1",
+      "earned": 7,
+      "spent": 0,
+      "balance": 12
+    },
+    "U08085HEAV8": {
+      "id": "U08085HEAV8",
+      "earned": 19,
+      "spent": 10,
+      "balance": 19
+    },
+    "U07ANFM6BDW": {
+      "id": "U07ANFM6BDW",
+      "earned": 468,
+      "spent": 40,
+      "balance": 438
+    },
+    "U0A5EMEKU3Z": {
+      "id": "U0A5EMEKU3Z",
+      "earned": 5345,
+      "spent": 5337,
+      "balance": 8
+    },
+    "U0997QRM51V": {
+      "id": "U0997QRM51V",
+      "earned": 4101,
+      "spent": 4111,
+      "balance": 0
+    },
+    "U07AFUXF8FR": {
+      "id": "U07AFUXF8FR",
+      "earned": 38,
+      "spent": 0,
+      "balance": 38
+    },
+    "U0A5DVA4Q4R": {
+      "id": "U0A5DVA4Q4R",
+      "earned": 12499,
+      "spent": 11702,
+      "balance": 14
+    },
+    "U09GD76N509": {
+      "id": "U09GD76N509",
+      "earned": 292,
+      "spent": 0,
+      "balance": 300
+    },
+    "U09TKL54J0P": {
+      "id": "U09TKL54J0P",
+      "earned": 2573,
+      "spent": 2604,
+      "balance": 0
+    },
+    "U080F22CTJN": {
+      "id": "U080F22CTJN",
+      "earned": 101,
+      "spent": 0,
+      "balance": 111
+    },
+    "U082U8N45B5": {
+      "id": "U082U8N45B5",
+      "earned": 80,
+      "spent": 80,
+      "balance": 0
+    },
+    "U0923H02Y3B": {
+      "id": "U0923H02Y3B",
+      "earned": 1412,
+      "spent": 1411,
+      "balance": 1
+    },
+    "U09V726A6AK": {
+      "id": "U09V726A6AK",
+      "earned": 10,
+      "spent": 0,
+      "balance": 10
+    },
+    "U09EB9V2NBB": {
+      "id": "U09EB9V2NBB",
+      "earned": 2473,
+      "spent": 2476,
+      "balance": 7
+    },
+    "U09NDAS62J3": {
+      "id": "U09NDAS62J3",
+      "earned": 309,
+      "spent": 317,
+      "balance": 0
+    },
+    "U092G706V1A": {
+      "id": "U092G706V1A",
+      "earned": 65,
+      "spent": 83,
+      "balance": 0
+    },
+    "U092BKQ2APJ": {
+      "id": "U092BKQ2APJ",
+      "earned": 1555,
+      "spent": 1565,
+      "balance": 0
+    },
+    "U0A269NG76F": {
+      "id": "U0A269NG76F",
+      "earned": 437,
+      "spent": 447,
+      "balance": 0
+    },
+    "U09BL5MMBJR": {
+      "id": "U09BL5MMBJR",
+      "earned": 21,
+      "spent": 31,
+      "balance": 0
+    },
+    "U088DPHNEF8": {
+      "id": "U088DPHNEF8",
+      "earned": 2,
+      "spent": 0,
+      "balance": 10
+    },
+    "U07AZFQLPQ8": {
+      "id": "U07AZFQLPQ8",
+      "earned": 242,
+      "spent": 20,
+      "balance": 222
+    },
+    "U059VC0UDEU": {
+      "id": "U059VC0UDEU",
+      "earned": 6854,
+      "spent": 6852,
+      "balance": 2
+    },
+    "U09A9M4TAF5": {
+      "id": "U09A9M4TAF5",
+      "earned": 18,
+      "spent": 0,
+      "balance": 18
+    },
+    "U0829HRSQ76": {
+      "id": "U0829HRSQ76",
+      "earned": 290,
+      "spent": 0,
+      "balance": 300
+    },
+    "U07AJUFQ4U8": {
+      "id": "U07AJUFQ4U8",
+      "earned": 48,
+      "spent": 0,
+      "balance": 48
+    },
+    "U099LHP1QKF": {
+      "id": "U099LHP1QKF",
+      "earned": 388,
+      "spent": 176,
+      "balance": 212
+    },
+    "U0A5EK0TEBH": {
+      "id": "U0A5EK0TEBH",
+      "earned": 8,
+      "spent": 0,
+      "balance": 13
+    },
+    "U0A537P5U67": {
+      "id": "U0A537P5U67",
+      "earned": 22,
+      "spent": 0,
+      "balance": 38
+    },
+    "U0942ELBDDX": {
+      "id": "U0942ELBDDX",
+      "earned": 65,
+      "spent": 40,
+      "balance": 25
+    },
+    "U0A61PAF41G": {
+      "id": "U0A61PAF41G",
+      "earned": 10,
+      "spent": 0,
+      "balance": 10
+    },
+    "U08BN2MUD2N": {
+      "id": "U08BN2MUD2N",
+      "earned": 270,
+      "spent": 273,
+      "balance": 2
+    },
+    "U0925CUPLHZ": {
+      "id": "U0925CUPLHZ",
+      "earned": 0,
+      "spent": 10,
+      "balance": 0
+    },
+    "U05QJ4CF5QT": {
+      "id": "U05QJ4CF5QT",
+      "earned": 20,
+      "spent": 0,
+      "balance": 20
+    },
+    "U08UGTGS4HE": {
+      "id": "U08UGTGS4HE",
+      "earned": 190,
+      "spent": 176,
+      "balance": 14
+    },
+    "U0A3YMRF5NC": {
+      "id": "U0A3YMRF5NC",
+      "earned": 334,
+      "spent": 344,
+      "balance": 0
+    },
+    "U0A5X6H719U": {
+      "id": "U0A5X6H719U",
+      "earned": 2008,
+      "spent": 2010,
+      "balance": 3
+    },
+    "U0A0HBDPLBC": {
+      "id": "U0A0HBDPLBC",
+      "earned": 5,
+      "spent": 0,
+      "balance": 10
+    },
+    "U09ELD211G8": {
+      "id": "U09ELD211G8",
+      "earned": 233,
+      "spent": 233,
+      "balance": 0
+    },
+    "U07FC7DP23U": {
+      "id": "U07FC7DP23U",
+      "earned": 20,
+      "spent": 10,
+      "balance": 10
+    },
+    "U07V83RHQ2V": {
+      "id": "U07V83RHQ2V",
+      "earned": 25,
+      "spent": 30,
+      "balance": 0
+    },
+    "U08A100HZT3": {
+      "id": "U08A100HZT3",
+      "earned": 20,
+      "spent": 0,
+      "balance": 20
+    },
+    "U0A5Y5SJ3LN": {
+      "id": "U0A5Y5SJ3LN",
+      "earned": 5,
+      "spent": 10,
+      "balance": 5
+    },
+    "U0A4SQJ7CJY": {
+      "id": "U0A4SQJ7CJY",
+      "earned": 426,
+      "spent": 452,
+      "balance": 8
+    },
+    "U08EMT46G3V": {
+      "id": "U08EMT46G3V",
+      "earned": 165,
+      "spent": 175,
+      "balance": 0
+    },
+    "U083F2N7ZAM": {
+      "id": "U083F2N7ZAM",
+      "earned": 727,
+      "spent": 594,
+      "balance": 133
+    },
+    "U07E70AR1UG": {
+      "id": "U07E70AR1UG",
+      "earned": 275,
+      "spent": 283,
+      "balance": 0
+    },
+    "U062UG485EE": {
+      "id": "U062UG485EE",
+      "earned": 41,
+      "spent": 0,
+      "balance": 41
+    },
+    "U0A61G78DMG": {
+      "id": "U0A61G78DMG",
+      "earned": 956,
+      "spent": 689,
+      "balance": 277
+    },
+    "U086DTRRNSV": {
+      "id": "U086DTRRNSV",
+      "earned": 351,
+      "spent": 349,
+      "balance": 2
+    },
+    "U0A5C33BN94": {
+      "id": "U0A5C33BN94",
+      "earned": 17,
+      "spent": 20,
+      "balance": 2
+    },
+    "U0A4F3CGSPR": {
+      "id": "U0A4F3CGSPR",
+      "earned": 33,
+      "spent": 15,
+      "balance": 28
+    },
+    "U091JJ2JF8E": {
+      "id": "U091JJ2JF8E",
+      "earned": 2522,
+      "spent": 2119,
+      "balance": 423
+    },
+    "U0A04H3G3AP": {
+      "id": "U0A04H3G3AP",
+      "earned": 1121,
+      "spent": 1133,
+      "balance": 0
+    },
+    "U098MKNBJ72": {
+      "id": "U098MKNBJ72",
+      "earned": 22,
+      "spent": 10,
+      "balance": 27
+    },
+    "U0A322RAJG3": {
+      "id": "U0A322RAJG3",
+      "earned": 1150,
+      "spent": 1139,
+      "balance": 21
+    },
+    "U0A54C206BX": {
+      "id": "U0A54C206BX",
+      "earned": 148,
+      "spent": 0,
+      "balance": 155
+    },
+    "U0A3X8ETQ7Q": {
+      "id": "U0A3X8ETQ7Q",
+      "earned": 10,
+      "spent": 0,
+      "balance": 15
+    },
+    "U097SUCKJ90": {
+      "id": "U097SUCKJ90",
+      "earned": 87,
+      "spent": 97,
+      "balance": 5
+    },
+    "U0A4CSV0RP1": {
+      "id": "U0A4CSV0RP1",
+      "earned": 5,
+      "spent": 0,
+      "balance": 10
+    },
+    "U0A5L7XL4DR": {
+      "id": "U0A5L7XL4DR",
+      "earned": 3203,
+      "spent": 3222,
+      "balance": 0
+    },
+    "U091S46DVNG": {
+      "id": "U091S46DVNG",
+      "earned": 67,
+      "spent": 64,
+      "balance": 3
+    },
+    "U0A74N2LAQY": {
+      "id": "U0A74N2LAQY",
+      "earned": 2408,
+      "spent": 807,
+      "balance": 1891
+    },
+    "U09GT3Z6FC7": {
+      "id": "U09GT3Z6FC7",
+      "earned": 2,
+      "spent": 0,
+      "balance": 10
+    },
+    "U0A6A0J7UE6": {
+      "id": "U0A6A0J7UE6",
+      "earned": 916,
+      "spent": 916,
+      "balance": 0
+    },
+    "U099WAPFKT8": {
+      "id": "U099WAPFKT8",
+      "earned": 5,
+      "spent": 0,
+      "balance": 5
+    },
+    "U0A62FWHAGM": {
+      "id": "U0A62FWHAGM",
+      "earned": 1703,
+      "spent": 1703,
+      "balance": 0
+    },
+    "U07EB2Y76DP": {
+      "id": "U07EB2Y76DP",
+      "earned": 629,
+      "spent": 11,
+      "balance": 628
+    },
+    "U0A5VCDBRM4": {
+      "id": "U0A5VCDBRM4",
+      "earned": 33,
+      "spent": 0,
+      "balance": 43
+    },
+    "U079QLTJZ7H": {
+      "id": "U079QLTJZ7H",
+      "earned": 275,
+      "spent": 143,
+      "balance": 150
+    },
+    "U078LR508E7": {
+      "id": "U078LR508E7",
+      "earned": 5959,
+      "spent": 1505,
+      "balance": 4454
+    },
+    "U0735FTMS3V": {
+      "id": "U0735FTMS3V",
+      "earned": 421,
+      "spent": 385,
+      "balance": 67
+    },
+    "U08RE7RUD9C": {
+      "id": "U08RE7RUD9C",
+      "earned": 19,
+      "spent": 30,
+      "balance": 6
+    },
+    "U0952JEN9DL": {
+      "id": "U0952JEN9DL",
+      "earned": 1798,
+      "spent": 1831,
+      "balance": 18
+    },
+    "U0930DMR4BA": {
+      "id": "U0930DMR4BA",
+      "earned": 156,
+      "spent": 166,
+      "balance": 0
+    },
+    "U09UJUSPDT5": {
+      "id": "U09UJUSPDT5",
+      "earned": 110,
+      "spent": 115,
+      "balance": 5
+    },
+    "U07V9P0E680": {
+      "id": "U07V9P0E680",
+      "earned": 68,
+      "spent": 10,
+      "balance": 76
+    },
+    "U0A5U53HD0F": {
+      "id": "U0A5U53HD0F",
+      "earned": 5,
+      "spent": 0,
+      "balance": 5
+    },
+    "U07URV8HZEJ": {
+      "id": "U07URV8HZEJ",
+      "earned": 206,
+      "spent": 195,
+      "balance": 11
+    },
+    "U0A50H47MT9": {
+      "id": "U0A50H47MT9",
+      "earned": 28,
+      "spent": 35,
+      "balance": 3
+    },
+    "U0A2L4NMA9X": {
+      "id": "U0A2L4NMA9X",
+      "earned": 1813,
+      "spent": 1171,
+      "balance": 654
+    },
+    "U09QQMYFT9B": {
+      "id": "U09QQMYFT9B",
+      "earned": 22,
+      "spent": 10,
+      "balance": 12
+    },
+    "U094TMG6ZGQ": {
+      "id": "U094TMG6ZGQ",
+      "earned": 10,
+      "spent": 0,
+      "balance": 10
+    },
+    "U08DKTU2QRL": {
+      "id": "U08DKTU2QRL",
+      "earned": 1443,
+      "spent": 1443,
+      "balance": 11
+    },
+    "U087PUWJP8X": {
+      "id": "U087PUWJP8X",
+      "earned": 30,
+      "spent": 40,
+      "balance": 0
+    },
+    "U093VDE9Q7N": {
+      "id": "U093VDE9Q7N",
+      "earned": 27,
+      "spent": 0,
+      "balance": 37
+    },
+    "U0A2QF99Z7U": {
+      "id": "U0A2QF99Z7U",
+      "earned": 20,
+      "spent": 10,
+      "balance": 10
+    },
+    "U0A68HSJ3TK": {
+      "id": "U0A68HSJ3TK",
+      "earned": 12,
+      "spent": 0,
+      "balance": 22
+    },
+    "U09CM5P8E80": {
+      "id": "U09CM5P8E80",
+      "earned": 20,
+      "spent": 10,
+      "balance": 10
+    },
+    "U09894HL8AU": {
+      "id": "U09894HL8AU",
+      "earned": 1918,
+      "spent": 1943,
+      "balance": 0
+    },
+    "U093DK2JL0Y": {
+      "id": "U093DK2JL0Y",
+      "earned": 5075,
+      "spent": 5075,
+      "balance": 0
+    },
+    "U0A5KPMDRMJ": {
+      "id": "U0A5KPMDRMJ",
+      "earned": 15,
+      "spent": 25,
+      "balance": 0
+    },
+    "U0923KXMGUR": {
+      "id": "U0923KXMGUR",
+      "earned": 2178,
+      "spent": 2076,
+      "balance": 102
+    },
+    "U091KTCVBA8": {
+      "id": "U091KTCVBA8",
+      "earned": 5,
+      "spent": 20,
+      "balance": 0
+    },
+    "U096NGLTF4K": {
+      "id": "U096NGLTF4K",
+      "earned": 1943,
+      "spent": 1739,
+      "balance": 214
+    },
+    "U09PQ98JE12": {
+      "id": "U09PQ98JE12",
+      "earned": 5,
+      "spent": 10,
+      "balance": 10
+    },
+    "U07LKN2HXT3": {
+      "id": "U07LKN2HXT3",
+      "earned": 1886,
+      "spent": 684,
+      "balance": 1228
+    },
+    "U0A35867UF5": {
+      "id": "U0A35867UF5",
+      "earned": 70,
+      "spent": 62,
+      "balance": 8
+    },
+    "U0A5YN1MLV6": {
+      "id": "U0A5YN1MLV6",
+      "earned": 4485,
+      "spent": 0,
+      "balance": 4440
+    },
+    "U082UPY3B4G": {
+      "id": "U082UPY3B4G",
+      "earned": 10,
+      "spent": 0,
+      "balance": 10
+    },
+    "U0A150FQJ9Z": {
+      "id": "U0A150FQJ9Z",
+      "earned": 10,
+      "spent": 20,
+      "balance": 5
+    },
+    "U0A6AJNGX37": {
+      "id": "U0A6AJNGX37",
+      "earned": 25,
+      "spent": 0,
+      "balance": 25
+    },
+    "U079SNC1PFF": {
+      "id": "U079SNC1PFF",
+      "earned": 2,
+      "spent": 20,
+      "balance": 0
+    },
+    "U0807ADEC6L": {
+      "id": "U0807ADEC6L",
+      "earned": 3,
+      "spent": 0,
+      "balance": 18
+    },
+    "U091L5DCGUF": {
+      "id": "U091L5DCGUF",
+      "earned": 1973,
+      "spent": 2080,
+      "balance": 33
+    },
+    "U0A3HP8944S": {
+      "id": "U0A3HP8944S",
+      "earned": 27,
+      "spent": 43,
+      "balance": 0
+    },
+    "U09228ZRE9X": {
+      "id": "U09228ZRE9X",
+      "earned": 2,
+      "spent": 5,
+      "balance": 7
+    },
+    "U08HYM19NJE": {
+      "id": "U08HYM19NJE",
+      "earned": 467,
+      "spent": 0,
+      "balance": 477
+    },
+    "U091H6KD6TG": {
+      "id": "U091H6KD6TG",
+      "earned": 103,
+      "spent": 110,
+      "balance": 3
+    },
+    "U092XKDD58R": {
+      "id": "U092XKDD58R",
+      "earned": 10,
+      "spent": 0,
+      "balance": 10
+    },
+    "U08T4JQJRJA": {
+      "id": "U08T4JQJRJA",
+      "earned": 1071,
+      "spent": 1081,
+      "balance": 0
+    },
+    "U098P9DLUGJ": {
+      "id": "U098P9DLUGJ",
+      "earned": 5013,
+      "spent": 944,
+      "balance": 4079
+    },
+    "U082ADK3DCM": {
+      "id": "U082ADK3DCM",
+      "earned": 237,
+      "spent": 80,
+      "balance": 147
+    },
+    "U0A4XF89ZQD": {
+      "id": "U0A4XF89ZQD",
+      "earned": 10,
+      "spent": 0,
+      "balance": 10
+    },
+    "U0A6B9P4F2S": {
+      "id": "U0A6B9P4F2S",
+      "earned": 10,
+      "spent": 0,
+      "balance": 22
+    },
+    "U08C07QLJ9M": {
+      "id": "U08C07QLJ9M",
+      "earned": 128,
+      "spent": 139,
+      "balance": 4
+    },
+    "U0A5WSLGHUY": {
+      "id": "U0A5WSLGHUY",
+      "earned": 1290,
+      "spent": 1347,
+      "balance": 3
+    },
+    "U0A4AFT9Q73": {
+      "id": "U0A4AFT9Q73",
+      "earned": 103,
+      "spent": 65,
+      "balance": 48
+    },
+    "U098P4KNNJY": {
+      "id": "U098P4KNNJY",
+      "earned": 73,
+      "spent": 0,
+      "balance": 73
+    },
+    "U0A6ME6EU9Z": {
+      "id": "U0A6ME6EU9Z",
+      "earned": 3301,
+      "spent": 3148,
+      "balance": 0
+    },
+    "U081F64111C": {
+      "id": "U081F64111C",
+      "earned": 2262,
+      "spent": 2229,
+      "balance": 137
+    },
+    "U08L7671TDG": {
+      "id": "U08L7671TDG",
+      "earned": 290,
+      "spent": 308,
+      "balance": 4
+    },
+    "U08RNM16V7D": {
+      "id": "U08RNM16V7D",
+      "earned": 0,
+      "spent": 10,
+      "balance": 0
+    },
+    "U079V2BL5V3": {
+      "id": "U079V2BL5V3",
+      "earned": 12,
+      "spent": 0,
+      "balance": 22
+    },
+    "U0A74NS0JV8": {
+      "id": "U0A74NS0JV8",
+      "earned": 3,
+      "spent": 0,
+      "balance": 3
+    },
+    "U0A75AZ7ZJN": {
+      "id": "U0A75AZ7ZJN",
+      "earned": 6243,
+      "spent": 5842,
+      "balance": 4
+    },
+    "U0A80G7EBR6": {
+      "id": "U0A80G7EBR6",
+      "earned": 0,
+      "spent": 10,
+      "balance": 5
+    },
+    "U0A718B489K": {
+      "id": "U0A718B489K",
+      "earned": 1756,
+      "spent": 1756,
+      "balance": 0
+    },
+    "U06QST7V0J2": {
+      "id": "U06QST7V0J2",
+      "earned": 20,
+      "spent": 10,
+      "balance": 10
+    },
+    "U099VAXLJUS": {
+      "id": "U099VAXLJUS",
+      "earned": 132,
+      "spent": 137,
+      "balance": 0
+    },
+    "U0A75231T7C": {
+      "id": "U0A75231T7C",
+      "earned": 472,
+      "spent": 461,
+      "balance": 11
+    },
+    "U0A6ZC8LTSP": {
+      "id": "U0A6ZC8LTSP",
+      "earned": 1850,
+      "spent": 1844,
+      "balance": 6
+    },
+    "U0A72UR2VTP": {
+      "id": "U0A72UR2VTP",
+      "earned": 1346,
+      "spent": 974,
+      "balance": 1
+    },
+    "U091S9FGLTE": {
+      "id": "U091S9FGLTE",
+      "earned": 47,
+      "spent": 10,
+      "balance": 37
+    },
+    "U0A73L29ACV": {
+      "id": "U0A73L29ACV",
+      "earned": 12,
+      "spent": 12,
+      "balance": 0
+    },
+    "U0923GA2N0H": {
+      "id": "U0923GA2N0H",
+      "earned": 501,
+      "spent": 507,
+      "balance": 0
+    },
+    "U0A7ZR2SS3S": {
+      "id": "U0A7ZR2SS3S",
+      "earned": 15,
+      "spent": 10,
+      "balance": 5
+    },
+    "U0A77SZ758S": {
+      "id": "U0A77SZ758S",
+      "earned": 5,
+      "spent": 0,
+      "balance": 15
+    },
+    "U0A80PK7DLY": {
+      "id": "U0A80PK7DLY",
+      "earned": 15,
+      "spent": 20,
+      "balance": 0
+    },
+    "U06PUN13XHT": {
+      "id": "U06PUN13XHT",
+      "earned": 37,
+      "spent": 30,
+      "balance": 7
+    },
+    "U0A6WT1HCKE": {
+      "id": "U0A6WT1HCKE",
+      "earned": 5,
+      "spent": 0,
+      "balance": 15
+    },
+    "U0A82775C1E": {
+      "id": "U0A82775C1E",
+      "earned": 10,
+      "spent": 0,
+      "balance": 15
+    },
+    "U08TEUQJTAT": {
+      "id": "U08TEUQJTAT",
+      "earned": 10,
+      "spent": 0,
+      "balance": 10
+    },
+    "U091NS83K98": {
+      "id": "U091NS83K98",
+      "earned": 2556,
+      "spent": 1519,
+      "balance": 3
+    },
+    "U088QFX88LU": {
+      "id": "U088QFX88LU",
+      "earned": 9,
+      "spent": 10,
+      "balance": 12
+    },
+    "U0A754B3SV7": {
+      "id": "U0A754B3SV7",
+      "earned": 0,
+      "spent": 10,
+      "balance": 10
+    },
+    "U0A6Z6G6WUT": {
+      "id": "U0A6Z6G6WUT",
+      "earned": 0,
+      "spent": 10,
+      "balance": 0
+    },
+    "U0A7LFPBCBT": {
+      "id": "U0A7LFPBCBT",
+      "earned": 5,
+      "spent": 0,
+      "balance": 10
+    },
+    "U0A6Y5A07CK": {
+      "id": "U0A6Y5A07CK",
+      "earned": 12,
+      "spent": 0,
+      "balance": 12
+    },
+    "U092SRUUSTS": {
+      "id": "U092SRUUSTS",
+      "earned": 2137,
+      "spent": 2132,
+      "balance": 15
+    },
+    "U0A778JGV18": {
+      "id": "U0A778JGV18",
+      "earned": 13399,
+      "spent": 13046,
+      "balance": 0
+    },
+    "U09GKAWFFSB": {
+      "id": "U09GKAWFFSB",
+      "earned": 12,
+      "spent": 22,
+      "balance": 0
+    },
+    "U092LCQUSTT": {
+      "id": "U092LCQUSTT",
+      "earned": 10,
+      "spent": 10,
+      "balance": 10
+    },
+    "U07MJ75J4PK": {
+      "id": "U07MJ75J4PK",
+      "earned": 222,
+      "spent": 432,
+      "balance": 12
+    },
+    "U0A79P8J6J0": {
+      "id": "U0A79P8J6J0",
+      "earned": 62,
+      "spent": 55,
+      "balance": 7
+    },
+    "U0A74TW75RB": {
+      "id": "U0A74TW75RB",
+      "earned": 10,
+      "spent": 10,
+      "balance": 10
+    },
+    "U079WSK282Y": {
+      "id": "U079WSK282Y",
+      "earned": 12,
+      "spent": 10,
+      "balance": 12
+    },
+    "U0A6PQWSGF9": {
+      "id": "U0A6PQWSGF9",
+      "earned": 20,
+      "spent": 10,
+      "balance": 10
+    },
+    "U0A7CTEKASG": {
+      "id": "U0A7CTEKASG",
+      "earned": 1723,
+      "spent": 1723,
+      "balance": 0
+    },
+    "U0A79NKQFRS": {
+      "id": "U0A79NKQFRS",
+      "earned": 2,
+      "spent": 0,
+      "balance": 12
+    },
+    "U0A84V3R2U8": {
+      "id": "U0A84V3R2U8",
+      "earned": 5,
+      "spent": 0,
+      "balance": 5
+    },
+    "U0A6X6N8HEW": {
+      "id": "U0A6X6N8HEW",
+      "earned": 10,
+      "spent": 0,
+      "balance": 10
+    },
+    "U0A7QFF7X17": {
+      "id": "U0A7QFF7X17",
+      "earned": 2208,
+      "spent": 2299,
+      "balance": 0
+    },
+    "U0A6QD24B5H": {
+      "id": "U0A6QD24B5H",
+      "earned": 0,
+      "spent": 10,
+      "balance": 0
+    },
+    "U0A787QJ80J": {
+      "id": "U0A787QJ80J",
+      "earned": 285,
+      "spent": 0,
+      "balance": 295
+    },
+    "U096SPFN951": {
+      "id": "U096SPFN951",
+      "earned": 22,
+      "spent": 10,
+      "balance": 12
+    },
+    "U091GA73H8T": {
+      "id": "U091GA73H8T",
+      "earned": 759,
+      "spent": 662,
+      "balance": 97
+    },
+    "U078RQDM7CL": {
+      "id": "U078RQDM7CL",
+      "earned": 20,
+      "spent": 10,
+      "balance": 10
+    },
+    "U0A6Q43CKT9": {
+      "id": "U0A6Q43CKT9",
+      "earned": 12,
+      "spent": 0,
+      "balance": 22
+    },
+    "U0A72H1C161": {
+      "id": "U0A72H1C161",
+      "earned": 114,
+      "spent": 113,
+      "balance": 1
+    },
+    "U0948HZH36V": {
+      "id": "U0948HZH36V",
+      "earned": 0,
+      "spent": 10,
+      "balance": 5
+    },
+    "U07950S3GMC": {
+      "id": "U07950S3GMC",
+      "earned": 6892,
+      "spent": 4920,
+      "balance": 2050
+    },
+    "U091EPSQ3E3": {
+      "id": "U091EPSQ3E3",
+      "earned": 140,
+      "spent": 98,
+      "balance": 52
+    },
+    "U09UU7TETBR": {
+      "id": "U09UU7TETBR",
+      "earned": 6466,
+      "spent": 6589,
+      "balance": 19
+    },
+    "U0A6UGDT0E4": {
+      "id": "U0A6UGDT0E4",
+      "earned": 20,
+      "spent": 20,
+      "balance": 0
+    },
+    "U0A6XFSMW5D": {
+      "id": "U0A6XFSMW5D",
+      "earned": 7,
+      "spent": 5,
+      "balance": 17
+    },
+    "U0926U54UJV": {
+      "id": "U0926U54UJV",
+      "earned": 203,
+      "spent": 0,
+      "balance": 203
+    },
+    "U07GXEVL48P": {
+      "id": "U07GXEVL48P",
+      "earned": 106,
+      "spent": 116,
+      "balance": 0
+    },
+    "U0A81UKS2JU": {
+      "id": "U0A81UKS2JU",
+      "earned": 769,
+      "spent": 779,
+      "balance": 0
+    },
+    "U0A8AKZJ01W": {
+      "id": "U0A8AKZJ01W",
+      "earned": 10,
+      "spent": 0,
+      "balance": 10
+    },
+    "U0A760DE2T0": {
+      "id": "U0A760DE2T0",
+      "earned": 71,
+      "spent": 0,
+      "balance": 76
+    },
+    "U0A7AKUFMKM": {
+      "id": "U0A7AKUFMKM",
+      "earned": 15,
+      "spent": 10,
+      "balance": 5
+    },
+    "U0A525GDXCK": {
+      "id": "U0A525GDXCK",
+      "earned": 3524,
+      "spent": 3000,
+      "balance": 555
+    },
+    "U0A6S7PPL0P": {
+      "id": "U0A6S7PPL0P",
+      "earned": 36,
+      "spent": 0,
+      "balance": 51
+    },
+    "U0A759TPU76": {
+      "id": "U0A759TPU76",
+      "earned": 663,
+      "spent": 755,
+      "balance": 2
+    },
+    "U0A7DPZK144": {
+      "id": "U0A7DPZK144",
+      "earned": 55,
+      "spent": 5,
+      "balance": 50
+    },
+    "U0A7ELX4A8M": {
+      "id": "U0A7ELX4A8M",
+      "earned": 37,
+      "spent": 0,
+      "balance": 37
+    },
+    "U0A7ECLU570": {
+      "id": "U0A7ECLU570",
+      "earned": 5,
+      "spent": 0,
+      "balance": 22
+    },
+    "U092USL901G": {
+      "id": "U092USL901G",
+      "earned": 92,
+      "spent": 60,
+      "balance": 32
+    },
+    "U0A1YPP1334": {
+      "id": "U0A1YPP1334",
+      "earned": 15,
+      "spent": 43,
+      "balance": 0
+    },
+    "U078J6R0VCN": {
+      "id": "U078J6R0VCN",
+      "earned": 28,
+      "spent": 0,
+      "balance": 28
+    },
+    "U0A7DL5C85A": {
+      "id": "U0A7DL5C85A",
+      "earned": 8,
+      "spent": 13,
+      "balance": 0
+    },
+    "U08PZHZMXUH": {
+      "id": "U08PZHZMXUH",
+      "earned": 10,
+      "spent": 0,
+      "balance": 15
+    },
+    "U0A8EFD3CUQ": {
+      "id": "U0A8EFD3CUQ",
+      "earned": 257,
+      "spent": 238,
+      "balance": 29
+    },
+    "U096NA24K63": {
+      "id": "U096NA24K63",
+      "earned": 15,
+      "spent": 10,
+      "balance": 10
+    },
+    "U092FHS7Y58": {
+      "id": "U092FHS7Y58",
+      "earned": 89,
+      "spent": 100,
+      "balance": 4
+    },
+    "U0A7A9JMZ0V": {
+      "id": "U0A7A9JMZ0V",
+      "earned": 15,
+      "spent": 10,
+      "balance": 5
+    },
+    "U0A7K9FCMN0": {
+      "id": "U0A7K9FCMN0",
+      "earned": 15,
+      "spent": 0,
+      "balance": 15
+    },
+    "U09MURUQ7PZ": {
+      "id": "U09MURUQ7PZ",
+      "earned": 409,
+      "spent": 140,
+      "balance": 281
+    },
+    "U0822T6QHPE": {
+      "id": "U0822T6QHPE",
+      "earned": 28,
+      "spent": 0,
+      "balance": 28
+    },
+    "U08Q75EBX53": {
+      "id": "U08Q75EBX53",
+      "earned": 3619,
+      "spent": 3574,
+      "balance": 65
+    },
+    "U080DSMN3E1": {
+      "id": "U080DSMN3E1",
+      "earned": 216,
+      "spent": 316,
+      "balance": 0
+    },
+    "U09GMGHJLHW": {
+      "id": "U09GMGHJLHW",
+      "earned": 33,
+      "spent": 60,
+      "balance": 1
+    },
+    "U0A83D4UKDW": {
+      "id": "U0A83D4UKDW",
+      "earned": 25,
+      "spent": 40,
+      "balance": 0
+    },
+    "U0A73N516AH": {
+      "id": "U0A73N516AH",
+      "earned": 10,
+      "spent": 0,
+      "balance": 20
+    },
+    "U0A83MT0TU0": {
+      "id": "U0A83MT0TU0",
+      "earned": 20,
+      "spent": 0,
+      "balance": 30
+    },
+    "U09GESRAC8J": {
+      "id": "U09GESRAC8J",
+      "earned": 487,
+      "spent": 500,
+      "balance": 7
+    },
+    "U0A8M0LLABS": {
+      "id": "U0A8M0LLABS",
+      "earned": 15,
+      "spent": 0,
+      "balance": 15
+    },
+    "U0A0G7QLN5C": {
+      "id": "U0A0G7QLN5C",
+      "earned": 468,
+      "spent": 308,
+      "balance": 385
+    },
+    "U0A78UCA231": {
+      "id": "U0A78UCA231",
+      "earned": 8149,
+      "spent": 6399,
+      "balance": 14
+    },
+    "U0A6QFT7LA3": {
+      "id": "U0A6QFT7LA3",
+      "earned": 22,
+      "spent": 10,
+      "balance": 12
+    },
+    "U0A77S7P37C": {
+      "id": "U0A77S7P37C",
+      "earned": 10,
+      "spent": 0,
+      "balance": 10
+    },
+    "U08SWJAS2K1": {
+      "id": "U08SWJAS2K1",
+      "earned": 0,
+      "spent": 10,
+      "balance": 0
+    },
+    "U09HQH0PNEN": {
+      "id": "U09HQH0PNEN",
+      "earned": 889,
+      "spent": 665,
+      "balance": 234
+    },
+    "U0A7U9ZSRN2": {
+      "id": "U0A7U9ZSRN2",
+      "earned": 10,
+      "spent": 0,
+      "balance": 10
+    },
+    "U0A52J7MZ7F": {
+      "id": "U0A52J7MZ7F",
+      "earned": 24,
+      "spent": 0,
+      "balance": 24
+    },
+    "U0A80T2T8RE": {
+      "id": "U0A80T2T8RE",
+      "earned": 10,
+      "spent": 0,
+      "balance": 20
+    },
+    "U0A7U42QFV3": {
+      "id": "U0A7U42QFV3",
+      "earned": 816,
+      "spent": 875,
+      "balance": 4
+    },
+    "U0A5L3A8VNZ": {
+      "id": "U0A5L3A8VNZ",
+      "earned": 0,
+      "spent": 10,
+      "balance": 5
+    },
+    "U0A7FM91TT8": {
+      "id": "U0A7FM91TT8",
+      "earned": 5,
+      "spent": 0,
+      "balance": 22
+    },
+    "U0A7R62V3RR": {
+      "id": "U0A7R62V3RR",
+      "earned": 13,
+      "spent": 0,
+      "balance": 13
+    },
+    "U0A6R7GJQMR": {
+      "id": "U0A6R7GJQMR",
+      "earned": 52,
+      "spent": 57,
+      "balance": 0
+    },
+    "U084ENTEE7J": {
+      "id": "U084ENTEE7J",
+      "earned": 3,
+      "spent": 0,
+      "balance": 15
+    },
+    "U0A84P8Q7JM": {
+      "id": "U0A84P8Q7JM",
+      "earned": 3,
+      "spent": 0,
+      "balance": 13
+    },
+    "U0A2LV8U44X": {
+      "id": "U0A2LV8U44X",
+      "earned": 85,
+      "spent": 70,
+      "balance": 20
+    },
+    "U091VLWN0CS": {
+      "id": "U091VLWN0CS",
+      "earned": 198,
+      "spent": 247,
+      "balance": 0
+    },
+    "U0A7TV65SPL": {
+      "id": "U0A7TV65SPL",
+      "earned": 534,
+      "spent": 530,
+      "balance": 4
+    },
+    "U096KJYT1PU": {
+      "id": "U096KJYT1PU",
+      "earned": 373,
+      "spent": 381,
+      "balance": 2
+    },
+    "U08RMTJRDL5": {
+      "id": "U08RMTJRDL5",
+      "earned": 12,
+      "spent": 20,
+      "balance": 2
+    },
+    "U0A6YL1HQDR": {
+      "id": "U0A6YL1HQDR",
+      "earned": 5,
+      "spent": 0,
+      "balance": 10
+    },
+    "U0A173QKK9R": {
+      "id": "U0A173QKK9R",
+      "earned": 10,
+      "spent": 10,
+      "balance": 10
+    },
+    "U0A7V1SQEDB": {
+      "id": "U0A7V1SQEDB",
+      "earned": 2,
+      "spent": 0,
+      "balance": 12
+    },
+    "U0A7N9TPRV1": {
+      "id": "U0A7N9TPRV1",
+      "earned": 13,
+      "spent": 0,
+      "balance": 13
+    },
+    "U097GPYDEF4": {
+      "id": "U097GPYDEF4",
+      "earned": 17,
+      "spent": 10,
+      "balance": 7
+    },
+    "U0A7J5RFUK1": {
+      "id": "U0A7J5RFUK1",
+      "earned": 15,
+      "spent": 10,
+      "balance": 5
+    },
+    "U0A8C83NH09": {
+      "id": "U0A8C83NH09",
+      "earned": 28,
+      "spent": 25,
+      "balance": 0
+    },
+    "U0971C3C44D": {
+      "id": "U0971C3C44D",
+      "earned": 15,
+      "spent": 0,
+      "balance": 25
+    },
+    "U09A7GEM760": {
+      "id": "U09A7GEM760",
+      "earned": 520,
+      "spent": 553,
+      "balance": 0
+    },
+    "U08RNBSMTV2": {
+      "id": "U08RNBSMTV2",
+      "earned": 15,
+      "spent": 0,
+      "balance": 20
+    },
+    "U0A468N6G3A": {
+      "id": "U0A468N6G3A",
+      "earned": 73,
+      "spent": 65,
+      "balance": 8
+    },
+    "U0A7L0UTGQZ": {
+      "id": "U0A7L0UTGQZ",
+      "earned": 33,
+      "spent": 43,
+      "balance": 0
+    },
+    "U08NCJ3RWLQ": {
+      "id": "U08NCJ3RWLQ",
+      "earned": 336,
+      "spent": 280,
+      "balance": 171
+    },
+    "U0A8BD6EU01": {
+      "id": "U0A8BD6EU01",
+      "earned": 49,
+      "spent": 55,
+      "balance": 4
+    },
+    "U0A7WJ9FY69": {
+      "id": "U0A7WJ9FY69",
+      "earned": 5,
+      "spent": 0,
+      "balance": 12
+    },
+    "U0887K5MLKF": {
+      "id": "U0887K5MLKF",
+      "earned": 12,
+      "spent": 10,
+      "balance": 2
+    },
+    "U0A83HV1LSU": {
+      "id": "U0A83HV1LSU",
+      "earned": 13,
+      "spent": 0,
+      "balance": 23
+    },
+    "U07H3E1CW7J": {
+      "id": "U07H3E1CW7J",
+      "earned": 259,
+      "spent": 0,
+      "balance": 259
+    },
+    "U0A7KLAGP89": {
+      "id": "U0A7KLAGP89",
+      "earned": 45,
+      "spent": 52,
+      "balance": 0
+    },
+    "U09MG0C304X": {
+      "id": "U09MG0C304X",
+      "earned": 35,
+      "spent": 10,
+      "balance": 25
+    },
+    "U092STH5TAL": {
+      "id": "U092STH5TAL",
+      "earned": 2180,
+      "spent": 1988,
+      "balance": 202
+    },
+    "U07Q0L51QMV": {
+      "id": "U07Q0L51QMV",
+      "earned": 2718,
+      "spent": 3066,
+      "balance": 3
+    },
+    "U0A7DJ18QLB": {
+      "id": "U0A7DJ18QLB",
+      "earned": 2,
+      "spent": 0,
+      "balance": 7
+    },
+    "U07UD57S0N7": {
+      "id": "U07UD57S0N7",
+      "earned": 0,
+      "spent": 18,
+      "balance": 0
+    },
+    "U091KJSPK6X": {
+      "id": "U091KJSPK6X",
+      "earned": 7,
+      "spent": 10,
+      "balance": 12
+    },
+    "U04DNS0LAM9": {
+      "id": "U04DNS0LAM9",
+      "earned": 4320,
+      "spent": 4060,
+      "balance": 270
+    },
+    "U06391ZNZNW": {
+      "id": "U06391ZNZNW",
+      "earned": 945,
+      "spent": 938,
+      "balance": 7
+    },
+    "U08AA6HA82F": {
+      "id": "U08AA6HA82F",
+      "earned": 55,
+      "spent": 35,
+      "balance": 30
+    },
+    "U0A7V40F83D": {
+      "id": "U0A7V40F83D",
+      "earned": 17,
+      "spent": 0,
+      "balance": 30
+    },
+    "U0A3D9YPLQ4": {
+      "id": "U0A3D9YPLQ4",
+      "earned": 205,
+      "spent": 221,
+      "balance": 0
+    },
+    "U09USDUSDUJ": {
+      "id": "U09USDUSDUJ",
+      "earned": 10,
+      "spent": 10,
+      "balance": 10
+    },
+    "U0A58U4MHC2": {
+      "id": "U0A58U4MHC2",
+      "earned": 152,
+      "spent": 157,
+      "balance": 0
+    },
+    "U0825TMAF4K": {
+      "id": "U0825TMAF4K",
+      "earned": 1207,
+      "spent": 1210,
+      "balance": 2
+    },
+    "U0A8FPXFVQ8": {
+      "id": "U0A8FPXFVQ8",
+      "earned": 2,
+      "spent": 0,
+      "balance": 12
+    },
+    "U0A6U6QBJG7": {
+      "id": "U0A6U6QBJG7",
+      "earned": 304,
+      "spent": 314,
+      "balance": 0
+    },
+    "U0A86HRUVMY": {
+      "id": "U0A86HRUVMY",
+      "earned": 10,
+      "spent": 0,
+      "balance": 10
+    },
+    "U09683EA86L": {
+      "id": "U09683EA86L",
+      "earned": 942,
+      "spent": 929,
+      "balance": 13
+    },
+    "U0A7QDPDDB6": {
+      "id": "U0A7QDPDDB6",
+      "earned": 12810,
+      "spent": 13443,
+      "balance": 44
+    },
+    "U08MGN5EPHV": {
+      "id": "U08MGN5EPHV",
+      "earned": 15,
+      "spent": 0,
+      "balance": 27
+    },
+    "U081X6PA4R4": {
+      "id": "U081X6PA4R4",
+      "earned": 10,
+      "spent": 0,
+      "balance": 10
+    },
+    "U09GJ7HH48Z": {
+      "id": "U09GJ7HH48Z",
+      "earned": 20,
+      "spent": 25,
+      "balance": 5
+    },
+    "U0A813RB2HG": {
+      "id": "U0A813RB2HG",
+      "earned": 12,
+      "spent": 0,
+      "balance": 12
+    },
+    "U0A7YGJ12KD": {
+      "id": "U0A7YGJ12KD",
+      "earned": 24,
+      "spent": 25,
+      "balance": 4
+    },
+    "U0A79MT63MG": {
+      "id": "U0A79MT63MG",
+      "earned": 15,
+      "spent": 25,
+      "balance": 6
+    },
+    "U0A8F724F1A": {
+      "id": "U0A8F724F1A",
+      "earned": 38,
+      "spent": 43,
+      "balance": 0
+    },
+    "U091Q62131A": {
+      "id": "U091Q62131A",
+      "earned": 7035,
+      "spent": 7093,
+      "balance": 0
+    },
+    "U0A287MMYC8": {
+      "id": "U0A287MMYC8",
+      "earned": 20,
+      "spent": 10,
+      "balance": 10
+    },
+    "U0826R42R98": {
+      "id": "U0826R42R98",
+      "earned": 854,
+      "spent": 864,
+      "balance": 0
+    },
+    "U0A6YUW2LG3": {
+      "id": "U0A6YUW2LG3",
+      "earned": 1602,
+      "spent": 1611,
+      "balance": 4
+    },
+    "U0A8DT8JP70": {
+      "id": "U0A8DT8JP70",
+      "earned": 22,
+      "spent": 10,
+      "balance": 12
+    },
+    "U09KFQH0CTU": {
+      "id": "U09KFQH0CTU",
+      "earned": 7,
+      "spent": 0,
+      "balance": 12
+    },
+    "U09197C6M2B": {
+      "id": "U09197C6M2B",
+      "earned": 992,
+      "spent": 1086,
+      "balance": 5
+    },
+    "U0A8K57PSE6": {
+      "id": "U0A8K57PSE6",
+      "earned": 22,
+      "spent": 10,
+      "balance": 12
+    },
+    "U09Q4TYBU14": {
+      "id": "U09Q4TYBU14",
+      "earned": 5,
+      "spent": 0,
+      "balance": 5
+    },
+    "U09UGV1FWMP": {
+      "id": "U09UGV1FWMP",
+      "earned": 2,
+      "spent": 27,
+      "balance": 0
+    },
+    "U0A7HDGHBPB": {
+      "id": "U0A7HDGHBPB",
+      "earned": 0,
+      "spent": 10,
+      "balance": 0
+    },
+    "U0A8HTTPNFQ": {
+      "id": "U0A8HTTPNFQ",
+      "earned": 134,
+      "spent": 134,
+      "balance": 0
+    },
+    "U080HHYN0JD": {
+      "id": "U080HHYN0JD",
+      "earned": 2,
+      "spent": 0,
+      "balance": 12
+    },
+    "U0A77LT77PC": {
+      "id": "U0A77LT77PC",
+      "earned": 1165,
+      "spent": 1180,
+      "balance": 0
+    },
+    "U0A72TGKF7V": {
+      "id": "U0A72TGKF7V",
+      "earned": 8771,
+      "spent": 8798,
+      "balance": 0
+    },
+    "U0A8BB0GR8D": {
+      "id": "U0A8BB0GR8D",
+      "earned": 5658,
+      "spent": 4550,
+      "balance": 1118
+    },
+    "U0A51K70CRM": {
+      "id": "U0A51K70CRM",
+      "earned": 10,
+      "spent": 10,
+      "balance": 0
+    },
+    "U0A7F184PT7": {
+      "id": "U0A7F184PT7",
+      "earned": 15,
+      "spent": 0,
+      "balance": 27
+    },
+    "U08B4GTKLDS": {
+      "id": "U08B4GTKLDS",
+      "earned": 35,
+      "spent": 0,
+      "balance": 40
+    },
+    "U09BNNE2YD8": {
+      "id": "U09BNNE2YD8",
+      "earned": 10,
+      "spent": 10,
+      "balance": 0
+    },
+    "U08NYCWPRCG": {
+      "id": "U08NYCWPRCG",
+      "earned": 17,
+      "spent": 0,
+      "balance": 27
+    },
+    "U085HNYPWLT": {
+      "id": "U085HNYPWLT",
+      "earned": 5022,
+      "spent": 3642,
+      "balance": 1380
+    },
+    "U0A6TJASGQP": {
+      "id": "U0A6TJASGQP",
+      "earned": 13,
+      "spent": 0,
+      "balance": 28
+    },
+    "U0A8A7Q180P": {
+      "id": "U0A8A7Q180P",
+      "earned": 465,
+      "spent": 461,
+      "balance": 4
+    },
+    "U0A8U9Z77C2": {
+      "id": "U0A8U9Z77C2",
+      "earned": 17,
+      "spent": 10,
+      "balance": 12
+    },
+    "U0A7QRVE0EB": {
+      "id": "U0A7QRVE0EB",
+      "earned": 557,
+      "spent": 535,
+      "balance": 22
+    },
+    "U0A7N2JGD9U": {
+      "id": "U0A7N2JGD9U",
+      "earned": 10,
+      "spent": 0,
+      "balance": 10
+    },
+    "U079084G91P": {
+      "id": "U079084G91P",
+      "earned": 238,
+      "spent": 258,
+      "balance": 0
+    },
+    "U0A7776A2MT": {
+      "id": "U0A7776A2MT",
+      "earned": 370,
+      "spent": 375,
+      "balance": 7
+    },
+    "U0A8AQGEFHP": {
+      "id": "U0A8AQGEFHP",
+      "earned": 198,
+      "spent": 901,
+      "balance": 0
+    },
+    "U0A8Q5F3KHC": {
+      "id": "U0A8Q5F3KHC",
+      "earned": 141,
+      "spent": 141,
+      "balance": 0
+    },
+    "U095Z62L9SM": {
+      "id": "U095Z62L9SM",
+      "earned": 10,
+      "spent": 0,
+      "balance": 10
+    },
+    "U0A7QDU8Q0N": {
+      "id": "U0A7QDU8Q0N",
+      "earned": 385,
+      "spent": 388,
+      "balance": 9
+    },
+    "U09BEAD3DSA": {
+      "id": "U09BEAD3DSA",
+      "earned": 27,
+      "spent": 0,
+      "balance": 57
+    },
+    "U0A0A0S987Q": {
+      "id": "U0A0A0S987Q",
+      "earned": 498,
+      "spent": 520,
+      "balance": 0
+    },
+    "U080V8UG5BR": {
+      "id": "U080V8UG5BR",
+      "earned": 720,
+      "spent": 716,
+      "balance": 19
+    },
+    "U0A90LUMHGA": {
+      "id": "U0A90LUMHGA",
+      "earned": 12,
+      "spent": 0,
+      "balance": 12
+    },
+    "U091SE37HUN": {
+      "id": "U091SE37HUN",
+      "earned": 17,
+      "spent": 0,
+      "balance": 17
+    },
+    "U0A8Z6CJEEP": {
+      "id": "U0A8Z6CJEEP",
+      "earned": 43,
+      "spent": 43,
+      "balance": 0
+    },
+    "U054VC2KM9P": {
+      "id": "U054VC2KM9P",
+      "earned": 6377,
+      "spent": 5494,
+      "balance": 1044
+    },
+    "U0A2K2WS709": {
+      "id": "U0A2K2WS709",
+      "earned": 2396,
+      "spent": 2406,
+      "balance": 0
+    },
+    "U08KPHZT0N4": {
+      "id": "U08KPHZT0N4",
+      "earned": 12,
+      "spent": 0,
+      "balance": 12
+    },
+    "U0A793WKUBW": {
+      "id": "U0A793WKUBW",
+      "earned": 2269,
+      "spent": 1189,
+      "balance": 1080
+    },
+    "U092CHMLB24": {
+      "id": "U092CHMLB24",
+      "earned": 859,
+      "spent": 912,
+      "balance": 2
+    },
+    "U08NCJE9SGG": {
+      "id": "U08NCJE9SGG",
+      "earned": 28,
+      "spent": 0,
+      "balance": 28
+    },
+    "U0A3DLEBG67": {
+      "id": "U0A3DLEBG67",
+      "earned": 471,
+      "spent": 494,
+      "balance": 0
+    },
+    "U0A8DPQ5T2M": {
+      "id": "U0A8DPQ5T2M",
+      "earned": 133,
+      "spent": 132,
+      "balance": 8
+    },
+    "U0A0JJ603N2": {
+      "id": "U0A0JJ603N2",
+      "earned": 13,
+      "spent": 22,
+      "balance": 1
+    },
+    "U0A870E9HPC": {
+      "id": "U0A870E9HPC",
+      "earned": 0,
+      "spent": 10,
+      "balance": 5
+    },
+    "U0A71M2MFTP": {
+      "id": "U0A71M2MFTP",
+      "earned": 5,
+      "spent": 0,
+      "balance": 15
+    },
+    "U09H9QZBBCG": {
+      "id": "U09H9QZBBCG",
+      "earned": 13,
+      "spent": 10,
+      "balance": 3
+    },
+    "U0A73HK8RS9": {
+      "id": "U0A73HK8RS9",
+      "earned": 191,
+      "spent": 218,
+      "balance": 21
+    },
+    "U07UH9DQA4B": {
+      "id": "U07UH9DQA4B",
+      "earned": 1450,
+      "spent": 35,
+      "balance": 1425
+    },
+    "U09H03AC7AL": {
+      "id": "U09H03AC7AL",
+      "earned": 341,
+      "spent": 574,
+      "balance": 5
+    },
+    "U081RF7D23D": {
+      "id": "U081RF7D23D",
+      "earned": 147,
+      "spent": 10,
+      "balance": 147
+    },
+    "U0A2L9T7C12": {
+      "id": "U0A2L9T7C12",
+      "earned": 29,
+      "spent": 0,
+      "balance": 34
+    },
+    "U0A9S13HQF3": {
+      "id": "U0A9S13HQF3",
+      "earned": 3452,
+      "spent": 3452,
+      "balance": 0
+    },
+    "U0A7HGGFLPK": {
+      "id": "U0A7HGGFLPK",
+      "earned": 4285,
+      "spent": 3949,
+      "balance": 6
+    },
+    "U09MQ8PKNMU": {
+      "id": "U09MQ8PKNMU",
+      "earned": 380,
+      "spent": 390,
+      "balance": 0
+    },
+    "U07ABB6UPE0": {
+      "id": "U07ABB6UPE0",
+      "earned": 60,
+      "spent": 72,
+      "balance": 0
+    },
+    "U0A98AB3KS9": {
+      "id": "U0A98AB3KS9",
+      "earned": 10,
+      "spent": 0,
+      "balance": 10
+    },
+    "U091J7SHBAA": {
+      "id": "U091J7SHBAA",
+      "earned": 10,
+      "spent": 10,
+      "balance": 10
+    },
+    "U0A72EJABAA": {
+      "id": "U0A72EJABAA",
+      "earned": 170,
+      "spent": 95,
+      "balance": 91
+    },
+    "U0AA95YCSAU": {
+      "id": "U0AA95YCSAU",
+      "earned": 124,
+      "spent": 122,
+      "balance": 2
+    },
+    "U0905G0BRU5": {
+      "id": "U0905G0BRU5",
+      "earned": 7908,
+      "spent": 7805,
+      "balance": 108
+    },
+    "U0A6U1V879V": {
+      "id": "U0A6U1V879V",
+      "earned": 5478,
+      "spent": 5504,
+      "balance": 0
+    },
+    "U06GL5GN8E6": {
+      "id": "U06GL5GN8E6",
+      "earned": 10,
+      "spent": 10,
+      "balance": 0
+    },
+    "U0A6PPEFJUW": {
+      "id": "U0A6PPEFJUW",
+      "earned": 10,
+      "spent": 0,
+      "balance": 10
+    },
+    "U0A68NZ9CMA": {
+      "id": "U0A68NZ9CMA",
+      "earned": 18,
+      "spent": 31,
+      "balance": 0
+    },
+    "U09QS5TK198": {
+      "id": "U09QS5TK198",
+      "earned": 15,
+      "spent": 10,
+      "balance": 5
+    },
+    "U0A9BB996HK": {
+      "id": "U0A9BB996HK",
+      "earned": 7,
+      "spent": 0,
+      "balance": 12
+    },
+    "U0A1SGVTEQP": {
+      "id": "U0A1SGVTEQP",
+      "earned": 152,
+      "spent": 186,
+      "balance": 6
+    },
+    "U096J8GJ87J": {
+      "id": "U096J8GJ87J",
+      "earned": 870,
+      "spent": 898,
+      "balance": 0
+    },
+    "U07P12KAYRY": {
+      "id": "U07P12KAYRY",
+      "earned": 250,
+      "spent": 260,
+      "balance": 0
+    },
+    "U09DYNHJN5B": {
+      "id": "U09DYNHJN5B",
+      "earned": 1877,
+      "spent": 1920,
+      "balance": 0
+    },
+    "U0A1SGYEXPW": {
+      "id": "U0A1SGYEXPW",
+      "earned": 12,
+      "spent": 0,
+      "balance": 12
+    },
+    "U091URR1YAJ": {
+      "id": "U091URR1YAJ",
+      "earned": 208,
+      "spent": 218,
+      "balance": 0
+    },
+    "U0839LGG3GC": {
+      "id": "U0839LGG3GC",
+      "earned": 15,
+      "spent": 0,
+      "balance": 25
+    },
+    "U095QPCH2JJ": {
+      "id": "U095QPCH2JJ",
+      "earned": 17,
+      "spent": 10,
+      "balance": 17
+    },
+    "U0A73LN55TP": {
+      "id": "U0A73LN55TP",
+      "earned": 9979,
+      "spent": 8779,
+      "balance": 1200
+    },
+    "U096CP13BEW": {
+      "id": "U096CP13BEW",
+      "earned": 20,
+      "spent": 10,
+      "balance": 10
+    },
+    "U0A83LHGY7K": {
+      "id": "U0A83LHGY7K",
+      "earned": 2713,
+      "spent": 2375,
+      "balance": 0
+    },
+    "U0A78CT01A6": {
+      "id": "U0A78CT01A6",
+      "earned": 894,
+      "spent": 893,
+      "balance": 6
+    },
+    "U0A87N7JQUV": {
+      "id": "U0A87N7JQUV",
+      "earned": 87,
+      "spent": 102,
+      "balance": 0
+    },
+    "U091T7NAXL6": {
+      "id": "U091T7NAXL6",
+      "earned": 2,
+      "spent": 18,
+      "balance": 0
+    },
+    "U06EG073S1J": {
+      "id": "U06EG073S1J",
+      "earned": 16,
+      "spent": 66,
+      "balance": 3
+    },
+    "U09ABRX9H41": {
+      "id": "U09ABRX9H41",
+      "earned": 10,
+      "spent": 0,
+      "balance": 15
+    },
+    "U07AGEVSTD2": {
+      "id": "U07AGEVSTD2",
+      "earned": 910,
+      "spent": 0,
+      "balance": 910
+    },
+    "U0A9A5S41PV": {
+      "id": "U0A9A5S41PV",
+      "earned": 29,
+      "spent": 0,
+      "balance": 36
+    },
+    "U09D4S5E4CF": {
+      "id": "U09D4S5E4CF",
+      "earned": 93,
+      "spent": 78,
+      "balance": 27
+    },
+    "U08NXJL86KT": {
+      "id": "U08NXJL86KT",
+      "earned": 2453,
+      "spent": 2405,
+      "balance": 230
+    },
+    "U091MNGNRA9": {
+      "id": "U091MNGNRA9",
+      "earned": 1845,
+      "spent": 1852,
+      "balance": 3
+    },
+    "U07U74XSYLF": {
+      "id": "U07U74XSYLF",
+      "earned": 18,
+      "spent": 10,
+      "balance": 8
+    },
+    "U09S2C21MD1": {
+      "id": "U09S2C21MD1",
+      "earned": 968,
+      "spent": 584,
+      "balance": 0
+    },
+    "U0A3U5X0QUE": {
+      "id": "U0A3U5X0QUE",
+      "earned": 531,
+      "spent": 528,
+      "balance": 3
+    },
+    "U0A9QQRK6K0": {
+      "id": "U0A9QQRK6K0",
+      "earned": 12,
+      "spent": 0,
+      "balance": 12
+    },
+    "U0A9B3SMZEK": {
+      "id": "U0A9B3SMZEK",
+      "earned": 10,
+      "spent": 0,
+      "balance": 10
+    },
+    "U09BSMKPT7Y": {
+      "id": "U09BSMKPT7Y",
+      "earned": 5194,
+      "spent": 3707,
+      "balance": 1
+    },
+    "U0A9V6R0AJD": {
+      "id": "U0A9V6R0AJD",
+      "earned": 905,
+      "spent": 887,
+      "balance": 21
+    },
+    "U092329JX89": {
+      "id": "U092329JX89",
+      "earned": 12,
+      "spent": 20,
+      "balance": 0
+    },
+    "U09BU0KN8UW": {
+      "id": "U09BU0KN8UW",
+      "earned": 206,
+      "spent": 192,
+      "balance": 0
+    },
+    "U089QTPBYJ0": {
+      "id": "U089QTPBYJ0",
+      "earned": 4186,
+      "spent": 4218,
+      "balance": 0
+    },
+    "U0A7ZECG8RL": {
+      "id": "U0A7ZECG8RL",
+      "earned": 353,
+      "spent": 318,
+      "balance": 62
+    },
+    "U0A82MP823X": {
+      "id": "U0A82MP823X",
+      "earned": 374,
+      "spent": 384,
+      "balance": 3
+    },
+    "U0A9BNF0Z6Z": {
+      "id": "U0A9BNF0Z6Z",
+      "earned": 7,
+      "spent": 10,
+      "balance": 12
+    },
+    "U0A4V01TS23": {
+      "id": "U0A4V01TS23",
+      "earned": 1232,
+      "spent": 1245,
+      "balance": 5
+    },
+    "U091UNY879C": {
+      "id": "U091UNY879C",
+      "earned": 16,
+      "spent": 0,
+      "balance": 16
+    },
+    "U0A7KEPB04X": {
+      "id": "U0A7KEPB04X",
+      "earned": 91,
+      "spent": 0,
+      "balance": 96
+    },
+    "U0A8GDTG4LQ": {
+      "id": "U0A8GDTG4LQ",
+      "earned": 1067,
+      "spent": 1066,
+      "balance": 1
+    },
+    "U0A4H78N1BR": {
+      "id": "U0A4H78N1BR",
+      "earned": 2589,
+      "spent": 2682,
+      "balance": 34
+    },
+    "U0A9EAP08EN": {
+      "id": "U0A9EAP08EN",
+      "earned": 20,
+      "spent": 0,
+      "balance": 20
+    },
+    "U092H6G33T2": {
+      "id": "U092H6G33T2",
+      "earned": 1817,
+      "spent": 1336,
+      "balance": 696
+    },
+    "U0938MZG8Q6": {
+      "id": "U0938MZG8Q6",
+      "earned": 295,
+      "spent": 298,
+      "balance": 7
+    },
+    "U0AB4DTU9CY": {
+      "id": "U0AB4DTU9CY",
+      "earned": 595,
+      "spent": 10,
+      "balance": 585
+    },
+    "U0A4QJFJJSK": {
+      "id": "U0A4QJFJJSK",
+      "earned": 43,
+      "spent": 43,
+      "balance": 0
+    },
+    "U0A7CQD6W1E": {
+      "id": "U0A7CQD6W1E",
+      "earned": 2607,
+      "spent": 2602,
+      "balance": 55
+    },
+    "U08T0C846F6": {
+      "id": "U08T0C846F6",
+      "earned": 20,
+      "spent": 0,
+      "balance": 20
+    },
+    "U0842GN23MG": {
+      "id": "U0842GN23MG",
+      "earned": 2,
+      "spent": 0,
+      "balance": 10
+    },
+    "U082GTRTR5X": {
+      "id": "U082GTRTR5X",
+      "earned": 5370,
+      "spent": 5390,
+      "balance": 23
+    },
+    "U07P3KHHNJE": {
+      "id": "U07P3KHHNJE",
+      "earned": 79,
+      "spent": 117,
+      "balance": 5
+    },
+    "U09CNHJA5D5": {
+      "id": "U09CNHJA5D5",
+      "earned": 7354,
+      "spent": 5801,
+      "balance": 1571
+    },
+    "U07R8F5H56U": {
+      "id": "U07R8F5H56U",
+      "earned": 1622,
+      "spent": 60,
+      "balance": 1580
+    },
+    "U0790DKM6KB": {
+      "id": "U0790DKM6KB",
+      "earned": 755,
+      "spent": 760,
+      "balance": 121
+    },
+    "U093BFUBEBA": {
+      "id": "U093BFUBEBA",
+      "earned": 23,
+      "spent": 51,
+      "balance": 0
+    },
+    "U094FQCCF40": {
+      "id": "U094FQCCF40",
+      "earned": 232,
+      "spent": 250,
+      "balance": 0
+    },
+    "U093RE2RUK0": {
+      "id": "U093RE2RUK0",
+      "earned": 131,
+      "spent": 190,
+      "balance": 11
+    },
+    "U0A7J4EHADP": {
+      "id": "U0A7J4EHADP",
+      "earned": 1542,
+      "spent": 0,
+      "balance": 1670
+    },
+    "U091KALMG3Y": {
+      "id": "U091KALMG3Y",
+      "earned": 13613,
+      "spent": 13553,
+      "balance": 4
+    },
+    "U07GV6PJU57": {
+      "id": "U07GV6PJU57",
+      "earned": 113,
+      "spent": 123,
+      "balance": 3
+    },
+    "U093NQ2JJCB": {
+      "id": "U093NQ2JJCB",
+      "earned": 263,
+      "spent": 273,
+      "balance": 0
+    },
+    "U0A9HLY6ETE": {
+      "id": "U0A9HLY6ETE",
+      "earned": 9385,
+      "spent": 9386,
+      "balance": 31
+    },
+    "U0A9KE6Q0HM": {
+      "id": "U0A9KE6Q0HM",
+      "earned": 10,
+      "spent": 0,
+      "balance": 22
+    },
+    "U0A84BWLWDS": {
+      "id": "U0A84BWLWDS",
+      "earned": 7966,
+      "spent": 8262,
+      "balance": 0
+    },
+    "U091STGKU4D": {
+      "id": "U091STGKU4D",
+      "earned": 455,
+      "spent": 472,
+      "balance": 4
+    },
+    "U07QKHJKLN6": {
+      "id": "U07QKHJKLN6",
+      "earned": 2562,
+      "spent": 2570,
+      "balance": 2
+    },
+    "U0A17N2KAGN": {
+      "id": "U0A17N2KAGN",
+      "earned": 1587,
+      "spent": 1597,
+      "balance": 0
+    },
+    "U0A8KA80SPL": {
+      "id": "U0A8KA80SPL",
+      "earned": 205,
+      "spent": 162,
+      "balance": 72
+    },
+    "U09FZUW9FQB": {
+      "id": "U09FZUW9FQB",
+      "earned": 46,
+      "spent": 44,
+      "balance": 2
+    },
+    "U04AQNZRJQ5": {
+      "id": "U04AQNZRJQ5",
+      "earned": 19,
+      "spent": 20,
+      "balance": 9
+    },
+    "U04PEAECRA5": {
+      "id": "U04PEAECRA5",
+      "earned": 4555,
+      "spent": 4175,
+      "balance": 380
+    },
+    "U097UQEBNJD": {
+      "id": "U097UQEBNJD",
+      "earned": 10,
+      "spent": 20,
+      "balance": 0
+    },
+    "U09GZAZ7NC8": {
+      "id": "U09GZAZ7NC8",
+      "earned": 224,
+      "spent": 224,
+      "balance": 0
+    },
+    "U0A7Q0H63C2": {
+      "id": "U0A7Q0H63C2",
+      "earned": 4146,
+      "spent": 2714,
+      "balance": 1190
+    },
+    "U0AB4AWMBK3": {
+      "id": "U0AB4AWMBK3",
+      "earned": 10,
+      "spent": 0,
+      "balance": 10
+    },
+    "U078M8Q8RNF": {
+      "id": "U078M8Q8RNF",
+      "earned": 15,
+      "spent": 0,
+      "balance": 25
+    },
+    "U0925E2HVQR": {
+      "id": "U0925E2HVQR",
+      "earned": 994,
+      "spent": 1006,
+      "balance": 8
+    },
+    "U08TRR1KEMD": {
+      "id": "U08TRR1KEMD",
+      "earned": 123,
+      "spent": 114,
+      "balance": 9
+    },
+    "U092EBP59B2": {
+      "id": "U092EBP59B2",
+      "earned": 3105,
+      "spent": 3028,
+      "balance": 85
+    },
+    "U0A6P5RRLS3": {
+      "id": "U0A6P5RRLS3",
+      "earned": 759,
+      "spent": 744,
+      "balance": 25
+    },
+    "U08SS7Z7LJD": {
+      "id": "U08SS7Z7LJD",
+      "earned": 1261,
+      "spent": 1555,
+      "balance": 0
+    },
+    "U0A84EEN34K": {
+      "id": "U0A84EEN34K",
+      "earned": 566,
+      "spent": 569,
+      "balance": 0
+    },
+    "U0A4TBWJR42": {
+      "id": "U0A4TBWJR42",
+      "earned": 8076,
+      "spent": 7486,
+      "balance": 600
+    },
+    "U0AAS4E80N6": {
+      "id": "U0AAS4E80N6",
+      "earned": 904,
+      "spent": 10,
+      "balance": 889
+    },
+    "U0A1VLDJLA0": {
+      "id": "U0A1VLDJLA0",
+      "earned": 93,
+      "spent": 10,
+      "balance": 113
+    },
+    "U089903JZDH": {
+      "id": "U089903JZDH",
+      "earned": 348,
+      "spent": 0,
+      "balance": 368
+    },
+    "U0AB4AXKH1N": {
+      "id": "U0AB4AXKH1N",
+      "earned": 328,
+      "spent": 315,
+      "balance": 13
+    },
+    "U09M6CNTTML": {
+      "id": "U09M6CNTTML",
+      "earned": 10,
+      "spent": 10,
+      "balance": 10
+    },
+    "U091PMAD2RZ": {
+      "id": "U091PMAD2RZ",
+      "earned": 10,
+      "spent": 0,
+      "balance": 20
+    },
+    "U0A21R8V5FX": {
+      "id": "U0A21R8V5FX",
+      "earned": 79,
+      "spent": 88,
+      "balance": 1
+    },
+    "U084UQFF0LC": {
+      "id": "U084UQFF0LC",
+      "earned": 1096,
+      "spent": 1141,
+      "balance": 8
+    },
+    "U0825U4K39Q": {
+      "id": "U0825U4K39Q",
+      "earned": 266,
+      "spent": 278,
+      "balance": 0
+    },
+    "U0ABKJ8S97A": {
+      "id": "U0ABKJ8S97A",
+      "earned": 91,
+      "spent": 10,
+      "balance": 91
+    },
+    "U093W83M9F0": {
+      "id": "U093W83M9F0",
+      "earned": 656,
+      "spent": 40,
+      "balance": 626
+    },
+    "U0A9V5E6945": {
+      "id": "U0A9V5E6945",
+      "earned": 202,
+      "spent": 220,
+      "balance": 0
+    },
+    "U0A8RA1MMFY": {
+      "id": "U0A8RA1MMFY",
+      "earned": 266,
+      "spent": 274,
+      "balance": 2
+    },
+    "U0A0E74D8LC": {
+      "id": "U0A0E74D8LC",
+      "earned": 18,
+      "spent": 0,
+      "balance": 18
+    },
+    "U09E9GMP2TX": {
+      "id": "U09E9GMP2TX",
+      "earned": 14,
+      "spent": 22,
+      "balance": 2
+    },
+    "U080A3QP42C": {
+      "id": "U080A3QP42C",
+      "earned": 3926,
+      "spent": 3970,
+      "balance": 28
+    },
+    "U099D74CAUR": {
+      "id": "U099D74CAUR",
+      "earned": 4830,
+      "spent": 4842,
+      "balance": 0
+    },
+    "U0A5TL58UTW": {
+      "id": "U0A5TL58UTW",
+      "earned": 197,
+      "spent": 50,
+      "balance": 147
+    },
+    "U07V12XBSF6": {
+      "id": "U07V12XBSF6",
+      "earned": 2507,
+      "spent": 2597,
+      "balance": 0
+    },
+    "U0795GZAG6M": {
+      "id": "U0795GZAG6M",
+      "earned": 487,
+      "spent": 212,
+      "balance": 5
+    },
+    "U07T7BUQMGF": {
+      "id": "U07T7BUQMGF",
+      "earned": 908,
+      "spent": 847,
+      "balance": 0
+    },
+    "U095FAN195Y": {
+      "id": "U095FAN195Y",
+      "earned": 630,
+      "spent": 643,
+      "balance": 3
+    },
+    "U0AAM0GL21M": {
+      "id": "U0AAM0GL21M",
+      "earned": 10,
+      "spent": 10,
+      "balance": 0
+    },
+    "U07DY3SJXK3": {
+      "id": "U07DY3SJXK3",
+      "earned": 2056,
+      "spent": 120,
+      "balance": 1952
+    },
+    "U0A71P9UQ0L": {
+      "id": "U0A71P9UQ0L",
+      "earned": 10,
+      "spent": 10,
+      "balance": 0
+    },
+    "U0666VATMT5": {
+      "id": "U0666VATMT5",
+      "earned": 5526,
+      "spent": 5725,
+      "balance": 6
+    },
+    "U0918MSQ7E3": {
+      "id": "U0918MSQ7E3",
+      "earned": 1486,
+      "spent": 1515,
+      "balance": 2
+    },
+    "U0A4FK3G99V": {
+      "id": "U0A4FK3G99V",
+      "earned": 25,
+      "spent": 1,
+      "balance": 40
+    },
+    "U0A2TMHUXM1": {
+      "id": "U0A2TMHUXM1",
+      "earned": 263,
+      "spent": 281,
+      "balance": 0
+    },
+    "U0A6CUVDKAB": {
+      "id": "U0A6CUVDKAB",
+      "earned": 497,
+      "spent": 530,
+      "balance": 0
+    },
+    "U09CY2QAZMJ": {
+      "id": "U09CY2QAZMJ",
+      "earned": 3088,
+      "spent": 3119,
+      "balance": 331
+    },
+    "U0A5EEQ1RFY": {
+      "id": "U0A5EEQ1RFY",
+      "earned": 8,
+      "spent": 21,
+      "balance": 3
+    },
+    "U0A5G7Y59LH": {
+      "id": "U0A5G7Y59LH",
+      "earned": 205,
+      "spent": 236,
+      "balance": 0
+    },
+    "U093SU68GHY": {
+      "id": "U093SU68GHY",
+      "earned": 6,
+      "spent": 20,
+      "balance": 2
+    },
+    "U09R63BBJDV": {
+      "id": "U09R63BBJDV",
+      "earned": 544,
+      "spent": 511,
+      "balance": 61
+    },
+    "U09HW4WA0C9": {
+      "id": "U09HW4WA0C9",
+      "earned": 2523,
+      "spent": 2546,
+      "balance": 0
+    },
+    "U0AC2K43MA4": {
+      "id": "U0AC2K43MA4",
+      "earned": 5,
+      "spent": 10,
+      "balance": 5
+    },
+    "U0A1V1F1JRJ": {
+      "id": "U0A1V1F1JRJ",
+      "earned": 1603,
+      "spent": 1646,
+      "balance": 0
+    },
+    "U07960MD940": {
+      "id": "U07960MD940",
+      "earned": 131,
+      "spent": 0,
+      "balance": 144
+    },
+    "U0823APHVK7": {
+      "id": "U0823APHVK7",
+      "earned": 7118,
+      "spent": 1380,
+      "balance": 5748
+    },
+    "U0864RMD6BE": {
+      "id": "U0864RMD6BE",
+      "earned": 3764,
+      "spent": 3978,
+      "balance": 0
+    },
+    "U0A7A37G8S0": {
+      "id": "U0A7A37G8S0",
+      "earned": 22,
+      "spent": 0,
+      "balance": 27
+    },
+    "U096RJKR5C3": {
+      "id": "U096RJKR5C3",
+      "earned": 9,
+      "spent": 0,
+      "balance": 27
+    },
+    "U08H2BFAB1Q": {
+      "id": "U08H2BFAB1Q",
+      "earned": 1712,
+      "spent": 1414,
+      "balance": 314
+    },
+    "U090LAT6QKB": {
+      "id": "U090LAT6QKB",
+      "earned": 4305,
+      "spent": 4082,
+      "balance": 233
+    },
+    "U0A7A7TT28L": {
+      "id": "U0A7A7TT28L",
+      "earned": 5091,
+      "spent": 5124,
+      "balance": 0
+    },
+    "U0A5KFABMNY": {
+      "id": "U0A5KFABMNY",
+      "earned": 7,
+      "spent": 0,
+      "balance": 17
+    },
+    "U0924GFMY1X": {
+      "id": "U0924GFMY1X",
+      "earned": 7549,
+      "spent": 7590,
+      "balance": 2
+    },
+    "U0A8GGF9PDZ": {
+      "id": "U0A8GGF9PDZ",
+      "earned": 505,
+      "spent": 516,
+      "balance": 1
+    },
+    "U0AAV909J68": {
+      "id": "U0AAV909J68",
+      "earned": 10,
+      "spent": 10,
+      "balance": 5
+    },
+    "U091RHATJBW": {
+      "id": "U091RHATJBW",
+      "earned": 83,
+      "spent": 85,
+      "balance": 8
+    },
+    "U0A7FN7RCMU": {
+      "id": "U0A7FN7RCMU",
+      "earned": 196,
+      "spent": 219,
+      "balance": 0
+    },
+    "U0A71TWUM7D": {
+      "id": "U0A71TWUM7D",
+      "earned": 4234,
+      "spent": 4260,
+      "balance": 1
+    },
+    "U09DY9N8RAS": {
+      "id": "U09DY9N8RAS",
+      "earned": 15,
+      "spent": 0,
+      "balance": 15
+    },
+    "U0A9HLKSBAQ": {
+      "id": "U0A9HLKSBAQ",
+      "earned": 54,
+      "spent": 40,
+      "balance": 32
+    },
+    "U087X4AG35K": {
+      "id": "U087X4AG35K",
+      "earned": 380,
+      "spent": 398,
+      "balance": 3
+    },
+    "U0A6MK1NN2Z": {
+      "id": "U0A6MK1NN2Z",
+      "earned": 2,
+      "spent": 0,
+      "balance": 12
+    },
+    "U096N1C0JMQ": {
+      "id": "U096N1C0JMQ",
+      "earned": 70,
+      "spent": 80,
+      "balance": 6
+    },
+    "U0AA527K2Q1": {
+      "id": "U0AA527K2Q1",
+      "earned": 732,
+      "spent": 744,
+      "balance": 4
+    },
+    "U0A39KCAT4K": {
+      "id": "U0A39KCAT4K",
+      "earned": 20,
+      "spent": 0,
+      "balance": 32
+    },
+    "U0AAVSGH3HC": {
+      "id": "U0AAVSGH3HC",
+      "earned": 2022,
+      "spent": 2034,
+      "balance": 0
+    },
+    "U09SNBFT02K": {
+      "id": "U09SNBFT02K",
+      "earned": 9,
+      "spent": 0,
+      "balance": 9
+    },
+    "U0A6U9MEA5D": {
+      "id": "U0A6U9MEA5D",
+      "earned": 4,
+      "spent": 20,
+      "balance": 0
+    },
+    "U09940XAJ3B": {
+      "id": "U09940XAJ3B",
+      "earned": 4,
+      "spent": 0,
+      "balance": 4
+    },
+    "U0A7NQL1FB7": {
+      "id": "U0A7NQL1FB7",
+      "earned": 7258,
+      "spent": 7265,
+      "balance": 6
+    },
+    "U0ABVJP7KD2": {
+      "id": "U0ABVJP7KD2",
+      "earned": 15,
+      "spent": 0,
+      "balance": 20
+    },
+    "U089MN4B2E7": {
+      "id": "U089MN4B2E7",
+      "earned": 340,
+      "spent": 141,
+      "balance": 15
+    },
+    "U07GSGF3Y1L": {
+      "id": "U07GSGF3Y1L",
+      "earned": 347,
+      "spent": 415,
+      "balance": 0
+    },
+    "U0AAQNYGZV3": {
+      "id": "U0AAQNYGZV3",
+      "earned": 9,
+      "spent": 0,
+      "balance": 35
+    },
+    "U07D53W8L6R": {
+      "id": "U07D53W8L6R",
+      "earned": 0,
+      "spent": 10,
+      "balance": 0
+    },
+    "U09GFHENJFP": {
+      "id": "U09GFHENJFP",
+      "earned": 1781,
+      "spent": 175,
+      "balance": 0
+    },
+    "U0AC0RGRJF8": {
+      "id": "U0AC0RGRJF8",
+      "earned": 12,
+      "spent": 0,
+      "balance": 12
+    },
+    "U0ABFKGQE56": {
+      "id": "U0ABFKGQE56",
+      "earned": 77,
+      "spent": 83,
+      "balance": 10
+    },
+    "U0A6RDDRWKH": {
+      "id": "U0A6RDDRWKH",
+      "earned": 1830,
+      "spent": 1936,
+      "balance": 28
+    },
+    "U08S00249M3": {
+      "id": "U08S00249M3",
+      "earned": 299,
+      "spent": 306,
+      "balance": 10
+    },
+    "U0AC18DAC9Z": {
+      "id": "U0AC18DAC9Z",
+      "earned": 10,
+      "spent": 0,
+      "balance": 10
+    },
+    "U0A1XMKQU6S": {
+      "id": "U0A1XMKQU6S",
+      "earned": 29,
+      "spent": 0,
+      "balance": 29
+    },
+    "U097AHQQNN9": {
+      "id": "U097AHQQNN9",
+      "earned": 1869,
+      "spent": 1832,
+      "balance": 42
+    },
+    "U09R9SAUPTK": {
+      "id": "U09R9SAUPTK",
+      "earned": 3,
+      "spent": 10,
+      "balance": 15
+    },
+    "U0A5PH25V70": {
+      "id": "U0A5PH25V70",
+      "earned": 7945,
+      "spent": 7957,
+      "balance": 0
+    },
+    "U0ACM4LUTG9": {
+      "id": "U0ACM4LUTG9",
+      "earned": 15,
+      "spent": 0,
+      "balance": 15
+    },
+    "U09AJASACUX": {
+      "id": "U09AJASACUX",
+      "earned": 1670,
+      "spent": 1688,
+      "balance": 0
+    },
+    "U0AAQL221GS": {
+      "id": "U0AAQL221GS",
+      "earned": 35,
+      "spent": 40,
+      "balance": 0
+    },
+    "U07QC35DFV0": {
+      "id": "U07QC35DFV0",
+      "earned": 4543,
+      "spent": 4729,
+      "balance": 0
+    },
+    "U0A71MJF9L5": {
+      "id": "U0A71MJF9L5",
+      "earned": 160,
+      "spent": 160,
+      "balance": 0
+    },
+    "U091M21518T": {
+      "id": "U091M21518T",
+      "earned": 2309,
+      "spent": 2229,
+      "balance": 80
+    },
+    "U095KCGG3A9": {
+      "id": "U095KCGG3A9",
+      "earned": 10,
+      "spent": 0,
+      "balance": 10
+    },
+    "U07UXR83S6T": {
+      "id": "U07UXR83S6T",
+      "earned": 5,
+      "spent": 0,
+      "balance": 10
+    },
+    "U0A9BL2E8QY": {
+      "id": "U0A9BL2E8QY",
+      "earned": 37,
+      "spent": 37,
+      "balance": 0
+    },
+    "U0798M2MFAM": {
+      "id": "U0798M2MFAM",
+      "earned": 10,
+      "spent": 10,
+      "balance": 0
+    },
+    "U0A8SENLBK2": {
+      "id": "U0A8SENLBK2",
+      "earned": 234,
+      "spent": 0,
+      "balance": 256
+    },
+    "U0AD5L22C8G": {
+      "id": "U0AD5L22C8G",
+      "earned": 115,
+      "spent": 141,
+      "balance": 0
+    },
+    "U092TLL6ZH6": {
+      "id": "U092TLL6ZH6",
+      "earned": 273,
+      "spent": 0,
+      "balance": 283
+    },
+    "U0A1ZUXAPAL": {
+      "id": "U0A1ZUXAPAL",
+      "earned": 15,
+      "spent": 0,
+      "balance": 37
+    },
+    "U0A9BAEQX6G": {
+      "id": "U0A9BAEQX6G",
+      "earned": 1491,
+      "spent": 1431,
+      "balance": 64
+    },
+    "U078G7DML8P": {
+      "id": "U078G7DML8P",
+      "earned": 4024,
+      "spent": 3741,
+      "balance": 293
+    },
+    "U0ADNCEM4TA": {
+      "id": "U0ADNCEM4TA",
+      "earned": 12,
+      "spent": 0,
+      "balance": 12
+    },
+    "U06DP2ZMZ3P": {
+      "id": "U06DP2ZMZ3P",
+      "earned": 333,
+      "spent": 344,
+      "balance": 1
+    },
+    "U0A5Z4ZTLJC": {
+      "id": "U0A5Z4ZTLJC",
+      "earned": 1580,
+      "spent": 1605,
+      "balance": 0
+    },
+    "U0A8HT3SY0L": {
+      "id": "U0A8HT3SY0L",
+      "earned": 19,
+      "spent": 0,
+      "balance": 35
+    },
+    "U084K35L37V": {
+      "id": "U084K35L37V",
+      "earned": 904,
+      "spent": 904,
+      "balance": 0
+    },
+    "U0ACQAZSEC9": {
+      "id": "U0ACQAZSEC9",
+      "earned": 302,
+      "spent": 322,
+      "balance": 0
+    },
+    "U0AAKDGP0AX": {
+      "id": "U0AAKDGP0AX",
+      "earned": 10,
+      "spent": 88,
+      "balance": 54
+    },
+    "U0AC75E4EKH": {
+      "id": "U0AC75E4EKH",
+      "earned": 2,
+      "spent": 0,
+      "balance": 10
+    },
+    "U093URNVC84": {
+      "id": "U093URNVC84",
+      "earned": 0,
+      "spent": 10,
+      "balance": 0
+    },
+    "U0A7ZKP5MA4": {
+      "id": "U0A7ZKP5MA4",
+      "earned": 370,
+      "spent": 382,
+      "balance": 0
+    },
+    "U091HJG84VD": {
+      "id": "U091HJG84VD",
+      "earned": 231,
+      "spent": 241,
+      "balance": 104
+    },
+    "U0847KFMUSC": {
+      "id": "U0847KFMUSC",
+      "earned": 510,
+      "spent": 682,
+      "balance": 0
+    },
+    "U09ALN5LPU5": {
+      "id": "U09ALN5LPU5",
+      "earned": 2,
+      "spent": 0,
+      "balance": 12
+    },
+    "U0AA3RZMGPK": {
+      "id": "U0AA3RZMGPK",
+      "earned": 2329,
+      "spent": 2139,
+      "balance": 190
+    },
+    "U09UQ385LSG": {
+      "id": "U09UQ385LSG",
+      "earned": 505,
+      "spent": 0,
+      "balance": 592
+    },
+    "U0A7AELFK6G": {
+      "id": "U0A7AELFK6G",
+      "earned": 53,
+      "spent": 65,
+      "balance": 1
+    },
+    "U0A022J58PN": {
+      "id": "U0A022J58PN",
+      "earned": 5619,
+      "spent": 5619,
+      "balance": 0
+    },
+    "U07VC9705D4": {
+      "id": "U07VC9705D4",
+      "earned": 6196,
+      "spent": 424,
+      "balance": 5742
+    },
+    "U0ADGKESXJM": {
+      "id": "U0ADGKESXJM",
+      "earned": 82,
+      "spent": 88,
+      "balance": 9
+    },
+    "U0AEF463T2L": {
+      "id": "U0AEF463T2L",
+      "earned": 13,
+      "spent": 0,
+      "balance": 20
+    },
+    "U09Q2TN62TV": {
+      "id": "U09Q2TN62TV",
+      "earned": 325,
+      "spent": 334,
+      "balance": 1
+    },
+    "U0A9XQ69GAJ": {
+      "id": "U0A9XQ69GAJ",
+      "earned": 2145,
+      "spent": 1,
+      "balance": 2287
+    },
+    "U090XJF4NSD": {
+      "id": "U090XJF4NSD",
+      "earned": 174,
+      "spent": 174,
+      "balance": 0
+    },
+    "U066HP9DWPK": {
+      "id": "U066HP9DWPK",
+      "earned": 5,
+      "spent": 0,
+      "balance": 10
+    },
+    "U0AC2JMVCFQ": {
+      "id": "U0AC2JMVCFQ",
+      "earned": 5,
+      "spent": 0,
+      "balance": 12
+    },
+    "U0A6PJQQ5GU": {
+      "id": "U0A6PJQQ5GU",
+      "earned": 87,
+      "spent": 172,
+      "balance": 18
+    },
+    "U0A54EZSCPK": {
+      "id": "U0A54EZSCPK",
+      "earned": 79,
+      "spent": 88,
+      "balance": 9
+    },
+    "U08A7NEAV3P": {
+      "id": "U08A7NEAV3P",
+      "earned": 20,
+      "spent": 10,
+      "balance": 10
+    },
+    "U0A07TX1MEF": {
+      "id": "U0A07TX1MEF",
+      "earned": 28,
+      "spent": 27,
+      "balance": 1
+    },
+    "U0AA4KJU08P": {
+      "id": "U0AA4KJU08P",
+      "earned": 253,
+      "spent": 253,
+      "balance": 0
+    },
+    "U0A7L8VNZRP": {
+      "id": "U0A7L8VNZRP",
+      "earned": 1269,
+      "spent": 1686,
+      "balance": 15
+    },
+    "U07DG5AQ0RK": {
+      "id": "U07DG5AQ0RK",
+      "earned": 4387,
+      "spent": 4376,
+      "balance": 21
+    },
+    "U0AEK02HQJU": {
+      "id": "U0AEK02HQJU",
+      "earned": 15,
+      "spent": 0,
+      "balance": 15
+    },
+    "U0A3H8TD9GR": {
+      "id": "U0A3H8TD9GR",
+      "earned": 17,
+      "spent": 0,
+      "balance": 17
+    },
+    "U09HF9B02TY": {
+      "id": "U09HF9B02TY",
+      "earned": 0,
+      "spent": 10,
+      "balance": 10
+    },
+    "U0ABED0LLCX": {
+      "id": "U0ABED0LLCX",
+      "earned": 184,
+      "spent": 200,
+      "balance": 0
+    },
+    "U07AMP7C28Y": {
+      "id": "U07AMP7C28Y",
+      "earned": 17,
+      "spent": 10,
+      "balance": 7
+    },
+    "U0A7TEVV23E": {
+      "id": "U0A7TEVV23E",
+      "earned": 8,
+      "spent": 7,
+      "balance": 6
+    },
+    "U09T6KV30KX": {
+      "id": "U09T6KV30KX",
+      "earned": 481,
+      "spent": 485,
+      "balance": 20
+    },
+    "U09EC8M8EBT": {
+      "id": "U09EC8M8EBT",
+      "earned": 89,
+      "spent": 105,
+      "balance": 0
+    },
+    "U0A8F7YH35E": {
+      "id": "U0A8F7YH35E",
+      "earned": 8,
+      "spent": 10,
+      "balance": 3
+    },
+    "U0A9FMXLULT": {
+      "id": "U0A9FMXLULT",
+      "earned": 240,
+      "spent": 0,
+      "balance": 250
+    },
+    "U0A7WTFMPSM": {
+      "id": "U0A7WTFMPSM",
+      "earned": 784,
+      "spent": 150,
+      "balance": 646
+    },
+    "U0AETSFQ17B": {
+      "id": "U0AETSFQ17B",
+      "earned": 15,
+      "spent": 10,
+      "balance": 5
+    },
+    "U08NCJDJEE4": {
+      "id": "U08NCJDJEE4",
+      "earned": 1118,
+      "spent": 1306,
+      "balance": 0
+    },
+    "U0AA6CJ4U64": {
+      "id": "U0AA6CJ4U64",
+      "earned": 15,
+      "spent": 0,
+      "balance": 30
+    },
+    "U0824G9PTFE": {
+      "id": "U0824G9PTFE",
+      "earned": 6158,
+      "spent": 3779,
+      "balance": 2394
+    },
+    "U0A1JP5Q3JP": {
+      "id": "U0A1JP5Q3JP",
+      "earned": 215,
+      "spent": 221,
+      "balance": 4
+    },
+    "U09295JD9GB": {
+      "id": "U09295JD9GB",
+      "earned": 15,
+      "spent": 0,
+      "balance": 25
+    },
+    "U091LSR2QH4": {
+      "id": "U091LSR2QH4",
+      "earned": 591,
+      "spent": 133,
+      "balance": 468
+    },
+    "U094HHPS5B8": {
+      "id": "U094HHPS5B8",
+      "earned": 135,
+      "spent": 78,
+      "balance": 87
+    },
+    "U0A6RTM0FR8": {
+      "id": "U0A6RTM0FR8",
+      "earned": 10,
+      "spent": 0,
+      "balance": 10
+    },
+    "U08U32QC3ME": {
+      "id": "U08U32QC3ME",
+      "earned": 15,
+      "spent": 10,
+      "balance": 5
+    },
+    "U081RUXGF7H": {
+      "id": "U081RUXGF7H",
+      "earned": 324,
+      "spent": 250,
+      "balance": 0
+    },
+    "U0ADCR7FSP4": {
+      "id": "U0ADCR7FSP4",
+      "earned": 34,
+      "spent": 30,
+      "balance": 4
+    },
+    "U0A9TGM769K": {
+      "id": "U0A9TGM769K",
+      "earned": 1241,
+      "spent": 1060,
+      "balance": 186
+    },
+    "U093R7D3XGC": {
+      "id": "U093R7D3XGC",
+      "earned": 12909,
+      "spent": 6475,
+      "balance": 6515
+    },
+    "U08R49H9VRV": {
+      "id": "U08R49H9VRV",
+      "earned": 713,
+      "spent": 605,
+      "balance": 108
+    },
+    "U078KKF3R1Q": {
+      "id": "U078KKF3R1Q",
+      "earned": 2541,
+      "spent": 3785,
+      "balance": 0
+    },
+    "U0ACQ0FPVUJ": {
+      "id": "U0ACQ0FPVUJ",
+      "earned": 263,
+      "spent": 275,
+      "balance": 4
+    },
+    "U0A8J0XNCT1": {
+      "id": "U0A8J0XNCT1",
+      "earned": 1281,
+      "spent": 721,
+      "balance": 287
+    },
+    "U0AEY1LHE8M": {
+      "id": "U0AEY1LHE8M",
+      "earned": 20,
+      "spent": 10,
+      "balance": 10
+    },
+    "U0AD3MLC07L": {
+      "id": "U0AD3MLC07L",
+      "earned": 105,
+      "spent": 113,
+      "balance": 8
+    },
+    "U0AF45LDUBC": {
+      "id": "U0AF45LDUBC",
+      "earned": 38,
+      "spent": 10,
+      "balance": 28
+    },
+    "U09JMHJ0B8E": {
+      "id": "U09JMHJ0B8E",
+      "earned": 999,
+      "spent": 465,
+      "balance": 544
+    },
+    "U0A7J2DBKNG": {
+      "id": "U0A7J2DBKNG",
+      "earned": 5,
+      "spent": 0,
+      "balance": 10
+    },
+    "U0AD3T7EH35": {
+      "id": "U0AD3T7EH35",
+      "earned": 30,
+      "spent": 35,
+      "balance": 8
+    },
+    "U01MPHKFZ7S": {
+      "id": "U01MPHKFZ7S",
+      "earned": 83,
+      "spent": 76,
+      "balance": 7
+    },
+    "U0827A6KT29": {
+      "id": "U0827A6KT29",
+      "earned": 50,
+      "spent": 0,
+      "balance": 60
+    },
+    "U078RA454JH": {
+      "id": "U078RA454JH",
+      "earned": 25,
+      "spent": 0,
+      "balance": 35
+    },
+    "U07ES48RES3": {
+      "id": "U07ES48RES3",
+      "earned": 11332,
+      "spent": 11310,
+      "balance": 32
+    },
+    "U091SN3UVMJ": {
+      "id": "U091SN3UVMJ",
+      "earned": 25,
+      "spent": 0,
+      "balance": 25
+    },
+    "U091TJZFCKX": {
+      "id": "U091TJZFCKX",
+      "earned": 25,
+      "spent": 45,
+      "balance": 0
+    },
+    "U091U38E20N": {
+      "id": "U091U38E20N",
+      "earned": 25,
+      "spent": 0,
+      "balance": 35
+    },
+    "U092839T3A7": {
+      "id": "U092839T3A7",
+      "earned": 25,
+      "spent": 0,
+      "balance": 30
+    },
+    "U07E8H9A24A": {
+      "id": "U07E8H9A24A",
+      "earned": 172,
+      "spent": 160,
+      "balance": 25
+    },
+    "U093T9H2431": {
+      "id": "U093T9H2431",
+      "earned": 25,
+      "spent": 30,
+      "balance": 0
+    },
+    "U0986SW8P0V": {
+      "id": "U0986SW8P0V",
+      "earned": 25,
+      "spent": 35,
+      "balance": 0
+    },
+    "U093J4LKLE8": {
+      "id": "U093J4LKLE8",
+      "earned": 25,
+      "spent": 35,
+      "balance": 0
+    },
+    "U09CBF0DS4F": {
+      "id": "U09CBF0DS4F",
+      "earned": 316,
+      "spent": 322,
+      "balance": 4
+    },
+    "U09TNMQ9MCZ": {
+      "id": "U09TNMQ9MCZ",
+      "earned": 83,
+      "spent": 115,
+      "balance": 9
+    },
+    "U0A0S5TJ258": {
+      "id": "U0A0S5TJ258",
+      "earned": 1233,
+      "spent": 1210,
+      "balance": 23
+    },
+    "U0616280E6P": {
+      "id": "U0616280E6P",
+      "earned": 4562,
+      "spent": 4550,
+      "balance": 12
+    },
+    "U091ZF0JNBG": {
+      "id": "U091ZF0JNBG",
+      "earned": 1218,
+      "spent": 0,
+      "balance": 1768
+    },
+    "U0A3DKS46R3": {
+      "id": "U0A3DKS46R3",
+      "earned": 3601,
+      "spent": 2511,
+      "balance": 1566
+    },
+    "U078VEJRBR7": {
+      "id": "U078VEJRBR7",
+      "earned": 4214,
+      "spent": 3700,
+      "balance": 519
+    },
+    "U08SBBPH8UC": {
+      "id": "U08SBBPH8UC",
+      "earned": 2997,
+      "spent": 2772,
+      "balance": 230
+    },
+    "U0A848RGULQ": {
+      "id": "U0A848RGULQ",
+      "earned": 1439,
+      "spent": 1463,
+      "balance": 2
+    },
+    "U0ADK0PR91N": {
+      "id": "U0ADK0PR91N",
+      "earned": 115,
+      "spent": 65,
+      "balance": 70
+    },
+    "U086VTQTB29": {
+      "id": "U086VTQTB29",
+      "earned": 309,
+      "spent": 290,
+      "balance": 29
+    },
+    "U07UW1D35A5": {
+      "id": "U07UW1D35A5",
+      "earned": 1409,
+      "spent": 710,
+      "balance": 871
+    },
+    "U097E5H2ZV4": {
+      "id": "U097E5H2ZV4",
+      "earned": 159,
+      "spent": 217,
+      "balance": 7
+    },
+    "U095QK9HADD": {
+      "id": "U095QK9HADD",
+      "earned": 354,
+      "spent": 371,
+      "balance": 11
+    },
+    "U0ACZ12JPNV": {
+      "id": "U0ACZ12JPNV",
+      "earned": 1,
+      "spent": 0,
+      "balance": 17
+    },
+    "U094ENJ7LAH": {
+      "id": "U094ENJ7LAH",
+      "earned": 384,
+      "spent": 362,
+      "balance": 32
+    },
+    "U096L7CLUCS": {
+      "id": "U096L7CLUCS",
+      "earned": 49,
+      "spent": 0,
+      "balance": 59
+    },
+    "U0AF9MD9LFR": {
+      "id": "U0AF9MD9LFR",
+      "earned": 22,
+      "spent": 0,
+      "balance": 22
+    },
+    "U0AAHSKAH6K": {
+      "id": "U0AAHSKAH6K",
+      "earned": 542,
+      "spent": 473,
+      "balance": 76
+    },
+    "U0AG8BAL0AH": {
+      "id": "U0AG8BAL0AH",
+      "earned": 5,
+      "spent": 0,
+      "balance": 5
+    },
+    "U0AEYDUCLKF": {
+      "id": "U0AEYDUCLKF",
+      "earned": 92,
+      "spent": 112,
+      "balance": 0
+    },
+    "U046VA0KR8R": {
+      "id": "U046VA0KR8R",
+      "earned": 4764,
+      "spent": 4765,
+      "balance": 9
+    },
+    "U09VA2C5CLD": {
+      "id": "U09VA2C5CLD",
+      "earned": 0,
+      "spent": 10,
+      "balance": 0
+    },
+    "U099QTQ8486": {
+      "id": "U099QTQ8486",
+      "earned": 0,
+      "spent": 10,
+      "balance": 0
+    },
+    "U09HNNSQ89J": {
+      "id": "U09HNNSQ89J",
+      "earned": 0,
+      "spent": 5,
+      "balance": 0
+    },
+    "U0A7E30ACEQ": {
+      "id": "U0A7E30ACEQ",
+      "earned": 0,
+      "spent": 13,
+      "balance": 0
+    },
+    "U0AAK0EB2LE": {
+      "id": "U0AAK0EB2LE",
+      "earned": 3533,
+      "spent": 3545,
+      "balance": 0
+    },
+    "U0ACQTB5ZDK": {
+      "id": "U0ACQTB5ZDK",
+      "earned": 0,
+      "spent": 10,
+      "balance": 0
+    },
+    "U08HR9MJ29M": {
+      "id": "U08HR9MJ29M",
+      "earned": 377,
+      "spent": 321,
+      "balance": 56
+    },
+    "U0AGSUVPTBJ": {
+      "id": "U0AGSUVPTBJ",
+      "earned": 494,
+      "spent": 494,
+      "balance": 0
+    },
+    "U0A2H749TL3": {
+      "id": "U0A2H749TL3",
+      "earned": 18,
+      "spent": 18,
+      "balance": 0
+    },
+    "U0A52AVLXM5": {
+      "id": "U0A52AVLXM5",
+      "earned": 3775,
+      "spent": 3796,
+      "balance": 26
+    },
+    "U079Y8M0Q4B": {
+      "id": "U079Y8M0Q4B",
+      "earned": 12,
+      "spent": 0,
+      "balance": 22
+    },
+    "U0AG8L191HC": {
+      "id": "U0AG8L191HC",
+      "earned": 407,
+      "spent": 425,
+      "balance": 0
+    },
+    "U09D3LKCHS5": {
+      "id": "U09D3LKCHS5",
+      "earned": 3,
+      "spent": 0,
+      "balance": 8
+    },
+    "U0A82Q8R464": {
+      "id": "U0A82Q8R464",
+      "earned": 16,
+      "spent": 40,
+      "balance": 3
+    },
+    "U05C64XMMHV": {
+      "id": "U05C64XMMHV",
+      "earned": 20,
+      "spent": 10,
+      "balance": 10
+    },
+    "U07BNJALA9G": {
+      "id": "U07BNJALA9G",
+      "earned": 5,
+      "spent": 0,
+      "balance": 3
+    },
+    "U081WSNR8TG": {
+      "id": "U081WSNR8TG",
+      "earned": 2,
+      "spent": 0,
+      "balance": 10
+    },
+    "U09RVNN62QM": {
+      "id": "U09RVNN62QM",
+      "earned": 10,
+      "spent": 10,
+      "balance": 10
+    },
+    "U099L7ZR75E": {
+      "id": "U099L7ZR75E",
+      "earned": 5,
+      "spent": 0,
+      "balance": 15
+    },
+    "U0A3Z38JJMV": {
+      "id": "U0A3Z38JJMV",
+      "earned": 761,
+      "spent": 23,
+      "balance": 763
+    },
+    "U0A3WSNS56Y": {
+      "id": "U0A3WSNS56Y",
+      "earned": 8837,
+      "spent": 8847,
+      "balance": 0
+    },
+    "U0AGUE4BKAP": {
+      "id": "U0AGUE4BKAP",
+      "earned": 0,
+      "spent": 10,
+      "balance": 5
+    },
+    "U091U38C2CA": {
+      "id": "U091U38C2CA",
+      "earned": 3048,
+      "spent": 3040,
+      "balance": 43
+    },
+    "U0AGVAJCH27": {
+      "id": "U0AGVAJCH27",
+      "earned": 17,
+      "spent": 0,
+      "balance": 22
+    },
+    "U0A7R8V0ZC0": {
+      "id": "U0A7R8V0ZC0",
+      "earned": 195,
+      "spent": 205,
+      "balance": 2
+    },
+    "U092B73297B": {
+      "id": "U092B73297B",
+      "earned": 25,
+      "spent": 35,
+      "balance": 0
+    },
+    "U0AHQADRJ6N": {
+      "id": "U0AHQADRJ6N",
+      "earned": 32,
+      "spent": 7,
+      "balance": 25
+    },
+    "U0AH5QCV92L": {
+      "id": "U0AH5QCV92L",
+      "earned": 5,
+      "spent": 43,
+      "balance": 0
+    },
+    "U0AHGN71G9L": {
+      "id": "U0AHGN71G9L",
+      "earned": 5,
+      "spent": 0,
+      "balance": 5
+    },
+    "U0A59T9AJBB": {
+      "id": "U0A59T9AJBB",
+      "earned": 10,
+      "spent": 10,
+      "balance": 0
+    },
+    "U0AH1PK93NK": {
+      "id": "U0AH1PK93NK",
+      "earned": 10,
+      "spent": 10,
+      "balance": 0
+    },
+    "U0914NPNKM2": {
+      "id": "U0914NPNKM2",
+      "earned": 2518,
+      "spent": 1496,
+      "balance": 1022
+    },
+    "U053T7BB7JQ": {
+      "id": "U053T7BB7JQ",
+      "earned": 441,
+      "spent": 449,
+      "balance": 2
+    },
+    "U092F9A8VMY": {
+      "id": "U092F9A8VMY",
+      "earned": 5,
+      "spent": 13,
+      "balance": 0
+    },
+    "U09E4515R24": {
+      "id": "U09E4515R24",
+      "earned": 38,
+      "spent": 40,
+      "balance": 8
+    },
+    "U0AGAC4S7LG": {
+      "id": "U0AGAC4S7LG",
+      "earned": 5,
+      "spent": 0,
+      "balance": 5
+    },
+    "U0AFWJX9CP2": {
+      "id": "U0AFWJX9CP2",
+      "earned": 45,
+      "spent": 55,
+      "balance": 0
+    },
+    "U0A7Q89R9DZ": {
+      "id": "U0A7Q89R9DZ",
+      "earned": 136,
+      "spent": 132,
+      "balance": 4
+    },
+    "U0AJ55FFGJE": {
+      "id": "U0AJ55FFGJE",
+      "earned": 10,
+      "spent": 0,
+      "balance": 10
+    },
+    "U0AH7TT4YCX": {
+      "id": "U0AH7TT4YCX",
+      "earned": 5,
+      "spent": 0,
+      "balance": 3
+    },
+    "U0A21RY9NTY": {
+      "id": "U0A21RY9NTY",
+      "earned": 682,
+      "spent": 415,
+      "balance": 267
+    },
+    "U093B3R6HCK": {
+      "id": "U093B3R6HCK",
+      "earned": 9950,
+      "spent": 10769,
+      "balance": 0
+    },
+    "U0AHQEPUQ7R": {
+      "id": "U0AHQEPUQ7R",
+      "earned": 1742,
+      "spent": 1740,
+      "balance": 7
+    },
+    "U0AHPBPPRRV": {
+      "id": "U0AHPBPPRRV",
+      "earned": 13,
+      "spent": 11,
+      "balance": 7
+    },
+    "U092B9LJE3G": {
+      "id": "U092B9LJE3G",
+      "earned": 5,
+      "spent": 0,
+      "balance": 5
+    },
+    "U09AMHRLU4R": {
+      "id": "U09AMHRLU4R",
+      "earned": 5,
+      "spent": 0,
+      "balance": 3
+    },
+    "U09271EC63X": {
+      "id": "U09271EC63X",
+      "earned": 154,
+      "spent": 90,
+      "balance": 77
+    },
+    "U09294ZAATC": {
+      "id": "U09294ZAATC",
+      "earned": 20,
+      "spent": 20,
+      "balance": 0
+    },
+    "U0AJ1QA2354": {
+      "id": "U0AJ1QA2354",
+      "earned": 12,
+      "spent": 0,
+      "balance": 12
+    },
+    "U08SS88NYMP": {
+      "id": "U08SS88NYMP",
+      "earned": 49,
+      "spent": 44,
+      "balance": 5
+    },
+    "U0A0TB2ETAB": {
+      "id": "U0A0TB2ETAB",
+      "earned": 1335,
+      "spent": 1379,
+      "balance": 11
+    },
+    "U0A29HHM2KD": {
+      "id": "U0A29HHM2KD",
+      "earned": 17,
+      "spent": 0,
+      "balance": 27
+    },
+    "U08CBQ5L93P": {
+      "id": "U08CBQ5L93P",
+      "earned": 668,
+      "spent": 684,
+      "balance": 0
+    },
+    "U0AH7BLJDKQ": {
+      "id": "U0AH7BLJDKQ",
+      "earned": 294,
+      "spent": 295,
+      "balance": 4
+    },
+    "U097VQ3MX35": {
+      "id": "U097VQ3MX35",
+      "earned": 514,
+      "spent": 518,
+      "balance": 1
+    },
+    "U0AK897QZA4": {
+      "id": "U0AK897QZA4",
+      "earned": 10,
+      "spent": 0,
+      "balance": 10
+    },
+    "U090L2KB23T": {
+      "id": "U090L2KB23T",
+      "earned": 10,
+      "spent": 0,
+      "balance": 10
+    },
+    "U0AH8A6FU2V": {
+      "id": "U0AH8A6FU2V",
+      "earned": 57,
+      "spent": 15,
+      "balance": 42
+    },
+    "U0A4U73DYF7": {
+      "id": "U0A4U73DYF7",
+      "earned": 100,
+      "spent": 96,
+      "balance": 4
+    },
+    "U0A61Q11APL": {
+      "id": "U0A61Q11APL",
+      "earned": 2,
+      "spent": 0,
+      "balance": 12
+    },
+    "U0AG29HFPSR": {
+      "id": "U0AG29HFPSR",
+      "earned": 10,
+      "spent": 0,
+      "balance": 10
+    },
+    "U091UGR9AM9": {
+      "id": "U091UGR9AM9",
+      "earned": 12,
+      "spent": 0,
+      "balance": 20
+    },
+    "U0A3CR82Y30": {
+      "id": "U0A3CR82Y30",
+      "earned": 168,
+      "spent": 140,
+      "balance": 38
+    },
+    "U0ADH2YT24E": {
+      "id": "U0ADH2YT24E",
+      "earned": 10,
+      "spent": 10,
+      "balance": 25
+    },
+    "U08AFJFPRJ7": {
+      "id": "U08AFJFPRJ7",
+      "earned": 232,
+      "spent": 220,
+      "balance": 30
+    },
+    "U0AKC97MRJM": {
+      "id": "U0AKC97MRJM",
+      "earned": 10,
+      "spent": 10,
+      "balance": 0
+    },
+    "U0A6TF5Q4H0": {
+      "id": "U0A6TF5Q4H0",
+      "earned": 2988,
+      "spent": 2998,
+      "balance": 0
+    },
+    "U09EF4LNH46": {
+      "id": "U09EF4LNH46",
+      "earned": 87,
+      "spent": 87,
+      "balance": 0
+    },
+    "U0A3T8ZQ2E8": {
+      "id": "U0A3T8ZQ2E8",
+      "earned": 10,
+      "spent": 10,
+      "balance": 0
+    },
+    "U0AH1BANK5J": {
+      "id": "U0AH1BANK5J",
+      "earned": 8,
+      "spent": 0,
+      "balance": 8
+    },
+    "U092H9HRZDE": {
+      "id": "U092H9HRZDE",
+      "earned": 55,
+      "spent": 70,
+      "balance": 12
+    },
+    "U0AJ2DDJ996": {
+      "id": "U0AJ2DDJ996",
+      "earned": 1823,
+      "spent": 140,
+      "balance": 1726
+    },
+    "U0AC0U1FRNW": {
+      "id": "U0AC0U1FRNW",
+      "earned": 269,
+      "spent": 562,
+      "balance": 15
+    },
+    "U08NXSM8A79": {
+      "id": "U08NXSM8A79",
+      "earned": 148,
+      "spent": 70,
+      "balance": 106
+    },
+    "U0AG5JS6VHR": {
+      "id": "U0AG5JS6VHR",
+      "earned": 96,
+      "spent": 88,
+      "balance": 11
+    },
+    "U08S8U1HUGG": {
+      "id": "U08S8U1HUGG",
+      "earned": 60,
+      "spent": 10,
+      "balance": 65
+    },
+    "U0AEP2DSQ11": {
+      "id": "U0AEP2DSQ11",
+      "earned": 1738,
+      "spent": 1700,
+      "balance": 38
+    },
+    "U0AKF5AKP41": {
+      "id": "U0AKF5AKP41",
+      "earned": 10,
+      "spent": 10,
+      "balance": 0
+    },
+    "U0AC53WNTQT": {
+      "id": "U0AC53WNTQT",
+      "earned": 16,
+      "spent": 0,
+      "balance": 16
+    },
+    "U0A7BF4MB0A": {
+      "id": "U0A7BF4MB0A",
+      "earned": 4351,
+      "spent": 3871,
+      "balance": 0
+    },
+    "U0A1QAW6GUB": {
+      "id": "U0A1QAW6GUB",
+      "earned": 31,
+      "spent": 17,
+      "balance": 24
+    },
+    "U091WRH4EQN": {
+      "id": "U091WRH4EQN",
+      "earned": 674,
+      "spent": 346,
+      "balance": 0
+    },
+    "U08QELYF79Q": {
+      "id": "U08QELYF79Q",
+      "earned": 20,
+      "spent": 20,
+      "balance": 0
+    },
+    "U092J7619CN": {
+      "id": "U092J7619CN",
+      "earned": 5216,
+      "spent": 5257,
+      "balance": 2
+    },
+    "U091WTWA2MQ": {
+      "id": "U091WTWA2MQ",
+      "earned": 397,
+      "spent": 412,
+      "balance": 0
+    },
+    "U0A7DTQ90BE": {
+      "id": "U0A7DTQ90BE",
+      "earned": 5751,
+      "spent": 3010,
+      "balance": 0
+    },
+    "U0AKRK1GFQQ": {
+      "id": "U0AKRK1GFQQ",
+      "earned": 2898,
+      "spent": 2923,
+      "balance": 0
+    },
+    "U079EQY9X1D": {
+      "id": "U079EQY9X1D",
+      "earned": 136,
+      "spent": 0,
+      "balance": 146
+    },
+    "U0A58L0L3L7": {
+      "id": "U0A58L0L3L7",
+      "earned": 305,
+      "spent": 495,
+      "balance": 31
+    },
+    "U080DB49RCY": {
+      "id": "U080DB49RCY",
+      "earned": 30,
+      "spent": 35,
+      "balance": 0
+    },
+    "U082DRXPMF1": {
+      "id": "U082DRXPMF1",
+      "earned": 101,
+      "spent": 102,
+      "balance": 4
+    },
+    "U0AL42Q9N9E": {
+      "id": "U0AL42Q9N9E",
+      "earned": 10,
+      "spent": 10,
+      "balance": 0
+    },
+    "U09G4M3NZNC": {
+      "id": "U09G4M3NZNC",
+      "earned": 60,
+      "spent": 47,
+      "balance": 13
+    },
+    "U0A6860UHC4": {
+      "id": "U0A6860UHC4",
+      "earned": 66,
+      "spent": 101,
+      "balance": 0
+    },
+    "U08B8RBPLL8": {
+      "id": "U08B8RBPLL8",
+      "earned": 17,
+      "spent": 0,
+      "balance": 22
+    },
+    "U0824CMEU1L": {
+      "id": "U0824CMEU1L",
+      "earned": 382,
+      "spent": 391,
+      "balance": 1
+    },
+    "U0AKJS2QXFY": {
+      "id": "U0AKJS2QXFY",
+      "earned": 2980,
+      "spent": 1456,
+      "balance": 1529
+    },
+    "U09F440F99P": {
+      "id": "U09F440F99P",
+      "earned": 10,
+      "spent": 10,
+      "balance": 0
+    },
+    "U09428VMA4R": {
+      "id": "U09428VMA4R",
+      "earned": 1551,
+      "spent": 1576,
+      "balance": 0
+    },
+    "U078A01GLB0": {
+      "id": "U078A01GLB0",
+      "earned": 10,
+      "spent": 10,
+      "balance": 0
+    },
+    "U0AJKN13NDS": {
+      "id": "U0AJKN13NDS",
+      "earned": 15,
+      "spent": 10,
+      "balance": 5
+    },
+    "U0ALDEJTZ4Z": {
+      "id": "U0ALDEJTZ4Z",
+      "earned": 10,
+      "spent": 10,
+      "balance": 0
+    },
+    "U0ABYUFJEGY": {
+      "id": "U0ABYUFJEGY",
+      "earned": 171,
+      "spent": 158,
+      "balance": 13
+    },
+    "U08C2AF7B16": {
+      "id": "U08C2AF7B16",
+      "earned": 179,
+      "spent": 189,
+      "balance": 0
+    },
+    "U0AH6QE060J": {
+      "id": "U0AH6QE060J",
+      "earned": 36,
+      "spent": 45,
+      "balance": 1
+    },
+    "U09GT04P248": {
+      "id": "U09GT04P248",
+      "earned": 19,
+      "spent": 0,
+      "balance": 55
+    },
+    "U0A7YQ0KVKJ": {
+      "id": "U0A7YQ0KVKJ",
+      "earned": 1467,
+      "spent": 2240,
+      "balance": 2
+    },
+    "U08A1PJF6UC": {
+      "id": "U08A1PJF6UC",
+      "earned": 539,
+      "spent": 0,
+      "balance": 569
+    },
+    "U0AJYL7G1K2": {
+      "id": "U0AJYL7G1K2",
+      "earned": 203,
+      "spent": 208,
+      "balance": 0
+    },
+    "U0AK8ES3J3U": {
+      "id": "U0AK8ES3J3U",
+      "earned": 20,
+      "spent": 20,
+      "balance": 0
+    },
+    "U092X590XUG": {
+      "id": "U092X590XUG",
+      "earned": 3990,
+      "spent": 4220,
+      "balance": 47
+    },
+    "U094S55TR3L": {
+      "id": "U094S55TR3L",
+      "earned": 195,
+      "spent": 295,
+      "balance": 4
+    },
+    "U0ALVDMNMPT": {
+      "id": "U0ALVDMNMPT",
+      "earned": 23,
+      "spent": 10,
+      "balance": 23
+    },
+    "U04K7BXT95X": {
+      "id": "U04K7BXT95X",
+      "earned": 10,
+      "spent": 10,
+      "balance": 10
+    },
+    "U07GM7LBZNF": {
+      "id": "U07GM7LBZNF",
+      "earned": 7,
+      "spent": 10,
+      "balance": 12
+    },
+    "U0AF05FTK51": {
+      "id": "U0AF05FTK51",
+      "earned": 247,
+      "spent": 242,
+      "balance": 5
+    },
+    "U0A813JH59N": {
+      "id": "U0A813JH59N",
+      "earned": 468,
+      "spent": 460,
+      "balance": 15
+    },
+    "U074LUX88PJ": {
+      "id": "U074LUX88PJ",
+      "earned": 6141,
+      "spent": 5962,
+      "balance": 0
+    },
+    "U0AL6S8F7F0": {
+      "id": "U0AL6S8F7F0",
+      "earned": 10,
+      "spent": 10,
+      "balance": 0
+    },
+    "U0AKXLZ8ZN0": {
+      "id": "U0AKXLZ8ZN0",
+      "earned": 13,
+      "spent": 0,
+      "balance": 13
+    },
+    "U0A9MGA54RK": {
+      "id": "U0A9MGA54RK",
+      "earned": 73,
+      "spent": 92,
+      "balance": 4
+    },
+    "U092EV40B0Q": {
+      "id": "U092EV40B0Q",
+      "earned": 12,
+      "spent": 0,
+      "balance": 12
+    },
+    "U0AEXPQNM5W": {
+      "id": "U0AEXPQNM5W",
+      "earned": 10,
+      "spent": 10,
+      "balance": 0
+    },
+    "U0A3584269Z": {
+      "id": "U0A3584269Z",
+      "earned": 1862,
+      "spent": 1860,
+      "balance": 2
+    },
+    "U091WRF4B3L": {
+      "id": "U091WRF4B3L",
+      "earned": 4200,
+      "spent": 4800,
+      "balance": 541
+    },
+    "U0A5PHV2J92": {
+      "id": "U0A5PHV2J92",
+      "earned": 0,
+      "spent": 15,
+      "balance": 5
+    },
+    "U0ALFC53SLX": {
+      "id": "U0ALFC53SLX",
+      "earned": 0,
+      "spent": 10,
+      "balance": 0
+    },
+    "U0AJYFQDPLP": {
+      "id": "U0AJYFQDPLP",
+      "earned": 10,
+      "spent": 10,
+      "balance": 0
+    },
+    "U08U12MNF97": {
+      "id": "U08U12MNF97",
+      "earned": 2651,
+      "spent": 2682,
+      "balance": 0
+    },
+    "U04K92TF2LD": {
+      "id": "U04K92TF2LD",
+      "earned": 51,
+      "spent": 56,
+      "balance": 4
+    },
+    "U0A7SLWSJDV": {
+      "id": "U0A7SLWSJDV",
+      "earned": 10,
+      "spent": 0,
+      "balance": 8
+    },
+    "U0A5J2J9VSA": {
+      "id": "U0A5J2J9VSA",
+      "earned": 2,
+      "spent": 0,
+      "balance": 12
+    },
+    "U0A779X1YDR": {
+      "id": "U0A779X1YDR",
+      "earned": 2884,
+      "spent": 2896,
+      "balance": 0
+    },
+    "U09F62UUWDN": {
+      "id": "U09F62UUWDN",
+      "earned": 8,
+      "spent": 26,
+      "balance": 0
+    },
+    "U091Q4HK70A": {
+      "id": "U091Q4HK70A",
+      "earned": 1303,
+      "spent": 1318,
+      "balance": 0
+    },
+    "U0AF4NULG67": {
+      "id": "U0AF4NULG67",
+      "earned": 511,
+      "spent": 566,
+      "balance": 0
+    },
+    "U091NCJN3DK": {
+      "id": "U091NCJN3DK",
+      "earned": 3014,
+      "spent": 3013,
+      "balance": 1
+    },
+    "U096HTUQV8S": {
+      "id": "U096HTUQV8S",
+      "earned": 156,
+      "spent": 129,
+      "balance": 37
+    },
+    "U094GMTTNTX": {
+      "id": "U094GMTTNTX",
+      "earned": 8769,
+      "spent": 3245,
+      "balance": 5524
+    },
+    "U0A8NC64K2L": {
+      "id": "U0A8NC64K2L",
+      "earned": 516,
+      "spent": 707,
+      "balance": 6
+    },
+    "U0AMM0S4SQ4": {
+      "id": "U0AMM0S4SQ4",
+      "earned": 7442,
+      "spent": 7442,
+      "balance": 0
+    },
+    "U0A4XJL5WNR": {
+      "id": "U0A4XJL5WNR",
+      "earned": 1096,
+      "spent": 1958,
+      "balance": 0
+    },
+    "U092CSW4FGQ": {
+      "id": "U092CSW4FGQ",
+      "earned": 0,
+      "spent": 95,
+      "balance": 10
+    },
+    "U09KXABR952": {
+      "id": "U09KXABR952",
+      "earned": 36,
+      "spent": 10,
+      "balance": 36
+    },
+    "U0A4XFR2W15": {
+      "id": "U0A4XFR2W15",
+      "earned": 14,
+      "spent": 24,
+      "balance": 0
+    },
+    "U097NJCLANP": {
+      "id": "U097NJCLANP",
+      "earned": 5,
+      "spent": 0,
+      "balance": 18
+    },
+    "U0A15QBC1MH": {
+      "id": "U0A15QBC1MH",
+      "earned": 1367,
+      "spent": 1387,
+      "balance": 11
+    },
+    "U0AH8L2LLR4": {
+      "id": "U0AH8L2LLR4",
+      "earned": 17,
+      "spent": 10,
+      "balance": 7
+    },
+    "U09F58YQ524": {
+      "id": "U09F58YQ524",
+      "earned": 1991,
+      "spent": 2585,
+      "balance": 9
+    },
+    "U0A6PMU30V7": {
+      "id": "U0A6PMU30V7",
+      "earned": 5,
+      "spent": 0,
+      "balance": 3
+    },
+    "U0AMW3ZR0UV": {
+      "id": "U0AMW3ZR0UV",
+      "earned": 7,
+      "spent": 0,
+      "balance": 7
+    },
+    "U0AMXHHE2CE": {
+      "id": "U0AMXHHE2CE",
+      "earned": 315,
+      "spent": 327,
+      "balance": 0
+    },
+    "U092G90G5FS": {
+      "id": "U092G90G5FS",
+      "earned": 0,
+      "spent": 22,
+      "balance": 0
+    },
+    "U0ALP92FQ3U": {
+      "id": "U0ALP92FQ3U",
+      "earned": 301,
+      "spent": 279,
+      "balance": 42
+    },
+    "U0AMYELDB46": {
+      "id": "U0AMYELDB46",
+      "earned": 13,
+      "spent": 0,
+      "balance": 13
+    },
+    "U0A4YTQVCCE": {
+      "id": "U0A4YTQVCCE",
+      "earned": 313,
+      "spent": 25,
+      "balance": 362
+    },
+    "U0A7EBGQEVD": {
+      "id": "U0A7EBGQEVD",
+      "earned": 0,
+      "spent": 7,
+      "balance": 5
+    },
+    "U0AMQ4CV0AY": {
+      "id": "U0AMQ4CV0AY",
+      "earned": 70,
+      "spent": 70,
+      "balance": 8
+    },
+    "U09ASUK57K8": {
+      "id": "U09ASUK57K8",
+      "earned": 710,
+      "spent": 460,
+      "balance": 413
+    },
+    "U0AM5JFL02E": {
+      "id": "U0AM5JFL02E",
+      "earned": 41,
+      "spent": 40,
+      "balance": 1
+    },
+    "U0A76SVEZBQ": {
+      "id": "U0A76SVEZBQ",
+      "earned": 1326,
+      "spent": 1372,
+      "balance": 0
+    },
+    "U0ACGDDBS15": {
+      "id": "U0ACGDDBS15",
+      "earned": 39,
+      "spent": 35,
+      "balance": 6
+    },
+    "U09GT65JGNR": {
+      "id": "U09GT65JGNR",
+      "earned": 10,
+      "spent": 10,
+      "balance": 0
+    },
+    "U0ALKJPJGER": {
+      "id": "U0ALKJPJGER",
+      "earned": 1025,
+      "spent": 567,
+      "balance": 458
+    },
+    "U0AF05K107M": {
+      "id": "U0AF05K107M",
+      "earned": 163,
+      "spent": 233,
+      "balance": 6
+    },
+    "U09GRHV7Y80": {
+      "id": "U09GRHV7Y80",
+      "earned": 0,
+      "spent": 10,
+      "balance": 0
+    },
+    "U0A8XKDGMEU": {
+      "id": "U0A8XKDGMEU",
+      "earned": 1170,
+      "spent": 10,
+      "balance": 1260
+    },
+    "U0ADSB7HYNT": {
+      "id": "U0ADSB7HYNT",
+      "earned": 1037,
+      "spent": 1035,
+      "balance": 2
+    },
+    "U0936KGPVRQ": {
+      "id": "U0936KGPVRQ",
+      "earned": 1080,
+      "spent": 1124,
+      "balance": 372
+    },
+    "U0A24SZ30FN": {
+      "id": "U0A24SZ30FN",
+      "earned": 10,
+      "spent": 0,
+      "balance": 18
+    },
+    "U0AJ15Z5KPS": {
+      "id": "U0AJ15Z5KPS",
+      "earned": 0,
+      "spent": 10,
+      "balance": 0
+    },
+    "U0AMWBM9RQ8": {
+      "id": "U0AMWBM9RQ8",
+      "earned": 0,
+      "spent": 10,
+      "balance": 2
+    },
+    "U0AKD5QE4Q7": {
+      "id": "U0AKD5QE4Q7",
+      "earned": 2,
+      "spent": 1,
+      "balance": 1
+    },
+    "U09HH4XAEBX": {
+      "id": "U09HH4XAEBX",
+      "earned": 1230,
+      "spent": 1232,
+      "balance": 1
+    },
+    "U07GLQY6UN4": {
+      "id": "U07GLQY6UN4",
+      "earned": 0,
+      "spent": 10,
+      "balance": 0
+    },
+    "U0ALSGPC08G": {
+      "id": "U0ALSGPC08G",
+      "earned": 20,
+      "spent": 0,
+      "balance": 20
+    },
+    "U0ANQL27DDX": {
+      "id": "U0ANQL27DDX",
+      "earned": 58,
+      "spent": 63,
+      "balance": 0
+    },
+    "U0AN7PG5BT5": {
+      "id": "U0AN7PG5BT5",
+      "earned": 0,
+      "spent": 10,
+      "balance": 0
+    },
+    "U099YAEC4BE": {
+      "id": "U099YAEC4BE",
+      "earned": 54,
+      "spent": 54,
+      "balance": 0
+    },
+    "U07C0RR30GZ": {
+      "id": "U07C0RR30GZ",
+      "earned": 0,
+      "spent": 60,
+      "balance": 16
+    },
+    "U0ANPBEB4RY": {
+      "id": "U0ANPBEB4RY",
+      "earned": 1379,
+      "spent": 971,
+      "balance": 108
+    },
+    "U0A37DAAVHD": {
+      "id": "U0A37DAAVHD",
+      "earned": 5,
+      "spent": 0,
+      "balance": 8
+    },
+    "U0AKLQNQ0BB": {
+      "id": "U0AKLQNQ0BB",
+      "earned": 22,
+      "spent": 10,
+      "balance": 12
+    },
+    "U0ANPU3LNCW": {
+      "id": "U0ANPU3LNCW",
+      "earned": 0,
+      "spent": 10,
+      "balance": 0
+    },
+    "U0A53U48S3X": {
+      "id": "U0A53U48S3X",
+      "earned": 62,
+      "spent": 62,
+      "balance": 0
+    },
+    "U093M5QBRNV": {
+      "id": "U093M5QBRNV",
+      "earned": 8,
+      "spent": 0,
+      "balance": 30
+    },
+    "U082SDZLULQ": {
+      "id": "U082SDZLULQ",
+      "earned": 27,
+      "spent": 60,
+      "balance": 5
+    },
+    "U08GCDHM0QZ": {
+      "id": "U08GCDHM0QZ",
+      "earned": 76,
+      "spent": 10,
+      "balance": 292
+    },
+    "U085GNW5Q1E": {
+      "id": "U085GNW5Q1E",
+      "earned": 267,
+      "spent": 211,
+      "balance": 66
+    },
+    "U091YQ9F6B0": {
+      "id": "U091YQ9F6B0",
+      "earned": 1609,
+      "spent": 2256,
+      "balance": 21
+    },
+    "U0AGAC5MJR3": {
+      "id": "U0AGAC5MJR3",
+      "earned": 0,
+      "spent": 10,
+      "balance": 0
+    },
+    "U0AHJMB7U9L": {
+      "id": "U0AHJMB7U9L",
+      "earned": 0,
+      "spent": 22,
+      "balance": 0
+    },
+    "U0998E0AFFD": {
+      "id": "U0998E0AFFD",
+      "earned": 59,
+      "spent": 63,
+      "balance": 6
+    },
+    "U0A2QR9RMU0": {
+      "id": "U0A2QR9RMU0",
+      "earned": 27,
+      "spent": 20,
+      "balance": 7
+    },
+    "U07A2LHR8HJ": {
+      "id": "U07A2LHR8HJ",
+      "earned": 0,
+      "spent": 10,
+      "balance": 0
+    },
+    "U0854U71H8E": {
+      "id": "U0854U71H8E",
+      "earned": 6400,
+      "spent": 6045,
+      "balance": 506
+    },
+    "U080WQT1K53": {
+      "id": "U080WQT1K53",
+      "earned": 10,
+      "spent": 0,
+      "balance": 8
+    },
+    "U07D46XNUPR": {
+      "id": "U07D46XNUPR",
+      "earned": 22,
+      "spent": 10,
+      "balance": 12
+    },
+    "U082KMLM7DW": {
+      "id": "U082KMLM7DW",
+      "earned": 0,
+      "spent": 10,
+      "balance": 2
+    },
+    "U0AKKLM2BQW": {
+      "id": "U0AKKLM2BQW",
+      "earned": 139,
+      "spent": 139,
+      "balance": 0
+    },
+    "U0AMJGG3MRD": {
+      "id": "U0AMJGG3MRD",
+      "earned": 2619,
+      "spent": 2644,
+      "balance": 0
+    },
+    "U0AE0Q3PLKT": {
+      "id": "U0AE0Q3PLKT",
+      "earned": 136,
+      "spent": 79,
+      "balance": 67
+    },
+    "U0AMMB5DG15": {
+      "id": "U0AMMB5DG15",
+      "earned": 82,
+      "spent": 70,
+      "balance": 17
+    },
+    "U07F2P4EDBP": {
+      "id": "U07F2P4EDBP",
+      "earned": 10,
+      "spent": 0,
+      "balance": 8
+    },
+    "U0AQDRVBKLY": {
+      "id": "U0AQDRVBKLY",
+      "earned": 75,
+      "spent": 10,
+      "balance": 50
+    },
+    "U0A1K3P66FP": {
+      "id": "U0A1K3P66FP",
+      "earned": 548,
+      "spent": 521,
+      "balance": 47
+    },
+    "U093MPT9FFX": {
+      "id": "U093MPT9FFX",
+      "earned": 1013,
+      "spent": 1048,
+      "balance": 0
+    },
+    "U0ACCKPFDL0": {
+      "id": "U0ACCKPFDL0",
+      "earned": 326,
+      "spent": 364,
+      "balance": 0
+    },
+    "U08QM9F9FB8": {
+      "id": "U08QM9F9FB8",
+      "earned": 4365,
+      "spent": 4360,
+      "balance": 5
+    },
+    "U082PAFDDS5": {
+      "id": "U082PAFDDS5",
+      "earned": 1285,
+      "spent": 1022,
+      "balance": 38
+    },
+    "U093AJCBP0C": {
+      "id": "U093AJCBP0C",
+      "earned": 0,
+      "spent": 10,
+      "balance": 0
+    },
+    "U0A698NNHFD": {
+      "id": "U0A698NNHFD",
+      "earned": 3343,
+      "spent": 3353,
+      "balance": 0
+    },
+    "U0A7CG145S9": {
+      "id": "U0A7CG145S9",
+      "earned": 15,
+      "spent": 0,
+      "balance": 27
+    },
+    "U096VV40C7N": {
+      "id": "U096VV40C7N",
+      "earned": 52,
+      "spent": 30,
+      "balance": 22
+    },
+    "U0ANGD2JB2A": {
+      "id": "U0ANGD2JB2A",
+      "earned": 10,
+      "spent": 10,
+      "balance": 0
+    },
+    "U0AQ0GRPENP": {
+      "id": "U0AQ0GRPENP",
+      "earned": 5,
+      "spent": 0,
+      "balance": 3
+    },
+    "U0AM8V6T0SD": {
+      "id": "U0AM8V6T0SD",
+      "earned": 10,
+      "spent": 10,
+      "balance": 0
+    },
+    "U078Y1PPU2V": {
+      "id": "U078Y1PPU2V",
+      "earned": 9457,
+      "spent": 9462,
+      "balance": 0
+    },
+    "U0AGAC25BFV": {
+      "id": "U0AGAC25BFV",
+      "earned": 5,
+      "spent": 2,
+      "balance": 8
+    },
+    "U092QP24AES": {
+      "id": "U092QP24AES",
+      "earned": 4748,
+      "spent": 4833,
+      "balance": 0
+    },
+    "U0ADU6K5BAR": {
+      "id": "U0ADU6K5BAR",
+      "earned": 2768,
+      "spent": 2746,
+      "balance": 22
+    },
+    "U0A0EKYRQUD": {
+      "id": "U0A0EKYRQUD",
+      "earned": 0,
+      "spent": 10,
+      "balance": 0
+    },
+    "U09QBEKG4S0": {
+      "id": "U09QBEKG4S0",
+      "earned": 3,
+      "spent": 10,
+      "balance": 5
+    },
+    "U0AH2MGNV2Q": {
+      "id": "U0AH2MGNV2Q",
+      "earned": 10,
+      "spent": 10,
+      "balance": 0
+    },
+    "U0ARHC6D27J": {
+      "id": "U0ARHC6D27J",
+      "earned": 25,
+      "spent": 32,
+      "balance": 0
+    },
+    "U0AQQ1KENHL": {
+      "id": "U0AQQ1KENHL",
+      "earned": 5,
+      "spent": 0,
+      "balance": 3
+    },
+    "U0A1S20BHD2": {
+      "id": "U0A1S20BHD2",
+      "earned": 22,
+      "spent": 10,
+      "balance": 12
+    },
+    "U09GWFT9ZBM": {
+      "id": "U09GWFT9ZBM",
+      "earned": 585,
+      "spent": 563,
+      "balance": 7
+    },
+    "U09CAKZDX6G": {
+      "id": "U09CAKZDX6G",
+      "earned": 75,
+      "spent": 103,
+      "balance": 0
+    },
+    "U0A4VCLJC05": {
+      "id": "U0A4VCLJC05",
+      "earned": 1050,
+      "spent": 1708,
+      "balance": 0
+    },
+    "U08RZJCGYSD": {
+      "id": "U08RZJCGYSD",
+      "earned": 619,
+      "spent": 629,
+      "balance": 0
+    },
+    "U088XSGAFA5": {
+      "id": "U088XSGAFA5",
+      "earned": 83,
+      "spent": 83,
+      "balance": 435
+    },
+    "U0AQRB31NK0": {
+      "id": "U0AQRB31NK0",
+      "earned": 10,
+      "spent": 10,
+      "balance": 0
+    },
+    "U0A1CKM1E3U": {
+      "id": "U0A1CKM1E3U",
+      "earned": 311,
+      "spent": 70,
+      "balance": 264
+    },
+    "U092FTPP7ME": {
+      "id": "U092FTPP7ME",
+      "earned": 70,
+      "spent": 0,
+      "balance": 70
+    },
+    "U09DZHM7TRQ": {
+      "id": "U09DZHM7TRQ",
+      "earned": 0,
+      "spent": 20,
+      "balance": 2
+    },
+    "U09CUN9GYJ2": {
+      "id": "U09CUN9GYJ2",
+      "earned": 1157,
+      "spent": 1059,
+      "balance": 0
+    },
+    "U0APBPDH6UB": {
+      "id": "U0APBPDH6UB",
+      "earned": 1258,
+      "spent": 1255,
+      "balance": 13
+    },
+    "U0A736S1Z0X": {
+      "id": "U0A736S1Z0X",
+      "earned": 511,
+      "spent": 517,
+      "balance": 4
+    },
+    "U08CETDDGKF": {
+      "id": "U08CETDDGKF",
+      "earned": 0,
+      "spent": 2,
+      "balance": 8
+    },
+    "U0AJEH66TCJ": {
+      "id": "U0AJEH66TCJ",
+      "earned": 8819,
+      "spent": 10551,
+      "balance": 4
+    },
+    "U091Q2MS3T9": {
+      "id": "U091Q2MS3T9",
+      "earned": 2132,
+      "spent": 2051,
+      "balance": 91
+    },
+    "U0A1EN0P3K6": {
+      "id": "U0A1EN0P3K6",
+      "earned": 455,
+      "spent": 455,
+      "balance": 0
+    },
+    "U0AAN9NF75Z": {
+      "id": "U0AAN9NF75Z",
+      "earned": 700,
+      "spent": 532,
+      "balance": 239
+    },
+    "U08Q8UT01SB": {
+      "id": "U08Q8UT01SB",
+      "earned": 0,
+      "spent": 10,
+      "balance": 0
+    },
+    "U091Q6XL5R8": {
+      "id": "U091Q6XL5R8",
+      "earned": 18,
+      "spent": 10,
+      "balance": 8
+    },
+    "U0AKBAYNQSG": {
+      "id": "U0AKBAYNQSG",
+      "earned": 5,
+      "spent": 0,
+      "balance": 10
+    },
+    "U09PKSTFWKD": {
+      "id": "U09PKSTFWKD",
+      "earned": 10,
+      "spent": 20,
+      "balance": 0
+    },
+    "U099WS5V8HL": {
+      "id": "U099WS5V8HL",
+      "earned": 1156,
+      "spent": 1169,
+      "balance": 5
+    },
+    "U0ASKMDPXMW": {
+      "id": "U0ASKMDPXMW",
+      "earned": 9,
+      "spent": 10,
+      "balance": 4
+    },
+    "U0AJB081SHE": {
+      "id": "U0AJB081SHE",
+      "earned": 348,
+      "spent": 332,
+      "balance": 325
+    },
+    "U0A20TW38N7": {
+      "id": "U0A20TW38N7",
+      "earned": 10,
+      "spent": 0,
+      "balance": 20
+    },
+    "U0ARL72C9UK": {
+      "id": "U0ARL72C9UK",
+      "earned": 158,
+      "spent": 148,
+      "balance": 10
+    },
+    "U098H4ZCH7T": {
+      "id": "U098H4ZCH7T",
+      "earned": 624,
+      "spent": 612,
+      "balance": 22
+    },
+    "U0A52STQEKY": {
+      "id": "U0A52STQEKY",
+      "earned": 252,
+      "spent": 0,
+      "balance": 481
+    },
+    "U09F5047N30": {
+      "id": "U09F5047N30",
+      "earned": 184,
+      "spent": 200,
+      "balance": 0
+    },
+    "U09F3ADQWQ2": {
+      "id": "U09F3ADQWQ2",
+      "earned": 612,
+      "spent": 150,
+      "balance": 2511
+    },
+    "U0AT0DF1FUY": {
+      "id": "U0AT0DF1FUY",
+      "earned": 10,
+      "spent": 0,
+      "balance": 10
+    },
+    "U06C0TGFGVA": {
+      "id": "U06C0TGFGVA",
+      "earned": 197,
+      "spent": 247,
+      "balance": 7
+    },
+    "U0AQ6QQQRRS": {
+      "id": "U0AQ6QQQRRS",
+      "earned": 5,
+      "spent": 20,
+      "balance": 0
+    },
+    "U091NV97RRQ": {
+      "id": "U091NV97RRQ",
+      "earned": 10,
+      "spent": 0,
+      "balance": 10
+    },
+    "U0AB5MDF95Z": {
+      "id": "U0AB5MDF95Z",
+      "earned": 1288,
+      "spent": 1309,
+      "balance": 4
+    },
+    "U07VA44DNBA": {
+      "id": "U07VA44DNBA",
+      "earned": 60,
+      "spent": 0,
+      "balance": 60
+    },
+    "U0ASJ4U9UP6": {
+      "id": "U0ASJ4U9UP6",
+      "earned": 10,
+      "spent": 10,
+      "balance": 0
+    },
+    "U096YQZV3V0": {
+      "id": "U096YQZV3V0",
+      "earned": 144,
+      "spent": 530,
+      "balance": 38
+    },
+    "U097BTHKBSR": {
+      "id": "U097BTHKBSR",
+      "earned": 172,
+      "spent": 166,
+      "balance": 6
+    },
+    "U0ASB87SHFC": {
+      "id": "U0ASB87SHFC",
+      "earned": 143,
+      "spent": 113,
+      "balance": 50
+    },
+    "U0ATZUUH6RW": {
+      "id": "U0ATZUUH6RW",
+      "earned": 12,
+      "spent": 0,
+      "balance": 12
+    },
+    "U09DNUWLT32": {
+      "id": "U09DNUWLT32",
+      "earned": 42,
+      "spent": 70,
+      "balance": 0
+    },
+    "U078JE64Q8J": {
+      "id": "U078JE64Q8J",
+      "earned": 989,
+      "spent": 1004,
+      "balance": 0
+    },
+    "U0AJAB37BUK": {
+      "id": "U0AJAB37BUK",
+      "earned": 434,
+      "spent": 304,
+      "balance": 5
+    },
+    "U0AB7JAKMK6": {
+      "id": "U0AB7JAKMK6",
+      "earned": 629,
+      "spent": 637,
+      "balance": 2
+    },
+    "U081Z3UMK3P": {
+      "id": "U081Z3UMK3P",
+      "earned": 3324,
+      "spent": 3374,
+      "balance": 28
+    },
+    "U08EGTXVCFR": {
+      "id": "U08EGTXVCFR",
+      "earned": 2,
+      "spent": 0,
+      "balance": 2
+    },
+    "U09FWASTF4P": {
+      "id": "U09FWASTF4P",
+      "earned": 80,
+      "spent": 76,
+      "balance": 4
+    },
+    "U09267WCH1Q": {
+      "id": "U09267WCH1Q",
+      "earned": 3294,
+      "spent": 3306,
+      "balance": 0
+    },
+    "U0826VDTK4K": {
+      "id": "U0826VDTK4K",
+      "earned": 25,
+      "spent": 20,
+      "balance": 107
+    },
+    "U095P85FLHM": {
+      "id": "U095P85FLHM",
+      "earned": 19107,
+      "spent": 19117,
+      "balance": 0
+    },
+    "U082WTQLCVA": {
+      "id": "U082WTQLCVA",
+      "earned": 0,
+      "spent": 8,
+      "balance": 0
+    },
+    "U0ARVE5GQLX": {
+      "id": "U0ARVE5GQLX",
+      "earned": 7,
+      "spent": 17,
+      "balance": 0
+    },
+    "U09B5BQ0T8W": {
+      "id": "U09B5BQ0T8W",
+      "earned": 2,
+      "spent": 0,
+      "balance": 7
+    },
+    "U0AV9BD4PJM": {
+      "id": "U0AV9BD4PJM",
+      "earned": 5,
+      "spent": 0,
+      "balance": 5
+    },
+    "U0AF7QR9J77": {
+      "id": "U0AF7QR9J77",
+      "earned": 442,
+      "spent": 476,
+      "balance": 50
+    },
+    "U092CF15SBX": {
+      "id": "U092CF15SBX",
+      "earned": 5,
+      "spent": 0,
+      "balance": 15
+    },
+    "U079MU5B5R6": {
+      "id": "U079MU5B5R6",
+      "earned": 451,
+      "spent": 464,
+      "balance": 0
+    },
+    "U0A4DAT0YEB": {
+      "id": "U0A4DAT0YEB",
+      "earned": 40,
+      "spent": 0,
+      "balance": 50
+    },
+    "U09598RQAL9": {
+      "id": "U09598RQAL9",
+      "earned": 20,
+      "spent": 20,
+      "balance": 0
+    },
+    "U082JM36NQH": {
+      "id": "U082JM36NQH",
+      "earned": 11,
+      "spent": 0,
+      "balance": 13
+    },
+    "U07F2QA059B": {
+      "id": "U07F2QA059B",
+      "earned": 209,
+      "spent": 0,
+      "balance": 294
+    },
+    "U099EPG0414": {
+      "id": "U099EPG0414",
+      "earned": 42,
+      "spent": 40,
+      "balance": 2
+    },
+    "U0AUV5ZBLTX": {
+      "id": "U0AUV5ZBLTX",
+      "earned": 10,
+      "spent": 10,
+      "balance": 0
+    },
+    "U084193LCRL": {
+      "id": "U084193LCRL",
+      "earned": 0,
+      "spent": 10,
+      "balance": 6
+    },
+    "U09F3CM1C9E": {
+      "id": "U09F3CM1C9E",
+      "earned": 875,
+      "spent": 466,
+      "balance": 427
+    },
+    "U0AG55K6B89": {
+      "id": "U0AG55K6B89",
+      "earned": 133,
+      "spent": 138,
+      "balance": 7
+    },
+    "U0AUWJ4S1HV": {
+      "id": "U0AUWJ4S1HV",
+      "earned": 10,
+      "spent": 10,
+      "balance": 0
+    },
+    "U09MHAS2PQR": {
+      "id": "U09MHAS2PQR",
+      "earned": 49,
+      "spent": 66,
+      "balance": 0
+    },
+    "U0AB1DZUF3J": {
+      "id": "U0AB1DZUF3J",
+      "earned": 219,
+      "spent": 179,
+      "balance": 10
+    },
+    "U07991562L9": {
+      "id": "U07991562L9",
+      "earned": 0,
+      "spent": 10,
+      "balance": 0
+    },
+    "U0A82HNAGPK": {
+      "id": "U0A82HNAGPK",
+      "earned": 27,
+      "spent": 35,
+      "balance": 2
+    },
+    "U091DE0M4NB": {
+      "id": "U091DE0M4NB",
+      "earned": 0,
+      "spent": 10,
+      "balance": 0
+    },
+    "U0AQ63QT6BT": {
+      "id": "U0AQ63QT6BT",
+      "earned": 10,
+      "spent": 20,
+      "balance": 0
+    },
+    "U09E31MQWEN": {
+      "id": "U09E31MQWEN",
+      "earned": 70,
+      "spent": 44,
+      "balance": 26
+    },
+    "U0A78GVBG0L": {
+      "id": "U0A78GVBG0L",
+      "earned": 0,
+      "spent": 10,
+      "balance": 5
+    },
+    "U0A6APH8XRD": {
+      "id": "U0A6APH8XRD",
+      "earned": 5,
+      "spent": 1,
+      "balance": 4
+    },
+    "U0AP1SSN0EA": {
+      "id": "U0AP1SSN0EA",
+      "earned": 145,
+      "spent": 146,
+      "balance": 4
+    },
+    "U07981R1140": {
+      "id": "U07981R1140",
+      "earned": 0,
+      "spent": 10,
+      "balance": 0
+    },
+    "U0ANSSKETLL": {
+      "id": "U0ANSSKETLL",
+      "earned": 122,
+      "spent": 140,
+      "balance": 8
+    },
+    "U08372TGKMF": {
+      "id": "U08372TGKMF",
+      "earned": 2361,
+      "spent": 4719,
+      "balance": 12
+    },
+    "U0AGMD08J3D": {
+      "id": "U0AGMD08J3D",
+      "earned": 34,
+      "spent": 203,
+      "balance": 15
+    },
+    "U0AH9A0AK4K": {
+      "id": "U0AH9A0AK4K",
+      "earned": 2,
+      "spent": 0,
+      "balance": 58
+    },
+    "U0AJRQ48LF3": {
+      "id": "U0AJRQ48LF3",
+      "earned": 0,
+      "spent": 13,
+      "balance": 0
+    },
+    "U08PYENP7N0": {
+      "id": "U08PYENP7N0",
+      "earned": 837,
+      "spent": 2493,
+      "balance": 0
+    },
+    "U0AMNA5MK7C": {
+      "id": "U0AMNA5MK7C",
+      "earned": 83,
+      "spent": 90,
+      "balance": 0
+    },
+    "U0AHJFXPFS7": {
+      "id": "U0AHJFXPFS7",
+      "earned": 0,
+      "spent": 10,
+      "balance": 0
+    },
+    "U0AJJCV94PK": {
+      "id": "U0AJJCV94PK",
+      "earned": 329,
+      "spent": 350,
+      "balance": 12
+    },
+    "U0A8U3PNHED": {
+      "id": "U0A8U3PNHED",
+      "earned": 0,
+      "spent": 33,
+      "balance": 0
+    },
+    "U08235XP5JP": {
+      "id": "U08235XP5JP",
+      "earned": 259,
+      "spent": 263,
+      "balance": 3
+    },
+    "U0AH8GL4P2B": {
+      "id": "U0AH8GL4P2B",
+      "earned": 15,
+      "spent": 10,
+      "balance": 5
+    },
+    "U0ASWDTJS05": {
+      "id": "U0ASWDTJS05",
+      "earned": 5,
+      "spent": 0,
+      "balance": 10
+    },
+    "U01PJ08PR7S": {
+      "id": "U01PJ08PR7S",
+      "earned": 10,
+      "spent": 0,
+      "balance": 10
+    },
+    "U0ANYRADCLR": {
+      "id": "U0ANYRADCLR",
+      "earned": 1397,
+      "spent": 1440,
+      "balance": 0
+    },
+    "U091PBTCVDZ": {
+      "id": "U091PBTCVDZ",
+      "earned": 3,
+      "spent": 0,
+      "balance": 13
+    },
+    "U0A5HTA0V9A": {
+      "id": "U0A5HTA0V9A",
+      "earned": 3,
+      "spent": 0,
+      "balance": 40
+    },
+    "U081ZC7ES30": {
+      "id": "U081ZC7ES30",
+      "earned": 120,
+      "spent": 87,
+      "balance": 33
+    },
+    "U0A9N0L5B54": {
+      "id": "U0A9N0L5B54",
+      "earned": 0,
+      "spent": 57,
+      "balance": 0
+    }
+  },
+  "lastTs": "1778145948.567259"
 }
