@@ -13,18 +13,21 @@
       <p>A public tracker showing the total cookies earned and spent by the community.</p>
     </header>
 
+    <div class="controls"><input type="text" id="search-input" placeholder="Search by Name or ID..."></div>
+
     <div class="table-container">
       <table id="ledger-table">
         <thead>
           <tr>
             <th>Slack User ID</th>
+            <th>Name</th>
             <th class="sortable active" data-sort="earned">Total Earned ▼</th>
             <th class="sortable" data-sort="spent">Total Spent</th>
             <th class="sortable" data-sort="balance">Current Balance</th>
           </tr>
         </thead>
         <tbody id="ledger-body">
-          <tr><td colspan="4" class="loading">Loading ledger data...</td></tr>
+          <tr><td colspan="5" class="loading">Loading ledger data...</td></tr>
         </tbody>
       </table>
     </div>

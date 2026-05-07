@@ -61,6 +61,7 @@ async function main() {
       console.error("Failed to parse data.json, starting fresh.");
     }
   }
+  ledger.userNames = ledger.userNames || {};
 
   console.log(`Fetching messages newer than timestamp: ${ledger.lastTs}`);
   const messages = await fetchSlackHistory(ledger.lastTs);
@@ -69,7 +70,8 @@ async function main() {
   let maxTs = parseFloat(ledger.lastTs);
 
   // Process messages chronologically (oldest to newest)
-  messages.sort((a, b) => parseFloat(a.ts) - parseFloat(b.ts)).forEach(msg => {
+  const sortedMessages = messages.sort((a, b) => parseFloat(a.ts) - parseFloat(b.ts));
+  for (const msg of sortedMessages) {
     const ts = parseFloat(msg.ts);
     if (ts > maxTs) maxTs = ts;
 
@@ -91,13 +93,29 @@ async function main() {
       if (mentionMatch) {
         userId = mentionMatch[1];
       }
+
+      if ((userId.startsWith('U') || userId.startsWith('W')) && !ledger.userNames[userId]) {
+        const userInfoUrl = new URL('https://slack.com/api/users.info');
+        userInfoUrl.searchParams.append('user', userId);
+        const userInfoRes = await fetch(userInfoUrl, {
+          headers: { 'Authorization': `Bearer ${SLACK_TOKEN}` }
+        });
+        const userInfoData = await userInfoRes.json();
+        if (userInfoData.ok && userInfoData.user) {
+          ledger.userNames[userId] = userInfoData.user.profile?.display_name || userInfoData.user.profile?.real_name || userInfoData.user.name || userId;
+        } else {
+          ledger.userNames[userId] = userId;
+        }
+      }
       
       const delta = parseInt(match[2], 10);
       const balance = parseInt(match[4], 10);
 
       if (!ledger.users[userId]) {
-        ledger.users[userId] = { id: userId, earned: 0, spent: 0, balance: 0 };
+        ledger.users[userId] = { id: userId, name: ledger.userNames[userId] || userId, earned: 0, spent: 0, balance: 0 };
       }
+
+      ledger.users[userId].name = ledger.userNames[userId] || userId;
 
       if (delta > 0) {
         ledger.users[userId].earned += delta;
@@ -108,7 +126,7 @@ async function main() {
       // Always update the balance to the latest known state
       ledger.users[userId].balance = balance;
     }
-  });
+  }
 
   ledger.lastTs = maxTs.toString();
   
