@@ -244,9 +244,10 @@
     },
     "U099JENAUGP": {
       "id": "U099JENAUGP",
-      "earned": 1293,
+      "earned": 1298,
       "spent": 1308,
-      "balance": 0
+      "balance": 5,
+      "name": "U099JENAUGP"
     },
     "U088A4UDCAJ": {
       "id": "U088A4UDCAJ",
@@ -543,9 +544,9 @@
     },
     "U0A4N2K2P8T": {
       "id": "U0A4N2K2P8T",
-      "earned": 5129,
+      "earned": 5139,
       "spent": 3254,
-      "balance": 1875,
+      "balance": 1885,
       "name": "U0A4N2K2P8T"
     },
     "U0A60NZQCTA": {
@@ -4312,8 +4313,8 @@
     "U0824G9PTFE": {
       "id": "U0824G9PTFE",
       "earned": 6372,
-      "spent": 3779,
-      "balance": 2608,
+      "spent": 6279,
+      "balance": 108,
       "name": "U0824G9PTFE"
     },
     "U0A1JP5Q3JP": {
@@ -6611,7 +6612,7 @@
       "balance": 0
     }
   },
-  "lastTs": "1778193662.055259",
+  "lastTs": "1778196392.602649",
   "userNames": {
     "U0A1K3P66FP": "U0A1K3P66FP",
     "U091SE37HUN": "U091SE37HUN",
@@ -6664,6 +6665,7 @@
     "U0A0G70UTAS": "U0A0G70UTAS",
     "U08HYM19NJE": "U08HYM19NJE",
     "U091WRF4B3L": "U091WRF4B3L",
-    "U07DY3SJXK3": "U07DY3SJXK3"
+    "U07DY3SJXK3": "U07DY3SJXK3",
+    "U099JENAUGP": "U099JENAUGP"
   }
 }
