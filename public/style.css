@@ -39,6 +39,27 @@ p {
   margin: 0;
 }
 
+.controls {
+  margin-bottom: 16px;
+}
+
+#search-input {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 12px 14px;
+  border: 1px solid var(--border-color);
+  border-radius: 10px;
+  font-size: 1rem;
+  color: var(--text-primary);
+  background: var(--surface-color);
+  outline: none;
+}
+
+#search-input:focus {
+  border-color: var(--accent-color);
+  box-shadow: 0 0 0 3px rgba(229, 141, 50, 0.15);
+}
+
 .table-container {
   background: var(--surface-color);
   border-radius: 12px;
