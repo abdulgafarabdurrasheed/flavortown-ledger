@@ -285,8 +285,8 @@
     "U0842GMRJKC": {
       "id": "U0842GMRJKC",
       "earned": 9337,
-      "spent": 8233,
-      "balance": 1130,
+      "spent": 8683,
+      "balance": 680,
       "name": "U0842GMRJKC"
     },
     "U091L1X1XBM": {
@@ -358,9 +358,10 @@
     },
     "U0A4UTULSLE": {
       "id": "U0A4UTULSLE",
-      "earned": 4286,
+      "earned": 4335,
       "spent": 4010,
-      "balance": 276
+      "balance": 325,
+      "name": "U0A4UTULSLE"
     },
     "U0A56CA6YD9": {
       "id": "U0A56CA6YD9",
@@ -691,8 +692,9 @@
     "U09F6QRGD9T": {
       "id": "U09F6QRGD9T",
       "earned": 164,
-      "spent": 165,
-      "balance": 9
+      "spent": 174,
+      "balance": 0,
+      "name": "U09F6QRGD9T"
     },
     "U08D22QNUVD": {
       "id": "U08D22QNUVD",
@@ -961,8 +963,9 @@
     "U09EB9V2NBB": {
       "id": "U09EB9V2NBB",
       "earned": 2473,
-      "spent": 2476,
-      "balance": 7
+      "spent": 2483,
+      "balance": 0,
+      "name": "U09EB9V2NBB"
     },
     "U09NDAS62J3": {
       "id": "U09NDAS62J3",
@@ -2092,8 +2095,9 @@
     "U09GMGHJLHW": {
       "id": "U09GMGHJLHW",
       "earned": 33,
-      "spent": 60,
-      "balance": 1
+      "spent": 61,
+      "balance": 0,
+      "name": "U09GMGHJLHW"
     },
     "U0A83D4UKDW": {
       "id": "U0A83D4UKDW",
@@ -2355,9 +2359,10 @@
     },
     "U07H3E1CW7J": {
       "id": "U07H3E1CW7J",
-      "earned": 259,
+      "earned": 338,
       "spent": 0,
-      "balance": 259
+      "balance": 338,
+      "name": "U07H3E1CW7J"
     },
     "U0A7KLAGP89": {
       "id": "U0A7KLAGP89",
@@ -3108,8 +3113,9 @@
     "U09BSMKPT7Y": {
       "id": "U09BSMKPT7Y",
       "earned": 5194,
-      "spent": 3707,
-      "balance": 1
+      "spent": 3708,
+      "balance": 0,
+      "name": "U09BSMKPT7Y"
     },
     "U0A9V6R0AJD": {
       "id": "U0A9V6R0AJD",
@@ -3675,8 +3681,8 @@
     "U0823APHVK7": {
       "id": "U0823APHVK7",
       "earned": 7118,
-      "spent": 3540,
-      "balance": 3588,
+      "spent": 3940,
+      "balance": 3188,
       "name": "U0823APHVK7"
     },
     "U0864RMD6BE": {
@@ -4012,8 +4018,9 @@
     "U078G7DML8P": {
       "id": "U078G7DML8P",
       "earned": 4024,
-      "spent": 3741,
-      "balance": 293
+      "spent": 4001,
+      "balance": 33,
+      "name": "U078G7DML8P"
     },
     "U0ADNCEM4TA": {
       "id": "U0ADNCEM4TA",
@@ -4138,8 +4145,9 @@
     "U09Q2TN62TV": {
       "id": "U09Q2TN62TV",
       "earned": 325,
-      "spent": 334,
-      "balance": 1
+      "spent": 335,
+      "balance": 0,
+      "name": "U09Q2TN62TV"
     },
     "U0A9XQ69GAJ": {
       "id": "U0A9XQ69GAJ",
@@ -4536,8 +4544,9 @@
     "U08SBBPH8UC": {
       "id": "U08SBBPH8UC",
       "earned": 2997,
-      "spent": 2772,
-      "balance": 230
+      "spent": 2988,
+      "balance": 14,
+      "name": "U08SBBPH8UC"
     },
     "U0A848RGULQ": {
       "id": "U0A848RGULQ",
@@ -6520,8 +6529,9 @@
     "U0AJJCV94PK": {
       "id": "U0AJJCV94PK",
       "earned": 329,
-      "spent": 350,
-      "balance": 12
+      "spent": 362,
+      "balance": 0,
+      "name": "U0AJJCV94PK"
     },
     "U0A8U3PNHED": {
       "id": "U0A8U3PNHED",
@@ -6584,7 +6594,7 @@
       "balance": 0
     }
   },
-  "lastTs": "1778169759.748399",
+  "lastTs": "1778177504.107869",
   "userNames": {
     "U0A1K3P66FP": "U0A1K3P66FP",
     "U091SE37HUN": "U091SE37HUN",
@@ -6610,6 +6620,16 @@
     "U0AMMB5DG15": "U0AMMB5DG15",
     "U0AHQEPUQ7R": "U0AHQEPUQ7R",
     "U0823APHVK7": "U0823APHVK7",
-    "U0829HRSQ76": "U0829HRSQ76"
+    "U0829HRSQ76": "U0829HRSQ76",
+    "U07H3E1CW7J": "U07H3E1CW7J",
+    "U09EB9V2NBB": "U09EB9V2NBB",
+    "U09BSMKPT7Y": "U09BSMKPT7Y",
+    "U08SBBPH8UC": "U08SBBPH8UC",
+    "U09GMGHJLHW": "U09GMGHJLHW",
+    "U0AJJCV94PK": "U0AJJCV94PK",
+    "U09F6QRGD9T": "U09F6QRGD9T",
+    "U09Q2TN62TV": "U09Q2TN62TV",
+    "U078G7DML8P": "U078G7DML8P",
+    "U0A4UTULSLE": "U0A4UTULSLE"
   }
 }
