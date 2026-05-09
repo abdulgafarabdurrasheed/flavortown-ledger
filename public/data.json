@@ -3771,8 +3771,8 @@
     "U090LAT6QKB": {
       "id": "U090LAT6QKB",
       "earned": 5198,
-      "spent": 5152,
-      "balance": 56,
+      "spent": 5208,
+      "balance": 0,
       "name": "U090LAT6QKB"
     },
     "U0A7A7TT28L": {
@@ -6712,7 +6712,7 @@
       "balance": 40
     }
   },
-  "lastTs": "1778359203.684429",
+  "lastTs": "1778365051.132579",
   "userNames": {
     "U0A1K3P66FP": "U0A1K3P66FP",
     "U091SE37HUN": "U091SE37HUN",
