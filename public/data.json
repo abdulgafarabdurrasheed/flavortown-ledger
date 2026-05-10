@@ -4593,8 +4593,8 @@
     "U0616280E6P": {
       "id": "U0616280E6P",
       "earned": 4628,
-      "spent": 4590,
-      "balance": 38,
+      "spent": 4628,
+      "balance": 0,
       "name": "U0616280E6P"
     },
     "U091ZF0JNBG": {
@@ -6716,7 +6716,7 @@
       "balance": 40
     }
   },
-  "lastTs": "1778436494.639549",
+  "lastTs": "1778445011.660889",
   "userNames": {
     "U0A1K3P66FP": "U0A1K3P66FP",
     "U091SE37HUN": "U091SE37HUN",
