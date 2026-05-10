@@ -4518,8 +4518,8 @@
     "U07ES48RES3": {
       "id": "U07ES48RES3",
       "earned": 13622,
-      "spent": 13367,
-      "balance": 265,
+      "spent": 13627,
+      "balance": 5,
       "name": "U07ES48RES3"
     },
     "U091SN3UVMJ": {
@@ -6716,7 +6716,7 @@
       "balance": 40
     }
   },
-  "lastTs": "1778433229.031749",
+  "lastTs": "1778436494.639549",
   "userNames": {
     "U0A1K3P66FP": "U0A1K3P66FP",
     "U091SE37HUN": "U091SE37HUN",
