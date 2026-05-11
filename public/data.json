@@ -2700,8 +2700,8 @@
     "U085HNYPWLT": {
       "id": "U085HNYPWLT",
       "earned": 6402,
-      "spent": 3642,
-      "balance": 2760,
+      "spent": 6402,
+      "balance": 0,
       "name": "U085HNYPWLT"
     },
     "U0A6TJASGQP": {
@@ -6727,7 +6727,7 @@
       "balance": 10
     }
   },
-  "lastTs": "1778506936.518509",
+  "lastTs": "1778507030.371299",
   "userNames": {
     "U0A1K3P66FP": "U0A1K3P66FP",
     "U091SE37HUN": "U091SE37HUN",
