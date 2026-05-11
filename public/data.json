@@ -3350,8 +3350,8 @@
     "U091KALMG3Y": {
       "id": "U091KALMG3Y",
       "earned": 13792,
-      "spent": 13553,
-      "balance": 183,
+      "spent": 13729,
+      "balance": 7,
       "name": "U091KALMG3Y"
     },
     "U07GV6PJU57": {
@@ -6730,7 +6730,7 @@
       "balance": 10
     }
   },
-  "lastTs": "1778534960.114519",
+  "lastTs": "1778543520.866669",
   "userNames": {
     "U0A1K3P66FP": "U0A1K3P66FP",
     "U091SE37HUN": "U091SE37HUN",
