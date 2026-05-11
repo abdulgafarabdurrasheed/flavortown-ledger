@@ -4831,8 +4831,9 @@
     "U0A3Z38JJMV": {
       "id": "U0A3Z38JJMV",
       "earned": 761,
-      "spent": 23,
-      "balance": 763
+      "spent": 707,
+      "balance": 79,
+      "name": "U0A3Z38JJMV"
     },
     "U0A3WSNS56Y": {
       "id": "U0A3WSNS56Y",
@@ -6729,7 +6730,7 @@
       "balance": 10
     }
   },
-  "lastTs": "1778518272.095249",
+  "lastTs": "1778534960.114519",
   "userNames": {
     "U0A1K3P66FP": "U0A1K3P66FP",
     "U091SE37HUN": "U091SE37HUN",
@@ -6876,6 +6877,7 @@
     "U07R8F5H56U": "U07R8F5H56U",
     "U085HNYPWLT": "U085HNYPWLT",
     "U0A4H78N1BR": "U0A4H78N1BR",
-    "U0A75AZ7ZJN": "U0A75AZ7ZJN"
+    "U0A75AZ7ZJN": "U0A75AZ7ZJN",
+    "U0A3Z38JJMV": "U0A3Z38JJMV"
   }
 }
