@@ -2970,8 +2970,8 @@
     "U0905G0BRU5": {
       "id": "U0905G0BRU5",
       "earned": 8231,
-      "spent": 7805,
-      "balance": 431,
+      "spent": 8120,
+      "balance": 116,
       "name": "U0905G0BRU5"
     },
     "U0A6U1V879V": {
@@ -6747,7 +6747,7 @@
       "balance": 10
     }
   },
-  "lastTs": "1778739155.225769",
+  "lastTs": "1778750689.027449",
   "userNames": {
     "U0A1K3P66FP": "U0A1K3P66FP",
     "U091SE37HUN": "U091SE37HUN",
