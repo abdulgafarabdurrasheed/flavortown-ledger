@@ -3934,8 +3934,8 @@
     "U0AAQNYGZV3": {
       "id": "U0AAQNYGZV3",
       "earned": 1287,
-      "spent": 0,
-      "balance": 1313,
+      "spent": 1305,
+      "balance": 8,
       "name": "U0AAQNYGZV3"
     },
     "U07D53W8L6R": {
@@ -6748,7 +6748,7 @@
       "balance": 10
     }
   },
-  "lastTs": "1778760974.267329",
+  "lastTs": "1778781199.610169",
   "userNames": {
     "U0A1K3P66FP": "U0A1K3P66FP",
     "U091SE37HUN": "U091SE37HUN",
