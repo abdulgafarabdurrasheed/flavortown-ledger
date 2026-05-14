@@ -738,8 +738,8 @@
     "U08B60DCYG2": {
       "id": "U08B60DCYG2",
       "earned": 152,
-      "spent": 143,
-      "balance": 19,
+      "spent": 162,
+      "balance": 0,
       "name": "U08B60DCYG2"
     },
     "U091HBJLQS2": {
@@ -6748,7 +6748,7 @@
       "balance": 10
     }
   },
-  "lastTs": "1778781199.610169",
+  "lastTs": "1778789743.017919",
   "userNames": {
     "U0A1K3P66FP": "U0A1K3P66FP",
     "U091SE37HUN": "U091SE37HUN",
