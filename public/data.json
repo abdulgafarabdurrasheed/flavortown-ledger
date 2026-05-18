@@ -371,8 +371,8 @@
     "U0A4UTULSLE": {
       "id": "U0A4UTULSLE",
       "earned": 4505,
-      "spent": 4469,
-      "balance": 36,
+      "spent": 4494,
+      "balance": 11,
       "name": "U0A4UTULSLE"
     },
     "U0A56CA6YD9": {
@@ -6751,7 +6751,7 @@
       "balance": 10
     }
   },
-  "lastTs": "1779033101.904219",
+  "lastTs": "1779064398.604239",
   "userNames": {
     "U0A1K3P66FP": "U0A1K3P66FP",
     "U091SE37HUN": "U091SE37HUN",
