@@ -6499,9 +6499,9 @@
     },
     "U07F2QA059B": {
       "id": "U07F2QA059B",
-      "earned": 4848,
-      "spent": 0,
-      "balance": 4933,
+      "earned": 8348,
+      "spent": 8316,
+      "balance": 117,
       "name": "U07F2QA059B"
     },
     "U099EPG0414": {
@@ -6754,7 +6754,7 @@
       "balance": 10
     }
   },
-  "lastTs": "1779170270.953629",
+  "lastTs": "1779208165.267129",
   "userNames": {
     "U0A1K3P66FP": "U0A1K3P66FP",
     "U091SE37HUN": "U091SE37HUN",
