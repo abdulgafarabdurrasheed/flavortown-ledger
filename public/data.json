@@ -656,8 +656,8 @@
     "U09N16WM1K2": {
       "id": "U09N16WM1K2",
       "earned": 2058,
-      "spent": 0,
-      "balance": 2068,
+      "spent": 2023,
+      "balance": 45,
       "name": "U09N16WM1K2"
     },
     "U07BMK9NSDB": {
@@ -1063,9 +1063,10 @@
     },
     "U07AJUFQ4U8": {
       "id": "U07AJUFQ4U8",
-      "earned": 48,
+      "earned": 117,
       "spent": 0,
-      "balance": 48
+      "balance": 117,
+      "name": "U07AJUFQ4U8"
     },
     "U099LHP1QKF": {
       "id": "U099LHP1QKF",
@@ -6754,7 +6755,7 @@
       "balance": 10
     }
   },
-  "lastTs": "1779220584.640339",
+  "lastTs": "1779248111.876999",
   "userNames": {
     "U0A1K3P66FP": "U0A1K3P66FP",
     "U091SE37HUN": "U091SE37HUN",
@@ -6926,6 +6927,7 @@
     "U07UH9DQA4B": "U07UH9DQA4B",
     "U0A9TGM769K": "U0A9TGM769K",
     "U07F2QA059B": "U07F2QA059B",
-    "U07AGEVSTD2": "U07AGEVSTD2"
+    "U07AGEVSTD2": "U07AGEVSTD2",
+    "U07AJUFQ4U8": "U07AJUFQ4U8"
   }
 }
