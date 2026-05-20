@@ -2060,8 +2060,8 @@
     "U092USL901G": {
       "id": "U092USL901G",
       "earned": 568,
-      "spent": 550,
-      "balance": 18,
+      "spent": 568,
+      "balance": 0,
       "name": "U092USL901G"
     },
     "U0A1YPP1334": {
@@ -3755,8 +3755,8 @@
     "U07960MD940": {
       "id": "U07960MD940",
       "earned": 185,
-      "spent": 0,
-      "balance": 198,
+      "spent": 180,
+      "balance": 18,
       "name": "U07960MD940"
     },
     "U0823APHVK7": {
@@ -6756,7 +6756,7 @@
       "balance": 10
     }
   },
-  "lastTs": "1779273445.163809",
+  "lastTs": "1779313678.573709",
   "userNames": {
     "U0A1K3P66FP": "U0A1K3P66FP",
     "U091SE37HUN": "U091SE37HUN",
