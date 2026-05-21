@@ -6754,9 +6754,16 @@
       "earned": 10,
       "spent": 0,
       "balance": 10
+    },
+    "U0AGPDBLN5N": {
+      "id": "U0AGPDBLN5N",
+      "name": "U0AGPDBLN5N",
+      "earned": 10,
+      "spent": 0,
+      "balance": 10
     }
   },
-  "lastTs": "1779338751.253859",
+  "lastTs": "1779343365.094739",
   "userNames": {
     "U0A1K3P66FP": "U0A1K3P66FP",
     "U091SE37HUN": "U091SE37HUN",
@@ -6930,6 +6937,7 @@
     "U07F2QA059B": "U07F2QA059B",
     "U07AGEVSTD2": "U07AGEVSTD2",
     "U07AJUFQ4U8": "U07AJUFQ4U8",
-    "U0A59T9AJBB": "U0A59T9AJBB"
+    "U0A59T9AJBB": "U0A59T9AJBB",
+    "U0AGPDBLN5N": "U0AGPDBLN5N"
   }
 }
