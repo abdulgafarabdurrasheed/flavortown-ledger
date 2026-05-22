@@ -1474,9 +1474,10 @@
     },
     "U0923KXMGUR": {
       "id": "U0923KXMGUR",
-      "earned": 2178,
+      "earned": 2534,
       "spent": 2076,
-      "balance": 102
+      "balance": 458,
+      "name": "U0923KXMGUR"
     },
     "U091KTCVBA8": {
       "id": "U091KTCVBA8",
@@ -6770,7 +6771,7 @@
       "balance": 10
     }
   },
-  "lastTs": "1779393513.046029",
+  "lastTs": "1779422510.023719",
   "userNames": {
     "U0A1K3P66FP": "U0A1K3P66FP",
     "U091SE37HUN": "U091SE37HUN",
@@ -6946,6 +6947,7 @@
     "U07AJUFQ4U8": "U07AJUFQ4U8",
     "U0A59T9AJBB": "U0A59T9AJBB",
     "U0AGPDBLN5N": "U0AGPDBLN5N",
-    "U0AGP5199TL": "U0AGP5199TL"
+    "U0AGP5199TL": "U0AGP5199TL",
+    "U0923KXMGUR": "U0923KXMGUR"
   }
 }
