@@ -508,8 +508,8 @@
     "U096QEL0W5U": {
       "id": "U096QEL0W5U",
       "earned": 3216,
-      "spent": 3020,
-      "balance": 196,
+      "spent": 3195,
+      "balance": 21,
       "name": "U096QEL0W5U"
     },
     "U0824382CPP": {
@@ -6779,7 +6779,7 @@
       "balance": 10
     }
   },
-  "lastTs": "1779546026.665089",
+  "lastTs": "1779548348.106719",
   "userNames": {
     "U0A1K3P66FP": "U0A1K3P66FP",
     "U091SE37HUN": "U091SE37HUN",
