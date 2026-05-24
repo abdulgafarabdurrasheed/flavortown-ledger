@@ -4582,8 +4582,8 @@
     "U07E8H9A24A": {
       "id": "U07E8H9A24A",
       "earned": 3467,
-      "spent": 3376,
-      "balance": 104,
+      "spent": 3478,
+      "balance": 2,
       "name": "U07E8H9A24A"
     },
     "U093T9H2431": {
@@ -6779,7 +6779,7 @@
       "balance": 10
     }
   },
-  "lastTs": "1779598622.356159",
+  "lastTs": "1779612124.886149",
   "userNames": {
     "U0A1K3P66FP": "U0A1K3P66FP",
     "U091SE37HUN": "U091SE37HUN",
