@@ -571,8 +571,8 @@
     "U091P2H4ZHR": {
       "id": "U091P2H4ZHR",
       "earned": 740,
-      "spent": 0,
-      "balance": 740,
+      "spent": 500,
+      "balance": 240,
       "name": "U091P2H4ZHR"
     },
     "U08HX6D4DMG": {
@@ -6789,7 +6789,7 @@
       "balance": 252
     }
   },
-  "lastTs": "1779639128.246679",
+  "lastTs": "1779649155.649659",
   "userNames": {
     "U0A1K3P66FP": "U0A1K3P66FP",
     "U091SE37HUN": "U091SE37HUN",
