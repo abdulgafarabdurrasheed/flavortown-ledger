@@ -6440,8 +6440,8 @@
     "U0826VDTK4K": {
       "id": "U0826VDTK4K",
       "earned": 7892,
-      "spent": 6374,
-      "balance": 1620,
+      "spent": 7993,
+      "balance": 1,
       "name": "U0826VDTK4K"
     },
     "U095P85FLHM": {
@@ -6792,7 +6792,7 @@
       "balance": 21
     }
   },
-  "lastTs": "1779723525.681719",
+  "lastTs": "1779737796.065309",
   "userNames": {
     "U0A1K3P66FP": "U0A1K3P66FP",
     "U091SE37HUN": "U091SE37HUN",
