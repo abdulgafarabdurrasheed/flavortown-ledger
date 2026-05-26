@@ -1232,8 +1232,8 @@
     "U091JJ2JF8E": {
       "id": "U091JJ2JF8E",
       "earned": 2567,
-      "spent": 2119,
-      "balance": 468,
+      "spent": 2587,
+      "balance": 0,
       "name": "U091JJ2JF8E"
     },
     "U0A04H3G3AP": {
@@ -6792,7 +6792,7 @@
       "balance": 21
     }
   },
-  "lastTs": "1779745331.595269",
+  "lastTs": "1779765690.413219",
   "userNames": {
     "U0A1K3P66FP": "U0A1K3P66FP",
     "U091SE37HUN": "U091SE37HUN",
