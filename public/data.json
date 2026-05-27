@@ -6008,9 +6008,9 @@
     },
     "U0A1K3P66FP": {
       "id": "U0A1K3P66FP",
-      "earned": 715,
-      "spent": 521,
-      "balance": 199,
+      "earned": 922,
+      "spent": 921,
+      "balance": 21,
       "name": "U0A1K3P66FP"
     },
     "U093MPT9FFX": {
@@ -6795,7 +6795,7 @@
       "balance": 21
     }
   },
-  "lastTs": "1779898385.135879",
+  "lastTs": "1779907011.070249",
   "userNames": {
     "U0A1K3P66FP": "U0A1K3P66FP",
     "U091SE37HUN": "U091SE37HUN",
