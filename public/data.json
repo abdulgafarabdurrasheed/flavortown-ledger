@@ -6487,8 +6487,8 @@
     "U092CF15SBX": {
       "id": "U092CF15SBX",
       "earned": 761,
-      "spent": 0,
-      "balance": 771,
+      "spent": 634,
+      "balance": 137,
       "name": "U092CF15SBX"
     },
     "U079MU5B5R6": {
@@ -6794,7 +6794,7 @@
       "balance": 21
     }
   },
-  "lastTs": "1779870006.929019",
+  "lastTs": "1779877501.116269",
   "userNames": {
     "U0A1K3P66FP": "U0A1K3P66FP",
     "U091SE37HUN": "U091SE37HUN",
