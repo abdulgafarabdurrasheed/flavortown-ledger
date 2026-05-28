@@ -4479,8 +4479,8 @@
     "U08R49H9VRV": {
       "id": "U08R49H9VRV",
       "earned": 1216,
-      "spent": 605,
-      "balance": 611,
+      "spent": 1216,
+      "balance": 0,
       "name": "U08R49H9VRV"
     },
     "U078KKF3R1Q": {
@@ -6796,7 +6796,7 @@
       "balance": 21
     }
   },
-  "lastTs": "1779976346.468179",
+  "lastTs": "1779982645.524479",
   "userNames": {
     "U0A1K3P66FP": "U0A1K3P66FP",
     "U091SE37HUN": "U091SE37HUN",
