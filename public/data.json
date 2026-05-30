@@ -2998,8 +2998,8 @@
     "U0A6U1V879V": {
       "id": "U0A6U1V879V",
       "earned": 5505,
-      "spent": 5504,
-      "balance": 27,
+      "spent": 5531,
+      "balance": 0,
       "name": "U0A6U1V879V"
     },
     "U06GL5GN8E6": {
@@ -4597,8 +4597,8 @@
     "U07E8H9A24A": {
       "id": "U07E8H9A24A",
       "earned": 3666,
-      "spent": 3656,
-      "balance": 23,
+      "spent": 3678,
+      "balance": 1,
       "name": "U07E8H9A24A"
     },
     "U093T9H2431": {
@@ -6805,7 +6805,7 @@
       "balance": 21
     }
   },
-  "lastTs": "1780120168.314639",
+  "lastTs": "1780129856.354819",
   "userNames": {
     "U0A1K3P66FP": "U0A1K3P66FP",
     "U091SE37HUN": "U091SE37HUN",
