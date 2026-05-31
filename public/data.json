@@ -3151,8 +3151,8 @@
     "U08NXJL86KT": {
       "id": "U08NXJL86KT",
       "earned": 2937,
-      "spent": 3112,
-      "balance": 7,
+      "spent": 3119,
+      "balance": 0,
       "name": "U08NXJL86KT"
     },
     "U091MNGNRA9": {
@@ -6806,7 +6806,7 @@
       "balance": 21
     }
   },
-  "lastTs": "1780241384.557329",
+  "lastTs": "1780249536.095729",
   "userNames": {
     "U0A1K3P66FP": "U0A1K3P66FP",
     "U091SE37HUN": "U091SE37HUN",
