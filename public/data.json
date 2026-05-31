@@ -3132,8 +3132,8 @@
     "U07AGEVSTD2": {
       "id": "U07AGEVSTD2",
       "earned": 3469,
-      "spent": 2568,
-      "balance": 901,
+      "spent": 3469,
+      "balance": 0,
       "name": "U07AGEVSTD2"
     },
     "U0A9A5S41PV": {
@@ -6806,7 +6806,7 @@
       "balance": 21
     }
   },
-  "lastTs": "1780249536.095729",
+  "lastTs": "1780257796.526679",
   "userNames": {
     "U0A1K3P66FP": "U0A1K3P66FP",
     "U091SE37HUN": "U091SE37HUN",
