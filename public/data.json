@@ -2147,8 +2147,8 @@
     "U08Q75EBX53": {
       "id": "U08Q75EBX53",
       "earned": 4092,
-      "spent": 3574,
-      "balance": 538,
+      "spent": 4089,
+      "balance": 23,
       "name": "U08Q75EBX53"
     },
     "U080DSMN3E1": {
@@ -6806,7 +6806,7 @@
       "balance": 21
     }
   },
-  "lastTs": "1780234228.652069",
+  "lastTs": "1780241384.557329",
   "userNames": {
     "U0A1K3P66FP": "U0A1K3P66FP",
     "U091SE37HUN": "U091SE37HUN",
