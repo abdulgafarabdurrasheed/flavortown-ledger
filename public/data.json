@@ -505,8 +505,8 @@
     "U08AT086H8E": {
       "id": "U08AT086H8E",
       "earned": 2327,
-      "spent": 2825,
-      "balance": 15,
+      "spent": 2840,
+      "balance": 0,
       "name": "U08AT086H8E"
     },
     "U096QEL0W5U": {
@@ -1842,8 +1842,8 @@
     "U0A778JGV18": {
       "id": "U0A778JGV18",
       "earned": 13463,
-      "spent": 13096,
-      "balance": 14,
+      "spent": 13110,
+      "balance": 0,
       "name": "U0A778JGV18"
     },
     "U09GKAWFFSB": {
@@ -2227,8 +2227,8 @@
     "U09HQH0PNEN": {
       "id": "U09HQH0PNEN",
       "earned": 1523,
-      "spent": 1515,
-      "balance": 18,
+      "spent": 1533,
+      "balance": 0,
       "name": "U09HQH0PNEN"
     },
     "U0A7U9ZSRN2": {
@@ -3297,8 +3297,8 @@
     "U0AB4DTU9CY": {
       "id": "U0AB4DTU9CY",
       "earned": 786,
-      "spent": 769,
-      "balance": 17,
+      "spent": 786,
+      "balance": 0,
       "name": "U0AB4DTU9CY"
     },
     "U0A4QJFJJSK": {
@@ -3782,8 +3782,8 @@
     "U0823APHVK7": {
       "id": "U0823APHVK7",
       "earned": 7315,
-      "spent": 7303,
-      "balance": 22,
+      "spent": 7325,
+      "balance": 0,
       "name": "U0823APHVK7"
     },
     "U0864RMD6BE": {
@@ -4661,8 +4661,8 @@
     "U078VEJRBR7": {
       "id": "U078VEJRBR7",
       "earned": 6116,
-      "spent": 5700,
-      "balance": 421,
+      "spent": 6121,
+      "balance": 0,
       "name": "U078VEJRBR7"
     },
     "U08SBBPH8UC": {
@@ -6806,7 +6806,7 @@
       "balance": 21
     }
   },
-  "lastTs": "1780417652.235169",
+  "lastTs": "1780538122.719389",
   "userNames": {
     "U0A1K3P66FP": "U0A1K3P66FP",
     "U091SE37HUN": "U091SE37HUN",
