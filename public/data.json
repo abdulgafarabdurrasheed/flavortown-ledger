@@ -6170,8 +6170,8 @@
     "U08RZJCGYSD": {
       "id": "U08RZJCGYSD",
       "earned": 825,
-      "spent": 629,
-      "balance": 206,
+      "spent": 835,
+      "balance": 0,
       "name": "U08RZJCGYSD"
     },
     "U088XSGAFA5": {
@@ -6807,7 +6807,7 @@
       "balance": 21
     }
   },
-  "lastTs": "1781179769.527669",
+  "lastTs": "1781185185.539159",
   "userNames": {
     "U0A1K3P66FP": "U0A1K3P66FP",
     "U091SE37HUN": "U091SE37HUN",
