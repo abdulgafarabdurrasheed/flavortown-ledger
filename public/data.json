@@ -4876,8 +4876,8 @@
     "U0A3Z38JJMV": {
       "id": "U0A3Z38JJMV",
       "earned": 1163,
-      "spent": 1186,
-      "balance": 2,
+      "spent": 1188,
+      "balance": 0,
       "name": "U0A3Z38JJMV"
     },
     "U0A3WSNS56Y": {
@@ -6808,7 +6808,7 @@
       "balance": 21
     }
   },
-  "lastTs": "1782836453.305259",
+  "lastTs": "1783286292.465139",
   "userNames": {
     "U0A1K3P66FP": "U0A1K3P66FP",
     "U091SE37HUN": "U091SE37HUN",
