@@ -4662,8 +4662,8 @@
     "U078VEJRBR7": {
       "id": "U078VEJRBR7",
       "earned": 6152,
-      "spent": 6121,
-      "balance": 36,
+      "spent": 6156,
+      "balance": 1,
       "name": "U078VEJRBR7"
     },
     "U08SBBPH8UC": {
@@ -6809,7 +6809,7 @@
       "balance": 21
     }
   },
-  "lastTs": "1787584285.737259",
+  "lastTs": "1787589899.300619",
   "userNames": {
     "U0A1K3P66FP": "U0A1K3P66FP",
     "U091SE37HUN": "U091SE37HUN",
