@@ -5194,8 +5194,9 @@
     "U0AJ2DDJ996": {
       "id": "U0AJ2DDJ996",
       "earned": 1823,
-      "spent": 140,
-      "balance": 1726
+      "spent": 1866,
+      "balance": 0,
+      "name": "U0AJ2DDJ996"
     },
     "U0AC0U1FRNW": {
       "id": "U0AC0U1FRNW",
@@ -6809,7 +6810,7 @@
       "balance": 21
     }
   },
-  "lastTs": "1787690843.702489",
+  "lastTs": "1789061649.096619",
   "userNames": {
     "U0A1K3P66FP": "U0A1K3P66FP",
     "U091SE37HUN": "U091SE37HUN",
@@ -7018,6 +7019,7 @@
     "U0A8U3PNHED": "U0A8U3PNHED",
     "U08RZJCGYSD": "U08RZJCGYSD",
     "U0A4VCLJC05": "U0A4VCLJC05",
-    "U0801PU0MTQ": "U0801PU0MTQ"
+    "U0801PU0MTQ": "U0801PU0MTQ",
+    "U0AJ2DDJ996": "U0AJ2DDJ996"
   }
 }
